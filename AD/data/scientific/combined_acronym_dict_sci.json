@@ -1,0 +1,6319 @@
+{
+    "POS": {
+        "part of speec": {
+            "partofspeec": [
+                "part of speec"
+            ]
+        },
+        "position": {
+            "position": [
+                "position",
+                "postag"
+            ]
+        },
+        "positive instances": {
+            "positiveinstances": [
+                "positive instances"
+            ]
+        },
+        "possessive": {
+            "possessive": [
+                "possessive"
+            ]
+        }
+    },
+    "PTB": {
+        "penn english treebank": {
+            "pennenglishtreebank": [
+                "penn english treebank",
+                "penn tree bank"
+            ]
+        }
+    },
+    "SPE": {
+        "sound pattern of english": {
+            "soundpatternofenglish": [
+                "sound pattern of english"
+            ]
+        },
+        "specific": {
+            "specific": [
+                "specific"
+            ]
+        }
+    },
+    "FC": {
+        "foot condition": {
+            "footcondition": [
+                "foot condition"
+            ]
+        },
+        "frequent candidates": {
+            "frequentcandidates": [
+                "frequent candidates"
+            ]
+        },
+        "functional composition": {
+            "functionalcomposition": [
+                "functional composition"
+            ]
+        }
+    },
+    "LF": {
+        "labelled f": {
+            "labelledf": [
+                "labelled f"
+            ]
+        },
+        "late fusion": {
+            "latefusion": [
+                "late fusion"
+            ]
+        },
+        "left": {
+            "left": [
+                "left"
+            ]
+        },
+        "lexical functions": {
+            "lexicalfunctions": [
+                "lexical functions"
+            ]
+        },
+        "log frequency": {
+            "logfrequency": [
+                "log frequency"
+            ]
+        },
+        "logical form": {
+            "logicalform": [
+                "logical form",
+                "logical forms",
+                "long form"
+            ]
+        }
+    },
+    "RLM": {
+        "recurrent language model": {
+            "recurrentlanguagemodel": [
+                "recurrent language model",
+                "review language model"
+            ]
+        }
+    },
+    "CR": {
+        "candidate rank": {
+            "candidaterank": [
+                "candidate rank"
+            ]
+        },
+        "canonical representative": {
+            "canonicalrepresentative": [
+                "canonical representative"
+            ]
+        },
+        "causal relations": {
+            "causalrelations": [
+                "causal relations",
+                "creation"
+            ]
+        },
+        "compression ratios": {
+            "compressionratios": [
+                "compression ratios"
+            ]
+        },
+        "conference r gistration": {
+            "conferencergistration": [
+                "conference r gistration",
+                "coreference resolution"
+            ]
+        },
+        "controlled requirements": {
+            "controlledrequirements": [
+                "controlled requirements",
+                "corequirement"
+            ]
+        },
+        "critical": {
+            "critical": [
+                "critical"
+            ]
+        }
+    },
+    "TE": {
+        "template element": {
+            "templateelement": [
+                "template element"
+            ]
+        },
+        "temporal expression": {
+            "temporalexpression": [
+                "temporal expression",
+                "term extraction"
+            ]
+        },
+        "term": {
+            "term": [
+                "term"
+            ]
+        },
+        "textual entailment": {
+            "textualentailment": [
+                "textual entailment"
+            ]
+        },
+        "translation equivalents": {
+            "translationequivalents": [
+                "translation equivalents",
+                "true equivalents"
+            ]
+        }
+    },
+    "QA": {
+        "question answering": {
+            "questionanswering": [
+                "question answering"
+            ]
+        }
+    },
+    "PC": {
+        "partially correct": {
+            "partiallycorrect": [
+                "partially correct"
+            ]
+        },
+        "pathway curation": {
+            "pathwaycuration": [
+                "pathway curation"
+            ]
+        },
+        "prepositional complement": {
+            "prepositionalcomplement": [
+                "prepositional complement"
+            ]
+        }
+    },
+    "SMT": {
+        "statistical machine translation": {
+            "statisticalmachinetranslation": [
+                "statistical machine translation",
+                "statistical mt systems"
+            ]
+        },
+        "statistical mt": {
+            "statisticalmt": [
+                "statistical mt"
+            ]
+        }
+    },
+    "ASR": {
+        "a speech recognizer": {
+            "aspeechrecognizer": [
+                "a speech recognizer"
+            ]
+        },
+        "automatic speech recognition": {
+            "automaticspeechrecognition": [
+                "automatic speech recognition"
+            ]
+        }
+    },
+    "SR": {
+        "search": {
+            "search": [
+                "search"
+            ]
+        },
+        "semantic class": {
+            "semanticclass": [
+                "semantic class",
+                "semantic relations",
+                "semantic roles"
+            ]
+        },
+        "semantic relatedness": {
+            "semanticrelatedness": [
+                "semantic relatedness"
+            ]
+        },
+        "separation ratio": {
+            "separationratio": [
+                "separation ratio",
+                "summarization ratio"
+            ]
+        },
+        "serbian": {
+            "serbian": [
+                "serbian"
+            ]
+        },
+        "speech recognition": {
+            "speechrecognition": [
+                "speech recognition"
+            ]
+        }
+    },
+    "MT": {
+        "machine trans lat ion": {
+            "machinetranslation": [
+                "machine trans lat ion",
+                "machine translat",
+                "machine translation",
+                "machine translation test"
+            ]
+        },
+        "madnani et": {
+            "madnaniet": [
+                "madnani et"
+            ]
+        },
+        "metathesaurus": {
+            "metathesaurus": [
+                "metathesaurus"
+            ]
+        }
+    },
+    "IO": {
+        "indirect objec": {
+            "indirectobjec": [
+                "indirect objec",
+                "indirect object"
+            ]
+        }
+    },
+    "ERG": {
+        "ergative": {
+            "ergative": [
+                "ergative"
+            ]
+        }
+    },
+    "CRF": {
+        "conditional random field": {
+            "conditionalrandomfield": [
+                "conditional random field",
+                "conditional random fields"
+            ]
+        },
+        "criminative training": {
+            "criminativetraining": [
+                "criminative training"
+            ]
+        }
+    },
+    "ATR": {
+        "atrans": {
+            "atrans": [
+                "atrans"
+            ]
+        },
+        "automatic term recognition": {
+            "automatictermrecognition": [
+                "automatic term recognition"
+            ]
+        }
+    },
+    "SRL": {
+        "semantic role labeler": {
+            "semanticrolelabeler": [
+                "semantic role labeler",
+                "semantic role labelling"
+            ]
+        }
+    },
+    "SVM": {
+        "support vector machine": {
+            "supportvectormachine": [
+                "support vector machine"
+            ]
+        }
+    },
+    "CN": {
+        "chinese language": {
+            "chineselanguage": [
+                "chinese language"
+            ]
+        },
+        "chinese person name": {
+            "chinesepersonname": [
+                "chinese person name"
+            ]
+        },
+        "common noun": {
+            "commonnoun": [
+                "common noun",
+                "common oun"
+            ]
+        },
+        "concept node": {
+            "conceptnode": [
+                "concept node"
+            ]
+        },
+        "confusion network": {
+            "confusionnetwork": [
+                "confusion network"
+            ]
+        },
+        "cotrain": {
+            "cotrain": [
+                "cotrain"
+            ]
+        }
+    },
+    "WEA": {
+        "eather": {
+            "eather": [
+                "eather"
+            ]
+        },
+        "weapon": {
+            "weapon": [
+                "weapon"
+            ]
+        }
+    },
+    "MO": {
+        "matched object": {
+            "matchedobject": [
+                "matched object",
+                "matched objects"
+            ]
+        },
+        "modifier": {
+            "modifier": [
+                "modifier"
+            ]
+        }
+    },
+    "OBJ": {
+        "object": {
+            "object": [
+                "object",
+                "objective"
+            ]
+        }
+    },
+    "CF": {
+        "certainty factor": {
+            "certaintyfactor": [
+                "certainty factor",
+                "context factor"
+            ]
+        },
+        "collaborative filtering": {
+            "collaborativefiltering": [
+                "collaborative filtering"
+            ]
+        },
+        "communicative function": {
+            "communicativefunction": [
+                "communicative function"
+            ]
+        },
+        "confidence": {
+            "confidence": [
+                "confidence"
+            ]
+        },
+        "corpus frequency": {
+            "corpusfrequency": [
+                "corpus frequency"
+            ]
+        },
+        "crowdflower": {
+            "crowdflower": [
+                "crowdflower"
+            ]
+        }
+    },
+    "CDC": {
+        "context dependent claim": {
+            "contextdependentclaim": [
+                "context dependent claim"
+            ]
+        },
+        "cross document coreference": {
+            "crossdocumentcoreference": [
+                "cross document coreference"
+            ]
+        }
+    },
+    "LM": {
+        "bigram model": {
+            "bigrammodel": [
+                "bigram model"
+            ]
+        },
+        "landmark": {
+            "landmark": [
+                "landmark",
+                "linear"
+            ]
+        },
+        "language mode": {
+            "languagemode": [
+                "language mode",
+                "language model",
+                "language modeling"
+            ]
+        },
+        "local minimum": {
+            "localminimum": [
+                "local minimum"
+            ]
+        }
+    },
+    "SDS": {
+        "spoken dialog system": {
+            "spokendialogsystem": [
+                "spoken dialog system",
+                "spoken dialogue system",
+                "spoken dialogue systems"
+            ]
+        }
+    },
+    "BS": {
+        "bacillus subtilis": {
+            "bacillussubtilis": [
+                "bacillus subtilis"
+            ]
+        },
+        "beam search": {
+            "beamsearch": [
+                "beam search"
+            ]
+        },
+        "bias": {
+            "bias": [
+                "bias"
+            ]
+        },
+        "scrollbw": {
+            "scrollbw": [
+                "scrollbw"
+            ]
+        }
+    },
+    "NLG": {
+        "natural language generation": {
+            "naturallanguagegeneration": [
+                "natural language generation"
+            ]
+        }
+    },
+    "MI": {
+        "multiple imputation": {
+            "multipleimputation": [
+                "multiple imputation",
+                "mutual information"
+            ]
+        }
+    },
+    "NER": {
+        "demonstratives": {
+            "demonstratives": [
+                "demonstratives"
+            ]
+        },
+        "named entity recogniser": {
+            "namedentityrecogniser": [
+                "named entity recogniser",
+                "named entity recognitio",
+                "named entity recognition",
+                "named entity recognizer"
+            ]
+        }
+    },
+    "NP": {
+        "n p": {
+            "np": [
+                "n p"
+            ]
+        },
+        "najprostsze": {
+            "najprostsze": [
+                "najprostsze"
+            ]
+        },
+        "named page": {
+            "namedpage": [
+                "named page"
+            ]
+        },
+        "noun  phrase": {
+            "nounphrase": [
+                "noun  phrase",
+                "noun phrase"
+            ]
+        }
+    },
+    "NPs": {
+        "npb nodes": {
+            "npbnodes": [
+                "npb nodes"
+            ]
+        },
+        "number of markables": {
+            "numberofmarkables": [
+                "number of markables"
+            ]
+        }
+    },
+    "NN": {
+        "native": {
+            "native": [
+                "native"
+            ]
+        },
+        "nearest neighbor": {
+            "nearestneighbor": [
+                "nearest neighbor"
+            ]
+        },
+        "neural network": {
+            "neuralnetwork": [
+                "neural network",
+                "neural networks"
+            ]
+        },
+        "noun": {
+            "noun": [
+                "noun",
+                "nouns"
+            ]
+        },
+        "singular or mass noun": {
+            "singularormassnoun": [
+                "singular or mass noun"
+            ]
+        }
+    },
+    "RI": {
+        "rand index": {
+            "randindex": [
+                "rand index"
+            ]
+        },
+        "random indexing": {
+            "randomindexing": [
+                "random indexing"
+            ]
+        }
+    },
+    "HT": {
+        "hashtag": {
+            "hashtag": [
+                "hashtag"
+            ]
+        },
+        "human transcription": {
+            "humantranscription": [
+                "human transcription"
+            ]
+        }
+    },
+    "CL": {
+        "chain length": {
+            "chainlength": [
+                "chain length"
+            ]
+        },
+        "chosen algorithms": {
+            "chosenalgorithms": [
+                "chosen algorithms"
+            ]
+        },
+        "class": {
+            "class": [
+                "class",
+                "clause"
+            ]
+        },
+        "classifier": {
+            "classifier": [
+                "classifier"
+            ]
+        },
+        "clitics": {
+            "clitics": [
+                "clitics"
+            ]
+        },
+        "closed": {
+            "closed": [
+                "closed"
+            ]
+        },
+        "computational linguistic": {
+            "computationallinguistic": [
+                "computational linguistic",
+                "computational linguistics"
+            ]
+        }
+    },
+    "AP": {
+        "absolute position": {
+            "absoluteposition": [
+                "absolute position",
+                "articlepreposition"
+            ]
+        },
+        "adverbial phrase": {
+            "adverbialphrase": [
+                "adverbial phrase"
+            ]
+        },
+        "agreement principle": {
+            "agreementprinciple": [
+                "agreement principle"
+            ]
+        },
+        "alveopalatal": {
+            "alveopalatal": [
+                "alveopalatal"
+            ]
+        },
+        "answer processing": {
+            "answerprocessing": [
+                "answer processing"
+            ]
+        },
+        "appropriate": {
+            "appropriate": [
+                "appropriate"
+            ]
+        },
+        "averaged perceptron": {
+            "averagedperceptron": [
+                "averaged perceptron"
+            ]
+        }
+    },
+    "PSD": {
+        "phrase sense disambiguation": {
+            "phrasesensedisambiguation": [
+                "phrase sense disambiguation",
+                "preposition sense disambiguation"
+            ]
+        }
+    },
+    "EC": {
+        "economics": {
+            "economics": [
+                "economics",
+                "economies"
+            ]
+        },
+        "english consonant": {
+            "englishconsonant": [
+                "english consonant",
+                "english contex"
+            ]
+        }
+    },
+    "CER": {
+        "character error rate": {
+            "charactererrorrate": [
+                "character error rate"
+            ]
+        },
+        "constant entropy rate": {
+            "constantentropyrate": [
+                "constant entropy rate"
+            ]
+        }
+    },
+    "PP": {
+        "parent": {
+            "parent": [
+                "parent",
+                "prep",
+                "prepo"
+            ]
+        },
+        "particle phrase": {
+            "particlephrase": [
+                "particle phrase",
+                "practical parser"
+            ]
+        },
+        "perplex": {
+            "perplex": [
+                "perplex",
+                "perplexity"
+            ]
+        },
+        "polarity": {
+            "polarity": [
+                "polarity"
+            ]
+        },
+        "prepositional phrase": {
+            "prepositionalphrase": [
+                "prepositional phrase"
+            ]
+        },
+        "productproducer": {
+            "productproducer": [
+                "productproducer"
+            ]
+        },
+        "proper part": {
+            "properpart": [
+                "proper part"
+            ]
+        }
+    },
+    "PPs": {
+        "prepositional phrase": {
+            "prepositionalphrase": [
+                "prepositional phrase"
+            ]
+        }
+    },
+    "MSR": {
+        "measures of semantic relatedness": {
+            "measuresofsemanticrelatedness": [
+                "measures of semantic relatedness"
+            ]
+        },
+        "microsoft research": {
+            "microsoftresearch": [
+                "microsoft research"
+            ]
+        }
+    },
+    "PRE": {
+        "po": {
+            "po": [
+                "po"
+            ]
+        },
+        "precision": {
+            "precision": [
+                "precision"
+            ]
+        }
+    },
+    "POBJ": {
+        "object of preposition": {
+            "objectofpreposition": [
+                "object of preposition",
+                "objects of prepositions"
+            ]
+        }
+    },
+    "FP": {
+        "false positive": {
+            "falsepositive": [
+                "false positive",
+                "false positives"
+            ]
+        },
+        "filled pause": {
+            "filledpause": [
+                "filled pause"
+            ]
+        }
+    },
+    "FN": {
+        "false negative": {
+            "falsenegative": [
+                "false negative",
+                "false negatives",
+                "false new"
+            ]
+        },
+        "following noun": {
+            "followingnoun": [
+                "following noun"
+            ]
+        },
+        "for per": {
+            "forper": [
+                "for per"
+            ]
+        },
+        "framenet": {
+            "framenet": [
+                "framenet"
+            ]
+        }
+    },
+    "HMM": {
+        "hidden markov model": {
+            "hiddenmarkovmodel": [
+                "hidden markov model"
+            ]
+        }
+    },
+    "HMMs": {
+        "hidden markov model": {
+            "hiddenmarkovmodel": [
+                "hidden markov model",
+                "markov models"
+            ]
+        }
+    },
+    "HDP": {
+        "cal dirichlet process": {
+            "caldirichletprocess": [
+                "cal dirichlet process",
+                "hierarchical dirichlet process"
+            ]
+        }
+    },
+    "MTurk": {
+        "amazons mechanical turk": {
+            "amazonsmechanicalturk": [
+                "amazons mechanical turk",
+                "mechanical turk1",
+                "mechanical turk2"
+            ]
+        }
+    },
+    "SLU": {
+        "spoken language understanding": {
+            "spokenlanguageunderstanding": [
+                "spoken language understanding"
+            ]
+        }
+    },
+    "ID": {
+        "identification": {
+            "identification": [
+                "identification"
+            ]
+        },
+        "immediate  dominance": {
+            "immediatedominance": [
+                "immediate  dominance",
+                "immediate dominance"
+            ]
+        },
+        "index": {
+            "index": [
+                "index"
+            ]
+        },
+        "infectious diseases": {
+            "infectiousdiseases": [
+                "infectious diseases"
+            ]
+        },
+        "information density": {
+            "informationdensity": [
+                "information density"
+            ]
+        },
+        "initial descr": {
+            "initialdescr": [
+                "initial descr"
+            ]
+        },
+        "is numbered": {
+            "isnumbered": [
+                "is numbered"
+            ]
+        }
+    },
+    "PA": {
+        "percent agreemen": {
+            "percentagreemen": [
+                "percent agreemen"
+            ]
+        },
+        "ph i lade lph ia": {
+            "philadelphia": [
+                "ph i lade lph ia",
+                "philadelphia"
+            ]
+        },
+        "phrase analysi": {
+            "phraseanalysi": [
+                "phrase analysi"
+            ]
+        },
+        "product attribut": {
+            "productattribut": [
+                "product attribut"
+            ]
+        }
+    },
+    "ACL": {
+        " ": {},
+        "approaches to semitic languages": {
+            "approachestosemiticlanguages": [
+                "approaches to semitic languages"
+            ]
+        },
+        "association for computational linguistics": {
+            "associationforcomputationallinguistics": [
+                "association for computational linguistics"
+            ]
+        }
+    },
+    "ME": {
+        "meaningful expression": {
+            "meaningfulexpression": [
+                "meaningful expression"
+            ]
+        },
+        "microelectronics": {
+            "microelectronics": [
+                "microelectronics"
+            ]
+        }
+    },
+    "NB": {
+        "naive baye": {
+            "naivebaye": [
+                "naive baye",
+                "naive bayes"
+            ]
+        }
+    },
+    "TREC": {
+        "text retrieval conference": {
+            "textretrievalconference": [
+                "text retrieval conference"
+            ]
+        }
+    },
+    "REF": {
+        "obj123": {
+            "obj123": [
+                "obj123"
+            ]
+        },
+        "reference": {
+            "reference": [
+                "reference",
+                "references"
+            ]
+        }
+    },
+    "VP": {
+        "v ": {
+            "v": [
+                "v "
+            ]
+        },
+        "vbp": {
+            "vbp": [
+                "vbp"
+            ]
+        },
+        "verb pair": {
+            "verbpair": [
+                "verb pair",
+                "verb phras",
+                "verb phrase"
+            ]
+        },
+        "verb phrases": {
+            "verbphrases": [
+                "verb phrases"
+            ]
+        },
+        "verbal parent": {
+            "verbalparent": [
+                "verbal parent"
+            ]
+        }
+    },
+    "UR": {
+        "uncontrolled": {
+            "uncontrolled": [
+                "uncontrolled"
+            ]
+        },
+        "unlabeled recall": {
+            "unlabeledrecall": [
+                "unlabeled recall"
+            ]
+        }
+    },
+    "UT": {
+        "universal tagset": {
+            "universaltagset": [
+                "universal tagset",
+                "universal theory"
+            ]
+        },
+        "utterance": {
+            "utterance": [
+                "utterance"
+            ]
+        }
+    },
+    "SU": {
+        "speech understanding": {
+            "speechunderstanding": [
+                "speech understanding"
+            ]
+        },
+        "system units": {
+            "systemunits": [
+                "system units"
+            ]
+        },
+        "system utterance": {
+            "systemutterance": [
+                "system utterance"
+            ]
+        }
+    },
+    "SUB": {
+        "substance": {
+            "substance": [
+                "substance"
+            ]
+        },
+        "substitution": {
+            "substitution": [
+                "substitution"
+            ]
+        }
+    },
+    "ANOVA": {
+        "analysis of variance": {
+            "analysisofvariance": [
+                "analysis of variance"
+            ]
+        }
+    },
+    "DA": {
+        "da": {
+            "da": [
+                "da"
+            ]
+        },
+        "dative": {
+            "dative": [
+                "dative"
+            ]
+        },
+        "definite articles": {
+            "definitearticles": [
+                "definite articles"
+            ]
+        },
+        "dependency accuracy": {
+            "dependencyaccuracy": [
+                "dependency accuracy",
+                "directed accuracy"
+            ]
+        },
+        "descriptor array": {
+            "descriptorarray": [
+                "descriptor array"
+            ]
+        },
+        "dialectal arabic": {
+            "dialectalarabic": [
+                "dialectal arabic"
+            ]
+        },
+        "dialog act": {
+            "dialogact": [
+                "dialog act",
+                "dialog acts",
+                "dialogue act"
+            ]
+        },
+        "direct answer": {
+            "directanswer": [
+                "direct answer"
+            ]
+        },
+        "discovery assistants": {
+            "discoveryassistants": [
+                "discovery assistants"
+            ]
+        }
+    },
+    "DAs": {
+        "dialog acts": {
+            "dialogacts": [
+                "dialog acts",
+                "dialogue acts",
+                "domain acts"
+            ]
+        }
+    },
+    "OA": {
+        "accusative object": {
+            "accusativeobject": [
+                "accusative object"
+            ]
+        },
+        "of a": {
+            "ofa": [
+                "of a"
+            ]
+        }
+    },
+    "OP": {
+        "operator": {
+            "operator": [
+                "operator"
+            ]
+        },
+        "overparsing": {
+            "overparsing": [
+                "overparsing"
+            ]
+        },
+        "prepositional object": {
+            "prepositionalobject": [
+                "prepositional object"
+            ]
+        }
+    },
+    "PD": {
+        "peripheral diversity": {
+            "peripheraldiversity": [
+                "peripheral diversity"
+            ]
+        },
+        "precision": {
+            "precision": [
+                "precision"
+            ]
+        },
+        "predicate": {
+            "predicate": [
+                "predicate",
+                "predicates"
+            ]
+        }
+    },
+    "OC": {
+        "clausal ob": {
+            "clausalob": [
+                "clausal ob",
+                "clausal object"
+            ]
+        }
+    },
+    "LOC": {
+        "local minimum": {
+            "localminimum": [
+                "local minimum",
+                "localized"
+            ]
+        },
+        "location": {
+            "location": [
+                "location",
+                "locative"
+            ]
+        },
+        "locus": {
+            "locus": [
+                "locus"
+            ]
+        }
+    },
+    "LO": {
+        "lexical overlap": {
+            "lexicaloverlap": [
+                "lexical overlap"
+            ]
+        },
+        "log": {
+            "log": [
+                "log"
+            ]
+        }
+    },
+    "NLP": {
+        "natural  language processing": {
+            "naturallanguageprocessing": [
+                "natural  language processing",
+                "natural anguage",
+                "natural language processor"
+            ]
+        }
+    },
+    "PS": {
+        "phrase structure": {
+            "phrasestructure": [
+                "phrase structure"
+            ]
+        },
+        "point of speech": {
+            "pointofspeech": [
+                "point of speech"
+            ]
+        },
+        "possible": {
+            "possible": [
+                "possible"
+            ]
+        },
+        "previous sentence": {
+            "previoussentence": [
+                "previous sentence"
+            ]
+        }
+    },
+    "CC": {
+        "cause effect": {
+            "causeeffect": [
+                "cause effect"
+            ]
+        },
+        "chief complaint": {
+            "chiefcomplaint": [
+                "chief complaint"
+            ]
+        },
+        "chinese contex": {
+            "chinesecontex": [
+                "chinese contex"
+            ]
+        },
+        "computerized conference": {
+            "computerizedconference": [
+                "computerized conference"
+            ]
+        },
+        "concept class": {
+            "conceptclass": [
+                "concept class"
+            ]
+        },
+        "connected component": {
+            "connectedcomponent": [
+                "connected component"
+            ]
+        },
+        "contrastive connectives": {
+            "contrastiveconnectives": [
+                "contrastive connectives"
+            ]
+        },
+        "coordinating conjunction": {
+            "coordinatingconjunction": [
+                "coordinating conjunction",
+                "coordinations"
+            ]
+        },
+        "correlation coefficient": {
+            "correlationcoefficient": [
+                "correlation coefficient"
+            ]
+        }
+    },
+    "TMs": {
+        "topic models": {
+            "topicmodels": [
+                "topic models"
+            ]
+        },
+        "translation memories": {
+            "translationmemories": [
+                "translation memories"
+            ]
+        }
+    },
+    "TM": {
+        "term  frequency": {
+            "termfrequency": [
+                "term  frequency"
+            ]
+        },
+        "terns": {
+            "terns": [
+                "terns"
+            ]
+        },
+        "text mining": {
+            "textmining": [
+                "text mining"
+            ]
+        },
+        "topic mode": {
+            "topicmode": [
+                "topic mode"
+            ]
+        },
+        "translation memory": {
+            "translationmemory": [
+                "translation memory",
+                "translation model"
+            ]
+        }
+    },
+    "DT": {
+        "date or time": {
+            "dateortime": [
+                "date or time"
+            ]
+        },
+        "decision tree": {
+            "decisiontree": [
+                "decision tree",
+                "decision trees"
+            ]
+        },
+        "dependency tree": {
+            "dependencytree": [
+                "dependency tree"
+            ]
+        },
+        "different topics": {
+            "differenttopics": [
+                "different topics"
+            ]
+        }
+    },
+    "DET": {
+        "detection error tradeoff": {
+            "detectionerrortradeoff": [
+                "detection error tradeoff"
+            ]
+        },
+        "determiner": {
+            "determiner": [
+                "determiner"
+            ]
+        }
+    },
+    "TBL": {
+        "transformation based learning": {
+            "transformationbasedlearning": [
+                "transformation based learning",
+                "transformationbased learning"
+            ]
+        }
+    },
+    "PTSD": {
+        "post traumatic stress disorder": {
+            "posttraumaticstressdisorder": [
+                "post traumatic stress disorder",
+                "posttraumatic stress disorder"
+            ]
+        }
+    },
+    "PMI": {
+        "pairwise mutual information": {
+            "pairwisemutualinformation": [
+                "pairwise mutual information",
+                "pointwise mutual information"
+            ]
+        }
+    },
+    "WSD": {
+        "word sense disambiguatio": {
+            "wordsensedisambiguatio": [
+                "word sense disambiguatio",
+                "word sense disambiguation"
+            ]
+        }
+    },
+    "II": {
+        "identifiable": {
+            "identifiable": [
+                "identifiable"
+            ]
+        },
+        "is finished": {
+            "isfinished": [
+                "is finished"
+            ]
+        },
+        "is worth noting": {
+            "isworthnoting": [
+                "is worth noting"
+            ]
+        }
+    },
+    "CD": {
+        "cardinal": {
+            "cardinal": [
+                "cardinal"
+            ]
+        },
+        "cardinal number": {
+            "cardinalnumber": [
+                "cardinal number"
+            ]
+        },
+        "conceptual density": {
+            "conceptualdensity": [
+                "conceptual density",
+                "conceptual dependenc"
+            ]
+        },
+        "content determination": {
+            "contentdetermination": [
+                "content determination"
+            ]
+        },
+        "contrastive divergence": {
+            "contrastivedivergence": [
+                "contrastive divergence"
+            ]
+        }
+    },
+    "DP": {
+        "cal dirichlet process": {
+            "caldirichletprocess": [
+                "cal dirichlet process"
+            ]
+        },
+        "dependency parsing": {
+            "dependencyparsing": [
+                "dependency parsing"
+            ]
+        },
+        "dependency relationships": {
+            "dependencyrelationships": [
+                "dependency relationships"
+            ]
+        },
+        "discriminatory power": {
+            "discriminatorypower": [
+                "discriminatory power"
+            ]
+        },
+        "document processor": {
+            "documentprocessor": [
+                "document processor"
+            ]
+        },
+        "double propagation": {
+            "doublepropagation": [
+                "double propagation"
+            ]
+        },
+        "dynamic programming": {
+            "dynamicprogramming": [
+                "dynamic programming"
+            ]
+        }
+    },
+    "ICDM": {
+        "in data mining": {
+            "indatamining": [
+                "in data mining"
+            ]
+        },
+        "ing": {
+            "ing": [
+                "ing"
+            ]
+        },
+        "international conference on data mining": {
+            "internationalconferenceondatamining": [
+                "international conference on data mining"
+            ]
+        }
+    },
+    "RNN": {
+        "recurrent neural network": {
+            "recurrentneuralnetwork": [
+                "recurrent neural network",
+                "recursive neural network"
+            ]
+        }
+    },
+    "MFS": {
+        "most frequent sense": {
+            "mostfrequentsense": [
+                "most frequent sense"
+            ]
+        }
+    },
+    "EWN": {
+        "english wordnet": {
+            "englishwordnet": [
+                "english wordnet",
+                "eurowordnet"
+            ]
+        }
+    },
+    "NNS": {
+        "noun ": {
+            "noun": [
+                "noun "
+            ]
+        },
+        "plural noun": {
+            "pluralnoun": [
+                "plural noun"
+            ]
+        }
+    },
+    "NE": {
+        "amed entity": {
+            "amedentity": [
+                "amed entity",
+                "named entitie"
+            ]
+        },
+        "name": {
+            "name": [
+                "name"
+            ]
+        },
+        "named entity recogniser": {
+            "namedentityrecogniser": [
+                "named entity recogniser"
+            ]
+        }
+    },
+    "RST": {
+        "rhetorical structure theory": {
+            "rhetoricalstructuretheory": [
+                "rhetorical structure theory"
+            ]
+        }
+    },
+    "ED": {
+        "edit distance": {
+            "editdistance": [
+                "edit distance"
+            ]
+        },
+        "emergency department": {
+            "emergencydepartment": [
+                "emergency department"
+            ]
+        }
+    },
+    "RG": {
+        "random guess": {
+            "randomguess": [
+                "random guess"
+            ]
+        },
+        "response generation": {
+            "responsegeneration": [
+                "response generation"
+            ]
+        },
+        "reverse gap": {
+            "reversegap": [
+                "reverse gap"
+            ]
+        },
+        "roget": {
+            "roget": [
+                "roget"
+            ]
+        },
+        "rubenstein and goodenough": {
+            "rubensteinandgoodenough": [
+                "rubenstein and goodenough"
+            ]
+        }
+    },
+    "FSA": {
+        "finite state acceptors": {
+            "finitestateacceptors": [
+                "finite state acceptors",
+                "finite state automata",
+                "finite state automaton"
+            ]
+        }
+    },
+    "DS": {
+        "data structure": {
+            "datastructure": [
+                "data structure"
+            ]
+        },
+        "dataset": {
+            "dataset": [
+                "dataset"
+            ]
+        },
+        "discharge summary": {
+            "dischargesummary": [
+                "discharge summary",
+                "discourse segment"
+            ]
+        },
+        "discourse": {
+            "discourse": [
+                "discourse"
+            ]
+        },
+        "distributional similarity": {
+            "distributionalsimilarity": [
+                "distributional similarity"
+            ]
+        }
+    },
+    "AI": {
+        "artificial intelligence": {
+            "artificialintelligence": [
+                "artificial intelligence"
+            ]
+        }
+    },
+    "AAAI": {
+        "association for artificial intelligence": {
+            "associationforartificialintelligence": [
+                "association for artificial intelligence"
+            ]
+        }
+    },
+    "DK": {
+        "daily kos": {
+            "dailykos": [
+                "daily kos"
+            ]
+        },
+        "declarative knowledge": {
+            "declarativeknowledge": [
+                "declarative knowledge"
+            ]
+        }
+    },
+    "VBG": {
+        "gerund": {
+            "gerund": [
+                "gerund"
+            ]
+        }
+    },
+    "EDUs": {
+        "elementary discourse units": {
+            "elementarydiscourseunits": [
+                "elementary discourse units"
+            ]
+        }
+    },
+    "NLU": {
+        "natural language understanding": {
+            "naturallanguageunderstanding": [
+                "natural language understanding"
+            ]
+        }
+    },
+    "DM": {
+        "data mining": {
+            "datamining": [
+                "data mining"
+            ]
+        },
+        "dialog management": {
+            "dialogmanagement": [
+                "dialog management",
+                "dialog manager",
+                "dialogue management",
+                "dialogue manager",
+                "dialogue move"
+            ]
+        },
+        "discourse model": {
+            "discoursemodel": [
+                "discourse model",
+                "domain model"
+            ]
+        }
+    },
+    "CMP": {
+        "complement": {
+            "complement": [
+                "complement"
+            ]
+        }
+    },
+    "PDT": {
+        "positive diversity tuning": {
+            "positivediversitytuning": [
+                "positive diversity tuning"
+            ]
+        },
+        "predeterminer": {
+            "predeterminer": [
+                "predeterminer"
+            ]
+        }
+    },
+    "LER": {
+        "letter error rate": {
+            "lettererrorrate": [
+                "letter error rate",
+                "letter error rates"
+            ]
+        }
+    },
+    "SL": {
+        "sentence length": {
+            "sentencelength": [
+                "sentence length"
+            ]
+        },
+        "sign language": {
+            "signlanguage": [
+                "sign language",
+                "source languag"
+            ]
+        },
+        "slovene": {
+            "slovene": [
+                "slovene"
+            ]
+        },
+        "strictly local": {
+            "strictlylocal": [
+                "strictly local"
+            ]
+        }
+    },
+    "CON": {
+        "conclusion": {
+            "conclusion": [
+                "conclusion",
+                "continuation",
+                "convolution"
+            ]
+        }
+    },
+    "FR": {
+        "federal register": {
+            "federalregister": [
+                "federal register"
+            ]
+        },
+        "french": {
+            "french": [
+                "french"
+            ]
+        }
+    },
+    "IG": {
+        "index grammar": {
+            "indexgrammar": [
+                "index grammar"
+            ]
+        },
+        "information gain": {
+            "informationgain": [
+                "information gain"
+            ]
+        }
+    },
+    "LREC": {
+        "language resource": {
+            "languageresource": [
+                "language resource",
+                "language resources"
+            ]
+        },
+        "language resources and evaluation": {
+            "languageresourcesandevaluation": [
+                "language resources and evaluation"
+            ]
+        }
+    },
+    "IC": {
+        "independent cl": {
+            "independentcl": [
+                "independent cl"
+            ]
+        },
+        "individual constant": {
+            "individualconstant": [
+                "individual constant"
+            ]
+        },
+        "information content": {
+            "informationcontent": [
+                "information content",
+                "informational contribution"
+            ]
+        },
+        "inverse consultation": {
+            "inverseconsultation": [
+                "inverse consultation"
+            ]
+        }
+    },
+    "CCG": {
+        "combinatory categorical grammar": {
+            "combinatorycategoricalgrammar": [
+                "combinatory categorical grammar"
+            ]
+        }
+    },
+    "PROP": {
+        "proper": {
+            "proper": [
+                "proper"
+            ]
+        },
+        "proposition": {
+            "proposition": [
+                "proposition"
+            ]
+        }
+    },
+    "Rel": {
+        "relevant": {
+            "relevant": [
+                "relevant"
+            ]
+        },
+        "reliably": {
+            "reliably": [
+                "reliably"
+            ]
+        }
+    },
+    "FD": {
+        "fmeasure": {
+            "fmeasure": [
+                "fmeasure"
+            ]
+        },
+        "forced decoding": {
+            "forceddecoding": [
+                "forced decoding"
+            ]
+        },
+        "frequency dictionary": {
+            "frequencydictionary": [
+                "frequency dictionary"
+            ]
+        }
+    },
+    "GS": {
+        "generative system": {
+            "generativesystem": [
+                "generative system"
+            ]
+        },
+        "gibbs sampling": {
+            "gibbssampling": [
+                "gibbs sampling"
+            ]
+        },
+        "gold standard": {
+            "goldstandard": [
+                "gold standard"
+            ]
+        }
+    },
+    "FE": {
+        "feature extractor": {
+            "featureextractor": [
+                "feature extractor"
+            ]
+        },
+        "feeling": {
+            "feeling": [
+                "feeling"
+            ]
+        },
+        "frame element": {
+            "frameelement": [
+                "frame element",
+                "frame elements"
+            ]
+        },
+        "french  englis": {
+            "frenchenglis": [
+                "french  englis"
+            ]
+        }
+    },
+    "GB": {
+        "gambling": {
+            "gambling": [
+                "gambling"
+            ]
+        },
+        "great britain": {
+            "greatbritain": [
+                "great britain"
+            ]
+        },
+        "united kingdom": {
+            "unitedkingdom": [
+                "united kingdom"
+            ]
+        }
+    },
+    "SIB": {
+        "sibling": {
+            "sibling": [
+                "sibling"
+            ]
+        },
+        "swiss institute of bioinformatics": {
+            "swissinstituteofbioinformatics": [
+                "swiss institute of bioinformatics"
+            ]
+        }
+    },
+    "MRR": {
+        "mean reciprocal": {
+            "meanreciprocal": [
+                "mean reciprocal"
+            ]
+        }
+    },
+    "LV": {
+        "language variety": {
+            "languagevariety": [
+                "language variety"
+            ]
+        },
+        "light verb": {
+            "lightverb": [
+                "light verb"
+            ]
+        }
+    },
+    "LDA": {
+        "latent dirichlet allocation": {
+            "latentdirichletallocation": [
+                "latent dirichlet allocation",
+                "latent dirichlet alocatio",
+                "let allocation"
+            ]
+        },
+        "let alocation": {
+            "letalocation": [
+                "let alocation"
+            ]
+        }
+    },
+    "TC": {
+        "task completion": {
+            "taskcompletion": [
+                "task completion"
+            ]
+        },
+        "text categorization": {
+            "textcategorization": [
+                "text categorization"
+            ]
+        },
+        "transitive closure": {
+            "transitiveclosure": [
+                "transitive closure"
+            ]
+        }
+    },
+    "TG": {
+        "template generation": {
+            "templategeneration": [
+                "template generation"
+            ]
+        },
+        "temporary graph": {
+            "temporarygraph": [
+                "temporary graph"
+            ]
+        }
+    },
+    "WN": {
+        "wn": {
+            "wn": [
+                "wn"
+            ]
+        },
+        "wordnet": {
+            "wordnet": [
+                "wordnet"
+            ]
+        }
+    },
+    "JUMP": {
+        "jump": {
+            "jump": [
+                "jump"
+            ]
+        },
+        "jumping": {
+            "jumping": [
+                "jumping"
+            ]
+        }
+    },
+    "LA": {
+        "label accuracy": {
+            "labelaccuracy": [
+                "label accuracy"
+            ]
+        },
+        "latin": {
+            "latin": [
+                "latin"
+            ]
+        },
+        "lectures attended": {
+            "lecturesattended": [
+                "lectures attended"
+            ]
+        },
+        "left adjoining": {
+            "leftadjoining": [
+                "left adjoining"
+            ]
+        },
+        "levantine arabic": {
+            "levantinearabic": [
+                "levantine arabic"
+            ]
+        },
+        "lexical acquisition": {
+            "lexicalacquisition": [
+                "lexical acquisition"
+            ]
+        },
+        "lip aperture": {
+            "lipaperture": [
+                "lip aperture"
+            ]
+        },
+        "low attachment": {
+            "lowattachment": [
+                "low attachment"
+            ]
+        }
+    },
+    "NW": {
+        "newswire": {
+            "newswire": [
+                "newswire"
+            ]
+        }
+    },
+    "BC": {
+        "bhattacharyya coefficient": {
+            "bhattacharyyacoefficient": [
+                "bhattacharyya coefficient"
+            ]
+        },
+        "broadcast conversation": {
+            "broadcastconversation": [
+                "broadcast conversation",
+                "broadcast conversations"
+            ]
+        },
+        "brown corpus": {
+            "browncorpus": [
+                "brown corpus"
+            ]
+        }
+    },
+    "BN": {
+        "bayesian network": {
+            "bayesiannetwork": [
+                "bayesian network"
+            ]
+        },
+        "bengali": {
+            "bengali": [
+                "bengali"
+            ]
+        },
+        "british national": {
+            "britishnational": [
+                "british national"
+            ]
+        },
+        "broadcast news": {
+            "broadcastnews": [
+                "broadcast news",
+                "broadcasting news"
+            ]
+        }
+    },
+    "UN": {
+        "usenet": {
+            "usenet": [
+                "usenet"
+            ]
+        },
+        "usenet newsgroups": {
+            "usenetnewsgroups": [
+                "usenet newsgroups"
+            ]
+        }
+    },
+    "WL": {
+        "webblog": {
+            "webblog": [
+                "webblog",
+                "weblogs"
+            ]
+        },
+        "word level": {
+            "wordlevel": [
+                "word level"
+            ]
+        },
+        "word lexicon": {
+            "wordlexicon": [
+                "word lexicon"
+            ]
+        }
+    },
+    "IA": {
+        "implicit attitude": {
+            "implicitattitude": [
+                "implicit attitude"
+            ]
+        },
+        "incremental algorithm": {
+            "incrementalalgorithm": [
+                "incremental algorithm"
+            ]
+        },
+        "input analyzer": {
+            "inputanalyzer": [
+                "input analyzer"
+            ]
+        }
+    },
+    "RR": {
+        "ranking by regression": {
+            "rankingbyregression": [
+                "ranking by regression"
+            ]
+        },
+        "reciprocal rank": {
+            "reciprocalrank": [
+                "reciprocal rank"
+            ]
+        },
+        "reduced relative": {
+            "reducedrelative": [
+                "reduced relative"
+            ]
+        },
+        "reference resolution": {
+            "referenceresolution": [
+                "reference resolution"
+            ]
+        },
+        "relational realizational": {
+            "relationalrealizational": [
+                "relational realizational"
+            ]
+        },
+        "reranking": {
+            "reranking": [
+                "reranking"
+            ]
+        }
+    },
+    "RBF": {
+        "radial basis function": {
+            "radialbasisfunction": [
+                "radial basis function",
+                "radial basis functions",
+                "radial basis kernel function"
+            ]
+        }
+    },
+    "ORG": {
+        "organisations": {
+            "organisations": [
+                "organisations",
+                "organization"
+            ]
+        }
+    },
+    "MLN": {
+        "markov logic network": {
+            "markovlogicnetwork": [
+                "markov logic network",
+                "markov logic networks"
+            ]
+        }
+    },
+    "OpenMT": {
+        "open machine translation": {
+            "openmachinetranslation": [
+                "open machine translation",
+                "open machine translation evaluation"
+            ]
+        }
+    },
+    "FL": {
+        "flagging": {
+            "flagging": [
+                "flagging"
+            ]
+        },
+        "forward looking": {
+            "forwardlooking": [
+                "forward looking"
+            ]
+        }
+    },
+    "AS": {
+        "academia sinica": {
+            "academiasinica": [
+                "academia sinica",
+                "academia sinica corpus"
+            ]
+        },
+        "attachment score": {
+            "attachmentscore": [
+                "attachment score"
+            ]
+        },
+        "automatic summarisation": {
+            "automaticsummarisation": [
+                "automatic summarisation",
+                "automatic summarization"
+            ]
+        }
+    },
+    "ACC": {
+        "accusative": {
+            "accusative": [
+                "accusative"
+            ]
+        }
+    },
+    "GEN": {
+        "gender": {
+            "gender": [
+                "gender"
+            ]
+        },
+        "genetics": {
+            "genetics": [
+                "genetics",
+                "genitive"
+            ]
+        }
+    },
+    "PCFG": {
+        "probabilistic cfg": {
+            "probabilisticcfg": [
+                "probabilistic cfg"
+            ]
+        },
+        "probabilistic context free grammar": {
+            "probabilisticcontextfreegrammar": [
+                "probabilistic context free grammar"
+            ]
+        }
+    },
+    "DB": {
+        "data storage": {
+            "datastorage": [
+                "data storage",
+                "database"
+            ]
+        },
+        "dialogbot": {
+            "dialogbot": [
+                "dialogbot"
+            ]
+        }
+    },
+    "ML": {
+        "machine learning": {
+            "machinelearning": [
+                "machine learning"
+            ]
+        },
+        "maximum likelihoo": {
+            "maximumlikelihoo": [
+                "maximum likelihoo",
+                "maximum likelihood"
+            ]
+        },
+        "minimum length": {
+            "minimumlength": [
+                "minimum length"
+            ]
+        }
+    },
+    "MLE": {
+        "maximum likelihood estimates": {
+            "maximumlikelihoodestimates": [
+                "maximum likelihood estimates",
+                "maximum likelihood estimation",
+                "mum likelihood estimation"
+            ]
+        }
+    },
+    "MM": {
+        "markov model": {
+            "markovmodel": [
+                "markov model"
+            ]
+        },
+        "media": {
+            "media": [
+                "media"
+            ]
+        }
+    },
+    "SG": {
+        "skip gram": {
+            "skipgram": [
+                "skip gram"
+            ]
+        },
+        "slot grammars": {
+            "slotgrammars": [
+                "slot grammars"
+            ]
+        }
+    },
+    "PE's": {
+        "phrasal elements": {
+            "phrasalelements": [
+                "phrasal elements"
+            ]
+        },
+        "processing elements": {
+            "processingelements": [
+                "processing elements"
+            ]
+        }
+    },
+    "CAT": {
+        "computer aided translation": {
+            "computeraidedtranslation": [
+                "computer aided translation",
+                "computeraided translation"
+            ]
+        }
+    },
+    "GNF": {
+        "greibach normal form": {
+            "greibachnormalform": [
+                "greibach normal form"
+            ]
+        }
+    },
+    "AMTA": {
+        "association for machine translation in the americas": {
+            "associationformachinetranslationintheamericas": [
+                "association for machine translation in the americas",
+                "conference of the association for machine translation in the americas"
+            ]
+        }
+    },
+    "CT": {
+        "certain": {
+            "certain": [
+                "certain"
+            ]
+        },
+        "character type": {
+            "charactertype": [
+                "character type"
+            ]
+        },
+        "citation texts": {
+            "citationtexts": [
+                "citation texts"
+            ]
+        },
+        "collins thesaurus": {
+            "collinsthesaurus": [
+                "collins thesaurus"
+            ]
+        },
+        "computed translation": {
+            "computedtranslation": [
+                "computed translation"
+            ]
+        },
+        "constituent tree": {
+            "constituenttree": [
+                "constituent tree"
+            ]
+        },
+        "contrast": {
+            "contrast": [
+                "contrast"
+            ]
+        },
+        "cost tim": {
+            "costtim": [
+                "cost tim"
+            ]
+        },
+        "counterfactual": {
+            "counterfactual": [
+                "counterfactual"
+            ]
+        }
+    },
+    "AB": {
+        "abstracts": {
+            "abstracts": [
+                "abstracts"
+            ]
+        },
+        "adaboost": {
+            "adaboost": [
+                "adaboost"
+            ]
+        }
+    },
+    "SIGPHON": {
+        "special interest group in computational phonology": {
+            "specialinterestgroupincomputationalphonology": [
+                "special interest group in computational phonology",
+                "special interest group on computational phonology"
+            ]
+        }
+    },
+    "TP": {
+        "positive": {
+            "positive": [
+                "positive",
+                "true positive"
+            ]
+        },
+        "transitional probability": {
+            "transitionalprobability": [
+                "transitional probability"
+            ]
+        },
+        "translation process": {
+            "translationprocess": [
+                "translation process"
+            ]
+        },
+        "true positives": {
+            "truepositives": [
+                "true positives"
+            ]
+        }
+    },
+    "TN": {
+        "team name": {
+            "teamname": [
+                "team name",
+                "tense"
+            ]
+        },
+        "true negative": {
+            "truenegative": [
+                "true negative",
+                "true negatives"
+            ]
+        }
+    },
+    "BP": {
+        "base phrase": {
+            "basephrase": [
+                "base phrase"
+            ]
+        },
+        "belief propagation": {
+            "beliefpropagation": [
+                "belief propagation"
+            ]
+        },
+        "beta process": {
+            "betaprocess": [
+                "beta process"
+            ]
+        },
+        "bigram predictability": {
+            "bigrampredictability": [
+                "bigram predictability"
+            ]
+        },
+        "bleu points": {
+            "bleupoints": [
+                "bleu points"
+            ]
+        }
+    },
+    "SP": {
+        "perspective": {
+            "perspective": [
+                "perspective"
+            ]
+        },
+        "sentiment polarity": {
+            "sentimentpolarity": [
+                "sentiment polarity"
+            ]
+        },
+        "shortest path": {
+            "shortestpath": [
+                "shortest path"
+            ]
+        },
+        "simple past": {
+            "simplepast": [
+                "simple past",
+                "supplement"
+            ]
+        },
+        "sparse projection": {
+            "sparseprojection": [
+                "sparse projection"
+            ]
+        },
+        "speaker": {
+            "speaker": [
+                "speaker"
+            ]
+        },
+        "spelling": {
+            "spelling": [
+                "spelling",
+                "split",
+                "splits"
+            ]
+        },
+        "stanford parser": {
+            "stanfordparser": [
+                "stanford parser"
+            ]
+        },
+        "surgical pathology": {
+            "surgicalpathology": [
+                "surgical pathology"
+            ]
+        }
+    },
+    "ES": {
+        "emotion score": {
+            "emotionscore": [
+                "emotion score"
+            ]
+        },
+        "exploratory search": {
+            "exploratorysearch": [
+                "exploratory search"
+            ]
+        }
+    },
+    "TS": {
+        "task set": {
+            "taskset": [
+                "task set"
+            ]
+        },
+        "telecommunication services": {
+            "telecommunicationservices": [
+                "telecommunication services"
+            ]
+        },
+        "training set": {
+            "trainingset": [
+                "training set"
+            ]
+        },
+        "translation spotting": {
+            "translationspotting": [
+                "translation spotting"
+            ]
+        },
+        "trueskill": {
+            "trueskill": [
+                "trueskill"
+            ]
+        }
+    },
+    "VS": {
+        "validating set": {
+            "validatingset": [
+                "validating set"
+            ]
+        },
+        "vector space": {
+            "vectorspace": [
+                "vector space"
+            ]
+        }
+    },
+    "EP": {
+        "end position": {
+            "endposition": [
+                "end position"
+            ]
+        },
+        "english profile": {
+            "englishprofile": [
+                "english profile",
+                "entity profile"
+            ]
+        },
+        "europarl": {
+            "europarl": [
+                "europarl"
+            ]
+        },
+        "expletive": {
+            "expletive": [
+                "expletive"
+            ]
+        }
+    },
+    "CE": {
+        "confidence estimation": {
+            "confidenceestimation": [
+                "confidence estimation",
+                "contrastive estimation"
+            ]
+        }
+    },
+    "HR": {
+        "heart rate": {
+            "heartrate": [
+                "heart rate"
+            ]
+        },
+        "hierarchical rule": {
+            "hierarchicalrule": [
+                "hierarchical rule"
+            ]
+        }
+    },
+    "INV": {
+        "inverted": {
+            "inverted": [
+                "inverted",
+                "invertors"
+            ]
+        }
+    },
+    "GUI": {
+        "graphical user interface": {
+            "graphicaluserinterface": [
+                "graphical user interface"
+            ]
+        }
+    },
+    "ILP": {
+        "inductive logic programming": {
+            "inductivelogicprogramming": [
+                "inductive logic programming",
+                "integer linear programmin",
+                "integer linear programming"
+            ]
+        },
+        "integer linear progra": {
+            "integerlinearprogra": [
+                "integer linear progra",
+                "integer linear program"
+            ]
+        }
+    },
+    "FAC": {
+        "facility": {
+            "facility": [
+                "facility"
+            ]
+        }
+    },
+    "GPE": {
+        "geopolitical": {
+            "geopolitical": [
+                "geopolitical"
+            ]
+        }
+    },
+    "EM": {
+        "emma": {
+            "emma": [
+                "emma"
+            ]
+        },
+        "emotion": {
+            "emotion": [
+                "emotion"
+            ]
+        },
+        "entropy": {
+            "entropy": [
+                "entropy"
+            ]
+        },
+        "exact match": {
+            "exactmatch": [
+                "exact match"
+            ]
+        },
+        "expectation maximisation": {
+            "expectationmaximisation": [
+                "expectation maximisation",
+                "expectation maximization"
+            ]
+        }
+    },
+    "ER": {
+        "error rate": {
+            "errorrate": [
+                "error rate"
+            ]
+        },
+        "error reduction": {
+            "errorreduction": [
+                "error reduction"
+            ]
+        }
+    },
+    "NUM": {
+        "national university of mongolia": {
+            "nationaluniversityofmongolia": [
+                "national university of mongolia"
+            ]
+        },
+        "numbe": {
+            "numbe": [
+                "numbe",
+                "number"
+            ]
+        },
+        "numeral": {
+            "numeral": [
+                "numeral",
+                "numerals"
+            ]
+        }
+    },
+    "RB": {
+        "refined bucket": {
+            "refinedbucket": [
+                "refined bucket"
+            ]
+        }
+    },
+    "AD": {
+        "and": {
+            "and": [
+                "and"
+            ]
+        },
+        "automatic differentiation": {
+            "automaticdifferentiation": [
+                "automatic differentiation"
+            ]
+        }
+    },
+    "ADP": {
+        "adposition": {
+            "adposition": [
+                "adposition"
+            ]
+        },
+        "automatic data processing": {
+            "automaticdataprocessing": [
+                "automatic data processing"
+            ]
+        },
+        "prepositions or postpositions": {
+            "prepositionsorpostpositions": [
+                "prepositions or postpositions"
+            ]
+        }
+    },
+    "CW": {
+        "characters per word": {
+            "charactersperword": [
+                "characters per word"
+            ]
+        },
+        "collobert and weston": {
+            "collobertandweston": [
+                "collobert and weston"
+            ]
+        },
+        "confidence weighted": {
+            "confidenceweighted": [
+                "confidence weighted"
+            ]
+        }
+    },
+    "MRF": {
+        "markov random field": {
+            "markovrandomfield": [
+                "markov random field"
+            ]
+        }
+    },
+    "IR": {
+        "informal register": {
+            "informalregister": [
+                "informal register"
+            ]
+        },
+        "information retrieval": {
+            "informationretrieval": [
+                "information retrieval"
+            ]
+        },
+        "iterative re": {
+            "iterativere": [
+                "iterative re"
+            ]
+        }
+    },
+    "RW": {
+        "random walk": {
+            "randomwalk": [
+                "random walk"
+            ]
+        },
+        "realword": {
+            "realword": [
+                "realword"
+            ]
+        }
+    },
+    "MW": {
+        "missing": {
+            "missing": [
+                "missing"
+            ]
+        },
+        "missing word": {
+            "missingword": [
+                "missing word"
+            ]
+        }
+    },
+    "LR": {
+        "labeled recall": {
+            "labeledrecall": [
+                "labeled recall"
+            ]
+        },
+        "lagrangian relaxation": {
+            "lagrangianrelaxation": [
+                "lagrangian relaxation"
+            ]
+        },
+        "larger": {
+            "larger": [
+                "larger"
+            ]
+        },
+        "lexical reordering": {
+            "lexicalreordering": [
+                "lexical reordering"
+            ]
+        },
+        "lexrank": {
+            "lexrank": [
+                "lexrank"
+            ]
+        },
+        "logistic regression": {
+            "logisticregression": [
+                "logistic regression"
+            ]
+        }
+    },
+    "VR": {
+        "version": {
+            "version": [
+                "version"
+            ]
+        },
+        "virtual reality": {
+            "virtualreality": [
+                "virtual reality"
+            ]
+        },
+        "vocabulary richness": {
+            "vocabularyrichness": [
+                "vocabulary richness"
+            ]
+        }
+    },
+    "RT": {
+        "recall": {
+            "recall": [
+                "recall"
+            ]
+        },
+        "reference time": {
+            "referencetime": [
+                "reference time"
+            ]
+        },
+        "reluctant trimmer": {
+            "reluctanttrimmer": [
+                "reluctant trimmer"
+            ]
+        },
+        "reposting": {
+            "reposting": [
+                "reposting"
+            ]
+        },
+        "retweet": {
+            "retweet": [
+                "retweet"
+            ]
+        },
+        "role text": {
+            "roletext": [
+                "role text"
+            ]
+        },
+        "untime": {
+            "untime": [
+                "untime"
+            ]
+        }
+    },
+    "MEMMs": {
+        "mum entropy markov models": {
+            "mumentropymarkovmodels": [
+                "mum entropy markov models"
+            ]
+        }
+    },
+    "REL": {
+        "relational": {
+            "relational": [
+                "relational",
+                "relations"
+            ]
+        },
+        "relative pronoun": {
+            "relativepronoun": [
+                "relative pronoun"
+            ]
+        },
+        "relevance": {
+            "relevance": [
+                "relevance"
+            ]
+        }
+    },
+    "RE": {
+        "rank of expected": {
+            "rankofexpected": [
+                "rank of expected"
+            ]
+        },
+        "reduce": {
+            "reduce": [
+                "reduce"
+            ]
+        },
+        "referring expression": {
+            "referringexpression": [
+                "referring expression",
+                "regular expressions"
+            ]
+        },
+        "relation extraction": {
+            "relationextraction": [
+                "relation extraction"
+            ]
+        },
+        "reordering": {
+            "reordering": [
+                "reordering"
+            ]
+        }
+    },
+    "EG": {
+        "egypt": {
+            "egypt": [
+                "egypt"
+            ]
+        },
+        "engineering": {
+            "engineering": [
+                "engineering"
+            ]
+        },
+        "entity grid": {
+            "entitygrid": [
+                "entity grid"
+            ]
+        },
+        "example": {
+            "example": [
+                "example"
+            ]
+        },
+        "exponentiated gradient": {
+            "exponentiatedgradient": [
+                "exponentiated gradient"
+            ]
+        }
+    },
+    "CHA": {
+        "characteristics": {
+            "characteristics": [
+                "characteristics"
+            ]
+        },
+        "ehange": {
+            "ehange": [
+                "ehange"
+            ]
+        }
+    },
+    "COP": {
+        "complement constituent": {
+            "complementconstituent": [
+                "complement constituent"
+            ]
+        },
+        "copula": {
+            "copula": [
+                "copula"
+            ]
+        }
+    },
+    "CO": {
+        "collocation": {
+            "collocation": [
+                "collocation"
+            ]
+        },
+        "concession": {
+            "concession": [
+                "concession",
+                "confessions"
+            ]
+        },
+        "convertible": {
+            "convertible": [
+                "convertible"
+            ]
+        },
+        "cotraining": {
+            "cotraining": [
+                "cotraining"
+            ]
+        },
+        "country": {
+            "country": [
+                "country"
+            ]
+        }
+    },
+    "AC": {
+        "ambiguity classes": {
+            "ambiguityclasses": [
+                "ambiguity classes"
+            ]
+        },
+        "auxiliary construction": {
+            "auxiliaryconstruction": [
+                "auxiliary construction"
+            ]
+        }
+    },
+    "VT": {
+        "veins theory": {
+            "veinstheory": [
+                "veins theory"
+            ]
+        },
+        "verbe": {
+            "verbe": [
+                "verbe"
+            ]
+        }
+    },
+    "AZ": {
+        "argumentative zoning": {
+            "argumentativezoning": [
+                "argumentative zoning"
+            ]
+        }
+    },
+    "TREC-7": {
+        "seventh text retrieval conference": {
+            "seventhtextretrievalconference": [
+                "seventh text retrieval conference"
+            ]
+        }
+    },
+    "JST": {
+        "japan science and technology": {
+            "japanscienceandtechnology": [
+                "japan science and technology"
+            ]
+        },
+        "justification": {
+            "justification": [
+                "justification"
+            ]
+        }
+    },
+    "SS": {
+        "same sentence": {
+            "samesentence": [
+                "same sentence"
+            ]
+        },
+        "semantic class": {
+            "semanticclass": [
+                "semantic class"
+            ]
+        },
+        "sentence splitting": {
+            "sentencesplitting": [
+                "sentence splitting"
+            ]
+        },
+        "structure": {
+            "structure": [
+                "structure"
+            ]
+        },
+        "subjects": {
+            "subjects": [
+                "subjects"
+            ]
+        },
+        "subpath set": {
+            "subpathset": [
+                "subpath set"
+            ]
+        },
+        "surface structure": {
+            "surfacestructure": [
+                "surface structure"
+            ]
+        }
+    },
+    "MBR": {
+        "minimum bayes risk": {
+            "minimumbayesrisk": [
+                "minimum bayes risk"
+            ]
+        }
+    },
+    "DF": {
+        "document frequency": {
+            "documentfrequency": [
+                "document frequency"
+            ]
+        },
+        "dyadic features": {
+            "dyadicfeatures": [
+                "dyadic features"
+            ]
+        }
+    },
+    "DEM": {
+        "demonstrative": {
+            "demonstrative": [
+                "demonstrative",
+                "demonstratives",
+                "dmonstrat i f"
+            ]
+        }
+    },
+    "RHS": {
+        "rhs": {
+            "rhs": [
+                "rhs"
+            ]
+        },
+        "right hand side": {
+            "righthandside": [
+                "right hand side"
+            ]
+        }
+    },
+    "AER": {
+        "alignment error": {
+            "alignmenterror": [
+                "alignment error",
+                "alignment error rate"
+            ]
+        }
+    },
+    "MNR": {
+        "manner": {
+            "manner": [
+                "manner"
+            ]
+        }
+    },
+    "PL": {
+        "p l": {
+            "pl": [
+                "p l"
+            ]
+        },
+        "phrase levels": {
+            "phraselevels": [
+                "phrase levels"
+            ]
+        }
+    },
+    "PW": {
+        "partwhole": {
+            "partwhole": [
+                "partwhole"
+            ]
+        },
+        "pw": {
+            "pw": [
+                "pw"
+            ]
+        }
+    },
+    "GF": {
+        "grammatical framework": {
+            "grammaticalframework": [
+                "grammatical framework",
+                "grammatical function"
+            ]
+        }
+    },
+    "TREC-9": {
+        "eighth text retrieval conference": {
+            "eighthtextretrievalconference": [
+                "eighth text retrieval conference",
+                "the ninth text retrieval conference"
+            ]
+        }
+    },
+    "KB": {
+        "knowledge base": {
+            "knowledgebase": [
+                "knowledge base",
+                "knowledge based",
+                "knowledge bases"
+            ]
+        }
+    },
+    "LP": {
+        "label propagation": {
+            "labelpropagation": [
+                "label propagation",
+                "labeled precision"
+            ]
+        },
+        "labeled": {
+            "labeled": [
+                "labeled"
+            ]
+        },
+        "less privileged": {
+            "lessprivileged": [
+                "less privileged"
+            ]
+        },
+        "linear precedence": {
+            "linearprecedence": [
+                "linear precedence",
+                "linear program"
+            ]
+        },
+        "linear programming": {
+            "linearprogramming": [
+                "linear programming"
+            ]
+        }
+    },
+    "DevSet": {
+        "development dataset": {
+            "developmentdataset": [
+                "development dataset",
+                "development set"
+            ]
+        }
+    },
+    "POSTECH": {
+        "pohang university of science and technology": {
+            "pohanguniversityofscienceandtechnology": [
+                "pohang university of science and technology",
+                "pohang university of science technology"
+            ]
+        }
+    },
+    "DR": {
+        "discourse relations": {
+            "discourserelations": [
+                "discourse relations",
+                "discourse representations"
+            ]
+        },
+        "divrank": {
+            "divrank": [
+                "divrank"
+            ]
+        }
+    },
+    "EN": {
+        "e  n": {
+            "en": [
+                "e  n"
+            ]
+        },
+        "english": {
+            "english": [
+                "english"
+            ]
+        }
+    },
+    "STS": {
+        "segmenters": {
+            "segmenters": [
+                "segmenters"
+            ]
+        },
+        "semantic textual similarity": {
+            "semantictextualsimilarity": [
+                "semantic textual similarity"
+            ]
+        }
+    },
+    "QC": {
+        "quantum classifier": {
+            "quantumclassifier": [
+                "quantum classifier"
+            ]
+        },
+        "query classes": {
+            "queryclasses": [
+                "query classes"
+            ]
+        },
+        "question classificatio": {
+            "questionclassificatio": [
+                "question classificatio",
+                "question classification"
+            ]
+        }
+    },
+    "TO": {
+        "target order": {
+            "targetorder": [
+                "target order"
+            ]
+        },
+        "to": {
+            "to": [
+                "to"
+            ]
+        }
+    },
+    "ST": {
+        "same topic": {
+            "sametopic": [
+                "same topic"
+            ]
+        },
+        "shared task": {
+            "sharedtask": [
+                "shared task"
+            ]
+        },
+        "simulated tempering": {
+            "simulatedtempering": [
+                "simulated tempering"
+            ]
+        },
+        "solve time": {
+            "solvetime": [
+                "solve time"
+            ]
+        },
+        "stops": {
+            "stops": [
+                "stops"
+            ]
+        },
+        "subtree": {
+            "subtree": [
+                "subtree"
+            ]
+        },
+        "surface text": {
+            "surfacetext": [
+                "surface text"
+            ]
+        },
+        "syntactic tree": {
+            "syntactictree": [
+                "syntactic tree"
+            ]
+        }
+    },
+    "GRU": {
+        "gated recurrent unit": {
+            "gatedrecurrentunit": [
+                "gated recurrent unit"
+            ]
+        }
+    },
+    "INT": {
+        "integrated": {
+            "integrated": [
+                "integrated",
+                "interrupted"
+            ]
+        },
+        "interruption": {
+            "interruption": [
+                "interruption"
+            ]
+        }
+    },
+    "IWPT": {
+        "international conference on parsing technologies": {
+            "internationalconferenceonparsingtechnologies": [
+                "international conference on parsing technologies",
+                "international workshop on parsing technologies"
+            ]
+        }
+    },
+    "HP": {
+        "hashtag pattern": {
+            "hashtagpattern": [
+                "hashtag pattern"
+            ]
+        },
+        "highly positive": {
+            "highlypositive": [
+                "highly positive"
+            ]
+        },
+        "home page": {
+            "homepage": [
+                "home page"
+            ]
+        }
+    },
+    "SF": {
+        "segmentation frequency": {
+            "segmentationfrequency": [
+                "segmentation frequency"
+            ]
+        },
+        "short form": {
+            "shortform": [
+                "short form"
+            ]
+        },
+        "slot filling": {
+            "slotfilling": [
+                "slot filling"
+            ]
+        },
+        "subcat features": {
+            "subcatfeatures": [
+                "subcat features",
+                "syntactic features"
+            ]
+        }
+    },
+    "TW": {
+        "target words": {
+            "targetwords": [
+                "target words",
+                "trigger word"
+            ]
+        },
+        "tweets": {
+            "tweets": [
+                "tweets"
+            ]
+        }
+    },
+    "LD": {
+        "labeled data": {
+            "labeleddata": [
+                "labeled data"
+            ]
+        },
+        "large dataset": {
+            "largedataset": [
+                "large dataset"
+            ]
+        },
+        "levenshtein distance": {
+            "levenshteindistance": [
+                "levenshtein distance"
+            ]
+        }
+    },
+    "UD": {
+        "underspecified domain": {
+            "underspecifieddomain": [
+                "underspecified domain"
+            ]
+        },
+        "universal dependencies": {
+            "universaldependencies": [
+                "universal dependencies"
+            ]
+        },
+        "unlabeled data": {
+            "unlabeleddata": [
+                "unlabeled data"
+            ]
+        }
+    },
+    "MS": {
+        "marecek and straka": {
+            "marecekandstraka": [
+                "marecek and straka"
+            ]
+        },
+        "melcuk style": {
+            "melcukstyle": [
+                "melcuk style"
+            ]
+        },
+        "multispeaker": {
+            "multispeaker": [
+                "multispeaker"
+            ]
+        }
+    },
+    "ADJ": {
+        "ad jec t ives": {
+            "adjectives": [
+                "ad jec t ives",
+                "adjective"
+            ]
+        },
+        "disponibles": {
+            "disponibles": [
+                "disponibles"
+            ]
+        }
+    },
+    "JJ": {
+        "japanese kanj": {
+            "japanesekanj": [
+                "japanese kanj"
+            ]
+        },
+        "jective": {
+            "jective": [
+                "jective"
+            ]
+        }
+    },
+    "BOW": {
+        "bag of words": {
+            "bagofwords": [
+                "bag of words",
+                "bagofwords"
+            ]
+        }
+    },
+    "HM": {
+        "harabagiu and maiorano": {
+            "harabagiuandmaiorano": [
+                "harabagiu and maiorano"
+            ]
+        },
+        "head match": {
+            "headmatch": [
+                "head match"
+            ]
+        },
+        "histogram model": {
+            "histogrammodel": [
+                "histogram model"
+            ]
+        }
+    },
+    "UID": {
+        "uniform information density": {
+            "uniforminformationdensity": [
+                "uniform information density"
+            ]
+        },
+        "user id": {
+            "userid": [
+                "user id"
+            ]
+        },
+        "user identity": {
+            "useridentity": [
+                "user identity"
+            ]
+        }
+    },
+    "SA": {
+        "saudi arabia": {
+            "saudiarabia": [
+                "saudi arabia"
+            ]
+        },
+        "sentiment analysis": {
+            "sentimentanalysis": [
+                "sentiment analysis",
+                "statistical analysis"
+            ]
+        },
+        "speaker adaptive": {
+            "speakeradaptive": [
+                "speaker adaptive"
+            ]
+        },
+        "spreading activation": {
+            "spreadingactivation": [
+                "spreading activation"
+            ]
+        }
+    },
+    "AO": {
+        "all objects": {
+            "allobjects": [
+                "all objects"
+            ]
+        },
+        "object accusative": {
+            "objectaccusative": [
+                "object accusative"
+            ]
+        }
+    },
+    "TACL": {
+        "association for computational linguistics": {
+            "associationforcomputationallinguistics": [
+                "association for computational linguistics"
+            ]
+        },
+        "transactions of the acl": {
+            "transactionsoftheacl": [
+                "transactions of the acl"
+            ]
+        }
+    },
+    "LKB": {
+        "lexical knowledge base": {
+            "lexicalknowledgebase": [
+                "lexical knowledge base",
+                "lexical knowledge bases"
+            ]
+        }
+    },
+    "MCMC": {
+        "markov chain monte carlo": {
+            "markovchainmontecarlo": [
+                "markov chain monte carlo"
+            ]
+        }
+    },
+    "TAG": {
+        "tree adjoining grammar": {
+            "treeadjoininggrammar": [
+                "tree adjoining grammar"
+            ]
+        }
+    },
+    "MR": {
+        "majority rule": {
+            "majorityrule": [
+                "majority rule"
+            ]
+        },
+        "match rat": {
+            "matchrat": [
+                "match rat"
+            ]
+        },
+        "maximum recall": {
+            "maximumrecall": [
+                "maximum recall"
+            ]
+        },
+        "meaning representation": {
+            "meaningrepresentation": [
+                "meaning representation",
+                "meaning representations"
+            ]
+        },
+        "movie reviews": {
+            "moviereviews": [
+                "movie reviews"
+            ]
+        }
+    },
+    "SST": {
+        "spontaneous scheduling task": {
+            "spontaneousschedulingtask": [
+                "spontaneous scheduling task"
+            ]
+        },
+        "subset tree": {
+            "subsettree": [
+                "subset tree"
+            ]
+        }
+    },
+    "RNTN": {
+        "recursive neural tensor network": {
+            "recursiveneuraltensornetwork": [
+                "recursive neural tensor network",
+                "recursive neural tensor networks"
+            ]
+        }
+    },
+    "CU": {
+        "compound uni": {
+            "compounduni": [
+                "compound uni"
+            ]
+        },
+        "constraint unification": {
+            "constraintunification": [
+                "constraint unification"
+            ]
+        }
+    },
+    "MERT": {
+        "minimum error rate training": {
+            "minimumerrorratetraining": [
+                "minimum error rate training"
+            ]
+        }
+    },
+    "MP": {
+        "maximal projection": {
+            "maximalprojection": [
+                "maximal projection"
+            ]
+        },
+        "member of parliament": {
+            "memberofparliament": [
+                "member of parliament"
+            ]
+        },
+        "monolingual phrases": {
+            "monolingualphrases": [
+                "monolingual phrases"
+            ]
+        }
+    },
+    "TD": {
+        "deletion": {
+            "deletion": [
+                "deletion"
+            ]
+        },
+        "t candidates": {
+            "tcandidates": [
+                "t candidates"
+            ]
+        },
+        "terminology data": {
+            "terminologydata": [
+                "terminology data"
+            ]
+        },
+        "topic distillation": {
+            "topicdistillation": [
+                "topic distillation"
+            ]
+        },
+        "transducing dictionary": {
+            "transducingdictionary": [
+                "transducing dictionary"
+            ]
+        },
+        "tree depth": {
+            "treedepth": [
+                "tree depth"
+            ]
+        },
+        "tunisian dialect": {
+            "tunisiandialect": [
+                "tunisian dialect"
+            ]
+        },
+        "typical development": {
+            "typicaldevelopment": [
+                "typical development",
+                "typically developing"
+            ]
+        }
+    },
+    "INF": {
+        "infinitive": {
+            "infinitive": [
+                "infinitive",
+                "infinitives"
+            ]
+        },
+        "information": {
+            "information": [
+                "information"
+            ]
+        }
+    },
+    "EXP": {
+        "experiencer": {
+            "experiencer": [
+                "experiencer"
+            ]
+        },
+        "explicit": {
+            "explicit": [
+                "explicit"
+            ]
+        }
+    },
+    "GM": {
+        "gay marriage": {
+            "gaymarriage": [
+                "gay marriage"
+            ]
+        },
+        "google maps": {
+            "googlemaps": [
+                "google maps"
+            ]
+        },
+        "graph matching": {
+            "graphmatching": [
+                "graph matching"
+            ]
+        },
+        "graphical model": {
+            "graphicalmodel": [
+                "graphical model"
+            ]
+        }
+    },
+    "UAS": {
+        "unlabeled accuracy score": {
+            "unlabeledaccuracyscore": [
+                "unlabeled accuracy score",
+                "unlabeled accuracy scores",
+                "unlabeled attachment score"
+            ]
+        }
+    },
+    "SE": {
+        "sentence external": {
+            "sentenceexternal": [
+                "sentence external"
+            ]
+        },
+        "set expansion": {
+            "setexpansion": [
+                "set expansion"
+            ]
+        },
+        "standard error": {
+            "standarderror": [
+                "standard error"
+            ]
+        }
+    },
+    "MEM": {
+        "maximum entropy model": {
+            "maximumentropymodel": [
+                "maximum entropy model"
+            ]
+        },
+        "me model": {
+            "memodel": [
+                "me model"
+            ]
+        }
+    },
+    "LSA": {
+        "language sample analysis": {
+            "languagesampleanalysis": [
+                "language sample analysis",
+                "latent semantic analysis"
+            ]
+        }
+    },
+    "CUI": {
+        "c0024881": {
+            "c0024881": [
+                "c0024881"
+            ]
+        },
+        "concept unique identifier": {
+            "conceptuniqueidentifier": [
+                "concept unique identifier"
+            ]
+        }
+    },
+    "ENT": {
+        "entertainment": {
+            "entertainment": [
+                "entertainment"
+            ]
+        },
+        "entit": {
+            "entit": [
+                "entit"
+            ]
+        }
+    },
+    "OR": {
+        "ocator": {
+            "ocator": [
+                "ocator"
+            ]
+        },
+        "odds ratio": {
+            "oddsratio": [
+                "odds ratio"
+            ]
+        },
+        "onsetrhyme": {
+            "onsetrhyme": [
+                "onsetrhyme"
+            ]
+        },
+        "outside region": {
+            "outsideregion": [
+                "outside region"
+            ]
+        }
+    },
+    "DE": {
+        "dental": {
+            "dental": [
+                "dental"
+            ]
+        },
+        "document expansion": {
+            "documentexpansion": [
+                "document expansion"
+            ]
+        },
+        "german": {
+            "german": [
+                "german"
+            ]
+        }
+    },
+    "MAE": {
+        "mean absolute error": {
+            "meanabsoluteerror": [
+                "mean absolute error"
+            ]
+        }
+    },
+    "WER": {
+        "position independent": {
+            "positionindependent": [
+                "position independent"
+            ]
+        },
+        "word error rate": {
+            "worderrorrate": [
+                "word error rate"
+            ]
+        }
+    },
+    "GMM": {
+        "gaussian mixture model": {
+            "gaussianmixturemodel": [
+                "gaussian mixture model"
+            ]
+        }
+    },
+    "VL": {
+        "velar": {
+            "velar": [
+                "velar"
+            ]
+        },
+        "vulgar latin": {
+            "vulgarlatin": [
+                "vulgar latin"
+            ]
+        }
+    },
+    "PI": {
+        "portable computing devices": {
+            "portablecomputingdevices": [
+                "portable computing devices"
+            ]
+        },
+        "post inference": {
+            "postinference": [
+                "post inference"
+            ]
+        }
+    },
+    "IT": {
+        "information technology": {
+            "informationtechnology": [
+                "information technology"
+            ]
+        },
+        "italian": {
+            "italian": [
+                "italian"
+            ]
+        }
+    },
+    "CCA": {
+        "canonical correlation analysis": {
+            "canonicalcorrelationanalysis": [
+                "canonical correlation analysis"
+            ]
+        }
+    },
+    "ATN": {
+        "augmented transition networ": {
+            "augmentedtransitionnetwor": [
+                "augmented transition networ",
+                "augmented transition network"
+            ]
+        }
+    },
+    "GC": {
+        "generative component": {
+            "generativecomponent": [
+                "generative component"
+            ]
+        },
+        "grammatical coverage": {
+            "grammaticalcoverage": [
+                "grammatical coverage"
+            ]
+        }
+    },
+    "SLs": {
+        "sign languages": {
+            "signlanguages": [
+                "sign languages",
+                "sublanguages"
+            ]
+        }
+    },
+    "TDT": {
+        "topic detection and tracking": {
+            "topicdetectionandtracking": [
+                "topic detection and tracking"
+            ]
+        }
+    },
+    "VSM": {
+        "vector space mode": {
+            "vectorspacemode": [
+                "vector space mode",
+                "vector space model"
+            ]
+        }
+    },
+    "TSP": {
+        "traveling salesman problem": {
+            "travelingsalesmanproblem": [
+                "traveling salesman problem",
+                "travelling salesman problem"
+            ]
+        }
+    },
+    "AMT": {
+        "amazon mechanical turk": {
+            "amazonmechanicalturk": [
+                "amazon mechanical turk",
+                "amazon mechanical turks",
+                "amazons mechanical turk",
+                "amazons mechanicalturk"
+            ]
+        }
+    },
+    "NaN": {
+        "naive approach": {
+            "naiveapproach": [
+                "naive approach"
+            ]
+        },
+        "narrow": {
+            "narrow": [
+                "narrow"
+            ]
+        },
+        "network analysis": {
+            "networkanalysis": [
+                "network analysis"
+            ]
+        }
+    },
+    "FSMs": {
+        "finite state machine": {
+            "finitestatemachine": [
+                "finite state machine",
+                "finite state machines"
+            ]
+        }
+    },
+    "OTHER": {
+        "other expressions": {
+            "otherexpressions": [
+                "other expressions"
+            ]
+        },
+        "others": {
+            "others": [
+                "others"
+            ]
+        }
+    },
+    "BL": {
+        "backward looking": {
+            "backwardlooking": [
+                "backward looking"
+            ]
+        },
+        "baseline": {
+            "baseline": [
+                "baseline"
+            ]
+        },
+        "bilabial": {
+            "bilabial": [
+                "bilabial"
+            ]
+        }
+    },
+    "MWEs": {
+        "multi word expression": {
+            "multiwordexpression": [
+                "multi word expression",
+                "multiword expressions"
+            ]
+        }
+    },
+    "PASS": {
+        "passive": {
+            "passive": [
+                "passive"
+            ]
+        }
+    },
+    "GRE": {
+        "generation of referring expression": {
+            "generationofreferringexpression": [
+                "generation of referring expression",
+                "generation of referring expressions"
+            ]
+        }
+    },
+    "SPEC": {
+        "spectral clustering": {
+            "spectralclustering": [
+                "spectral clustering"
+            ]
+        }
+    },
+    "IDF": {
+        "inverse document frequenc": {
+            "inversedocumentfrequenc": [
+                "inverse document frequenc",
+                "inverse document frequency"
+            ]
+        }
+    },
+    "CompR": {
+        "compression rate": {
+            "compressionrate": [
+                "compression rate",
+                "compression rates"
+            ]
+        }
+    },
+    "RMSE": {
+        "root mean square error": {
+            "rootmeansquareerror": [
+                "root mean square error",
+                "root mean squared error"
+            ]
+        }
+    },
+    "EFF": {
+        "effect": {
+            "effect": [
+                "effect"
+            ]
+        }
+    },
+    "NEG": {
+        "negation": {
+            "negation": [
+                "negation",
+                "negations",
+                "negative"
+            ]
+        },
+        "negative instances": {
+            "negativeinstances": [
+                "negative instances"
+            ]
+        }
+    },
+    "PRP": {
+        "personal pronouns": {
+            "personalpronouns": [
+                "personal pronouns"
+            ]
+        },
+        "purpose": {
+            "purpose": [
+                "purpose"
+            ]
+        }
+    },
+    "DIR": {
+        "direction": {
+            "direction": [
+                "direction",
+                "directional"
+            ]
+        }
+    },
+    "MD": {
+        "minimum divergence": {
+            "minimumdivergence": [
+                "minimum divergence"
+            ]
+        },
+        "modal": {
+            "modal": [
+                "modal",
+                "mode"
+            ]
+        },
+        "mutual dependency": {
+            "mutualdependency": [
+                "mutual dependency"
+            ]
+        },
+        "rieser": {
+            "rieser": [
+                "rieser"
+            ]
+        }
+    },
+    "SELF": {
+        "selftraining": {
+            "selftraining": [
+                "selftraining"
+            ]
+        },
+        "talking to oneself": {
+            "talkingtooneself": [
+                "talking to oneself"
+            ]
+        }
+    },
+    "RAD": {
+        "radiology": {
+            "radiology": [
+                "radiology",
+                "radiology and"
+            ]
+        }
+    },
+    "WSI": {
+        "word sense induction": {
+            "wordsenseinduction": [
+                "word sense induction"
+            ]
+        }
+    },
+    "ET": {
+        "element": {
+            "element": [
+                "element"
+            ]
+        },
+        "expected translation": {
+            "expectedtranslation": [
+                "expected translation"
+            ]
+        }
+    },
+    "RA": {
+        "recognition accuracy": {
+            "recognitionaccuracy": [
+                "recognition accuracy"
+            ]
+        },
+        "reverse adjacent": {
+            "reverseadjacent": [
+                "reverse adjacent"
+            ]
+        }
+    },
+    "MG": {
+        "metagrammar": {
+            "metagrammar": [
+                "metagrammar"
+            ]
+        },
+        "minimalist grammar": {
+            "minimalistgrammar": [
+                "minimalist grammar"
+            ]
+        },
+        "monotone gap": {
+            "monotonegap": [
+                "monotone gap"
+            ]
+        }
+    },
+    "RS": {
+        "red state": {
+            "redstate": [
+                "red state"
+            ]
+        },
+        "reference standard": {
+            "referencestandard": [
+                "reference standard"
+            ]
+        },
+        "relevance score": {
+            "relevancescore": [
+                "relevance score",
+                "resource scarce"
+            ]
+        },
+        "role span": {
+            "rolespan": [
+                "role span"
+            ]
+        }
+    },
+    "PF": {
+        "position features": {
+            "positionfeatures": [
+                "position features"
+            ]
+        },
+        "predicate form": {
+            "predicateform": [
+                "predicate form",
+                "predicate frame"
+            ]
+        },
+        "predicted frequency": {
+            "predictedfrequency": [
+                "predicted frequency"
+            ]
+        }
+    },
+    "COMP": {
+        "competition": {
+            "competition": [
+                "competition",
+                "completion"
+            ]
+        },
+        "complementizers": {
+            "complementizers": [
+                "complementizers"
+            ]
+        },
+        "compound": {
+            "compound": [
+                "compound"
+            ]
+        },
+        "compressor": {
+            "compressor": [
+                "compressor"
+            ]
+        }
+    },
+    "TSG": {
+        "tree substitution grammar": {
+            "treesubstitutiongrammar": [
+                "tree substitution grammar"
+            ]
+        }
+    },
+    "QP": {
+        "quadratic program": {
+            "quadraticprogram": [
+                "quadratic program",
+                "quadratic programming"
+            ]
+        },
+        "question processing": {
+            "questionprocessing": [
+                "question processing"
+            ]
+        }
+    },
+    "PN": {
+        "personal name": {
+            "personalname": [
+                "personal name",
+                "proper name",
+                "proper names"
+            ]
+        },
+        "pos ngrams": {
+            "posngrams": [
+                "pos ngrams"
+            ]
+        },
+        "preceding noun phrase": {
+            "precedingnounphrase": [
+                "preceding noun phrase"
+            ]
+        },
+        "proper noun": {
+            "propernoun": [
+                "proper noun"
+            ]
+        }
+    },
+    "DNN": {
+        "deep neural network": {
+            "deepneuralnetwork": [
+                "deep neural network"
+            ]
+        }
+    },
+    "ConjVs": {
+        "conjunct verbs": {
+            "conjunctverbs": [
+                "conjunct verbs"
+            ]
+        }
+    },
+    "PRF": {
+        "pseudo relevance feedback": {
+            "pseudorelevancefeedback": [
+                "pseudo relevance feedback"
+            ]
+        }
+    },
+    "CM": {
+        "carpetbagger": {
+            "carpetbagger": [
+                "carpetbagger"
+            ]
+        },
+        "cm": {
+            "cm": [
+                "cm"
+            ]
+        }
+    },
+    "MIRA": {
+        "margin infused relaxed algorithm": {
+            "margininfusedrelaxedalgorithm": [
+                "margin infused relaxed algorithm"
+            ]
+        },
+        "mcdonald and pereira": {
+            "mcdonaldandpereira": [
+                "mcdonald and pereira"
+            ]
+        }
+    },
+    "INC": {
+        "incompletive": {
+            "incompletive": [
+                "incompletive"
+            ]
+        },
+        "incorrect": {
+            "incorrect": [
+                "incorrect"
+            ]
+        }
+    },
+    "UGC": {
+        "user generated content": {
+            "usergeneratedcontent": [
+                "user generated content"
+            ]
+        }
+    },
+    "HAC": {
+        "hierarchical agglomerative clustering": {
+            "hierarchicalagglomerativeclustering": [
+                "hierarchical agglomerative clustering"
+            ]
+        }
+    },
+    "SO": {
+        "semantic orientation": {
+            "semanticorientation": [
+                "semantic orientation"
+            ]
+        },
+        "sequence ontology": {
+            "sequenceontology": [
+                "sequence ontology"
+            ]
+        },
+        "source order": {
+            "sourceorder": [
+                "source order"
+            ]
+        }
+    },
+    "IP": {
+        "i pi": {
+            "ipi": [
+                "i pi"
+            ]
+        },
+        "ideal point": {
+            "idealpoint": [
+                "ideal point"
+            ]
+        },
+        "independent phrase": {
+            "independentphrase": [
+                "independent phrase"
+            ]
+        },
+        "intellectual property": {
+            "intellectualproperty": [
+                "intellectual property"
+            ]
+        }
+    },
+    "TAL": {
+        "traitement automatique des langue": {
+            "traitementautomatiquedeslangue": [
+                "traitement automatique des langue",
+                "traitement automatique des langues"
+            ]
+        }
+    },
+    "SV": {
+        "shared variables": {
+            "sharedvariables": [
+                "shared variables"
+            ]
+        },
+        "support vector": {
+            "supportvector": [
+                "support vector"
+            ]
+        },
+        "swedish": {
+            "swedish": [
+                "swedish"
+            ]
+        }
+    },
+    "FV": {
+        "filling status": {
+            "fillingstatus": [
+                "filling status"
+            ]
+        },
+        "full verb": {
+            "fullverb": [
+                "full verb"
+            ]
+        }
+    },
+    "NL": {
+        "dutch": {
+            "dutch": [
+                "dutch"
+            ]
+        },
+        "natura l  language": {
+            "naturallanguage": [
+                "natura l  language",
+                "natural anguage"
+            ]
+        },
+        "nonlem": {
+            "nonlem": [
+                "nonlem"
+            ]
+        },
+        "nonliteral": {
+            "nonliteral": [
+                "nonliteral"
+            ]
+        },
+        "northern light": {
+            "northernlight": [
+                "northern light"
+            ]
+        }
+    },
+    "DTs": {
+        "decision trees": {
+            "decisiontrees": [
+                "decision trees"
+            ]
+        },
+        "discourse trees": {
+            "discoursetrees": [
+                "discourse trees"
+            ]
+        }
+    },
+    "VBD": {
+        "past tense verb": {
+            "pasttenseverb": [
+                "past tense verb"
+            ]
+        },
+        "verb past tense": {
+            "verbpasttense": [
+                "verb past tense"
+            ]
+        }
+    },
+    "VBZ": {
+        "nns": {
+            "nns": [
+                "nns"
+            ]
+        },
+        "plays": {
+            "plays": [
+                "plays"
+            ]
+        }
+    },
+    "MZ": {
+        "magazine": {
+            "magazine": [
+                "magazine"
+            ]
+        }
+    },
+    "PSB": {
+        "pacific symposium on biocomputing": {
+            "pacificsymposiumonbiocomputing": [
+                "pacific symposium on biocomputing"
+            ]
+        },
+        "possibility": {
+            "possibility": [
+                "possibility"
+            ]
+        }
+    },
+    "RTE": {
+        "recognizing textual entailment": {
+            "recognizingtextualentailment": [
+                "recognizing textual entailment"
+            ]
+        }
+    },
+    "IM": {
+        "input manager": {
+            "inputmanager": [
+                "input manager"
+            ]
+        },
+        "instant messaging": {
+            "instantmessaging": [
+                "instant messaging"
+            ]
+        },
+        "interregnum": {
+            "interregnum": [
+                "interregnum"
+            ]
+        }
+    },
+    "DSMs": {
+        "distributional semantic models": {
+            "distributionalsemanticmodels": [
+                "distributional semantic models"
+            ]
+        }
+    },
+    "ARG": {
+        "arguments": {
+            "arguments": [
+                "arguments"
+            ]
+        },
+        "npvpadj": {
+            "npvpadj": [
+                "npvpadj"
+            ]
+        }
+    },
+    "KT": {
+        "kind types": {
+            "kindtypes": [
+                "kind types"
+            ]
+        },
+        "knowledge type": {
+            "knowledgetype": [
+                "knowledge type"
+            ]
+        }
+    },
+    "DARPA": {
+        "defense advanced research projects agency": {
+            "defenseadvancedresearchprojectsagency": [
+                "defense advanced research projects agency",
+                "research projects agency"
+            ]
+        }
+    },
+    "TOP": {
+        "token on top": {
+            "tokenontop": [
+                "token on top"
+            ]
+        },
+        "topic": {
+            "topic": [
+                "topic"
+            ]
+        },
+        "topic marker": {
+            "topicmarker": [
+                "topic marker"
+            ]
+        }
+    },
+    "ABS": {
+        "abstract": {
+            "abstract": [
+                "abstract",
+                "abstraction"
+            ]
+        }
+    },
+    "SPA": {
+        "space": {
+            "space": [
+                "space"
+            ]
+        },
+        "speech act": {
+            "speechact": [
+                "speech act"
+            ]
+        }
+    },
+    "AT": {
+        "activity tree": {
+            "activitytree": [
+                "activity tree"
+            ]
+        },
+        "all templates": {
+            "alltemplates": [
+                "all templates"
+            ]
+        },
+        "answer type": {
+            "answertype": [
+                "answer type"
+            ]
+        },
+        "article": {
+            "article": [
+                "article"
+            ]
+        },
+        "attach": {
+            "attach": [
+                "attach"
+            ]
+        }
+    },
+    "ACT": {
+        "accumulated tag counts": {
+            "accumulatedtagcounts": [
+                "accumulated tag counts"
+            ]
+        },
+        "active": {
+            "active": [
+                "active",
+                "actor"
+            ]
+        },
+        "arboreal context tree": {
+            "arborealcontexttree": [
+                "arboreal context tree"
+            ]
+        }
+    },
+    "PAT": {
+        "patient": {
+            "patient": [
+                "patient",
+                "pattern"
+            ]
+        }
+    },
+    "BM": {
+        "binding modul": {
+            "bindingmodul": [
+                "binding modul",
+                "binding module"
+            ]
+        }
+    },
+    "AQUAINT": {
+        "advanced question answering for intelligence": {
+            "advancedquestionansweringforintelligence": [
+                "advanced question answering for intelligence",
+                "answering for intelligence"
+            ]
+        }
+    },
+    "ANIM": {
+        "animal": {
+            "animal": [
+                "animal",
+                "animate"
+            ]
+        }
+    },
+    "IS": {
+        "information status": {
+            "informationstatus": [
+                "information status",
+                "information structure"
+            ]
+        },
+        "is": {
+            "is": [
+                "is"
+            ]
+        },
+        "iterative sealing": {
+            "iterativesealing": [
+                "iterative sealing"
+            ]
+        }
+    },
+    "MC": {
+        "major claim": {
+            "majorclaim": [
+                "major claim"
+            ]
+        },
+        "miller and charles": {
+            "millerandcharles": [
+                "miller and charles"
+            ]
+        },
+        "misclassified": {
+            "misclassified": [
+                "misclassified"
+            ]
+        }
+    },
+    "COR": {
+        "coreference": {
+            "coreference": [
+                "coreference"
+            ]
+        },
+        "corrective": {
+            "corrective": [
+                "corrective"
+            ]
+        }
+    },
+    "AF": {
+        "acoustic features": {
+            "acousticfeatures": [
+                "acoustic features"
+            ]
+        },
+        "adjusted frequency": {
+            "adjustedfrequency": [
+                "adjusted frequency"
+            ]
+        }
+    },
+    "NLI": {
+        "native language identification": {
+            "nativelanguageidentification": [
+                "native language identification"
+            ]
+        },
+        "natural language inference": {
+            "naturallanguageinference": [
+                "natural language inference"
+            ]
+        }
+    },
+    "GLM": {
+        "generalised linear model": {
+            "generalisedlinearmodel": [
+                "generalised linear model",
+                "generalised linear models",
+                "global linear model"
+            ]
+        }
+    },
+    "DRT": {
+        "discourse representation theory": {
+            "discourserepresentationtheory": [
+                "discourse representation theory"
+            ]
+        }
+    },
+    "AA": {
+        "an adverb": {
+            "anadverb": [
+                "an adverb"
+            ]
+        },
+        "automatically annotated training": {
+            "automaticallyannotatedtraining": [
+                "automatically annotated training"
+            ]
+        }
+    },
+    "MUC-6": {
+        "message understanding conference": {
+            "messageunderstandingconference": [
+                "message understanding conference",
+                "message understanding conference 6"
+            ]
+        }
+    },
+    "REG": {
+        "referring expression generation": {
+            "referringexpressiongeneration": [
+                "referring expression generation"
+            ]
+        },
+        "regression": {
+            "regression": [
+                "regression"
+            ]
+        }
+    },
+    "CNs": {
+        "common noun": {
+            "commonnoun": [
+                "common noun",
+                "compound nouns"
+            ]
+        }
+    },
+    "GA": {
+        "genetic algorithm": {
+            "geneticalgorithm": [
+                "genetic algorithm"
+            ]
+        },
+        "gravitationally": {
+            "gravitationally": [
+                "gravitationally"
+            ]
+        }
+    },
+    "MNS": {
+        "means": {
+            "means": [
+                "means"
+            ]
+        }
+    },
+    "MTUs": {
+        "minimal translation units": {
+            "minimaltranslationunits": [
+                "minimal translation units"
+            ]
+        }
+    },
+    "TL": {
+        "target  language": {
+            "targetlanguage": [
+                "target  language",
+                "target language"
+            ]
+        },
+        "text length": {
+            "textlength": [
+                "text length",
+                "tweet length"
+            ]
+        },
+        "timeline": {
+            "timeline": [
+                "timeline"
+            ]
+        },
+        "total": {
+            "total": [
+                "total"
+            ]
+        }
+    },
+    "LSH": {
+        "locality sensitive hashing": {
+            "localitysensitivehashing": [
+                "locality sensitive hashing"
+            ]
+        }
+    },
+    "SYN": {
+        "synonyms": {
+            "synonyms": [
+                "synonyms"
+            ]
+        },
+        "syntax": {
+            "syntax": [
+                "syntax"
+            ]
+        }
+    },
+    "GT": {
+        "generalized transformation": {
+            "generalizedtransformation": [
+                "generalized transformation",
+                "google translation"
+            ]
+        },
+        "glottal": {
+            "glottal": [
+                "glottal"
+            ]
+        },
+        "google translate": {
+            "googletranslate": [
+                "google translate"
+            ]
+        }
+    },
+    "BG": {
+        "background": {
+            "background": [
+                "background"
+            ]
+        },
+        "bulgarian": {
+            "bulgarian": [
+                "bulgarian"
+            ]
+        }
+    },
+    "STK": {
+        "syntactic tree kernel": {
+            "syntactictreekernel": [
+                "syntactic tree kernel"
+            ]
+        }
+    },
+    "SWN": {
+        "aligned wordnets": {
+            "alignedwordnets": [
+                "aligned wordnets"
+            ]
+        },
+        "sentiwordne": {
+            "sentiwordne": [
+                "sentiwordne"
+            ]
+        }
+    },
+    "CI": {
+        "confidence intervals": {
+            "confidenceintervals": [
+                "confidence intervals"
+            ]
+        },
+        "conventional implicatures": {
+            "conventionalimplicatures": [
+                "conventional implicatures"
+            ]
+        }
+    },
+    "CWS": {
+        "chinese word segmentation": {
+            "chinesewordsegmentation": [
+                "chinese word segmentation"
+            ]
+        },
+        "cluewordsummarizer": {
+            "cluewordsummarizer": [
+                "cluewordsummarizer"
+            ]
+        }
+    },
+    "IIS": {
+        "improved iterative scaling": {
+            "improvediterativescaling": [
+                "improved iterative scaling",
+                "iterative scaling"
+            ]
+        }
+    },
+    "CSUR": {
+        "computing surveys": {
+            "computingsurveys": [
+                "computing surveys"
+            ]
+        }
+    },
+    "LB": {
+        "lazyboost": {
+            "lazyboost": [
+                "lazyboost"
+            ]
+        },
+        "lexical baseline": {
+            "lexicalbaseline": [
+                "lexical baseline"
+            ]
+        },
+        "likely beneficial": {
+            "likelybeneficial": [
+                "likely beneficial"
+            ]
+        },
+        "listenerbot": {
+            "listenerbot": [
+                "listenerbot"
+            ]
+        }
+    },
+    "AFP": {
+        "agence france presse": {
+            "agencefrancepresse": [
+                "agence france presse",
+                "agence francepresse"
+            ]
+        }
+    },
+    "SSST": {
+        "statistical machine translation": {
+            "statisticalmachinetranslation": [
+                "statistical machine translation"
+            ]
+        },
+        "syntax and structure in statistical translation": {
+            "syntaxandstructureinstatisticaltranslation": [
+                "syntax and structure in statistical translation"
+            ]
+        }
+    },
+    "DLG": {
+        "description length gain": {
+            "descriptionlengthgain": [
+                "description length gain"
+            ]
+        }
+    },
+    "NC": {
+        "noun compound": {
+            "nouncompound": [
+                "noun compound"
+            ]
+        },
+        "np2 ": {
+            "np2": [
+                "np2 "
+            ]
+        }
+    },
+    "SLT": {
+        "spoken language technology": {
+            "spokenlanguagetechnology": [
+                "spoken language technology",
+                "spoken language translation"
+            ]
+        }
+    },
+    "ADJP": {
+        "adjective phrase": {
+            "adjectivephrase": [
+                "adjective phrase"
+            ]
+        }
+    },
+    "UC": {
+        "unix consultant": {
+            "unixconsultant": [
+                "unix consultant"
+            ]
+        },
+        "user centered": {
+            "usercentered": [
+                "user centered"
+            ]
+        }
+    },
+    "BTEC": {
+        "basic travel expression corpus": {
+            "basictravelexpressioncorpus": [
+                "basic travel expression corpus",
+                "basic travel expressions corpus"
+            ]
+        }
+    },
+    "ESA": {
+        "explicit": {
+            "explicit": [
+                "explicit"
+            ]
+        },
+        "explicit semantic analysis": {
+            "explicitsemanticanalysis": [
+                "explicit semantic analysis"
+            ]
+        }
+    },
+    "MMR": {
+        "maximal marginal relevance": {
+            "maximalmarginalrelevance": [
+                "maximal marginal relevance"
+            ]
+        }
+    },
+    "MOOCs": {
+        "massive open online courses": {
+            "massiveopenonlinecourses": [
+                "massive open online courses"
+            ]
+        }
+    },
+    "TT": {
+        "target time": {
+            "targettime": [
+                "target time"
+            ]
+        },
+        "texttiling": {
+            "texttiling": [
+                "texttiling"
+            ]
+        },
+        "themetool": {
+            "themetool": [
+                "themetool"
+            ]
+        },
+        "tree transducer": {
+            "treetransducer": [
+                "tree transducer"
+            ]
+        },
+        "trigger term": {
+            "triggerterm": [
+                "trigger term"
+            ]
+        }
+    },
+    "NARR": {
+        "narrativ": {
+            "narrativ": [
+                "narrativ",
+                "narrative"
+            ]
+        }
+    },
+    "CITEC": {
+        "center of excellence": {
+            "centerofexcellence": [
+                "center of excellence"
+            ]
+        },
+        "cognitive interaction technology": {
+            "cognitiveinteractiontechnology": [
+                "cognitive interaction technology"
+            ]
+        }
+    },
+    "DG": {
+        "dependency gramma": {
+            "dependencygramma": [
+                "dependency gramma",
+                "dependency grammar",
+                "dependency grammars"
+            ]
+        }
+    },
+    "MRD": {
+        "machine readable dictionaries": {
+            "machinereadabledictionaries": [
+                "machine readable dictionaries",
+                "machine readable dictionary"
+            ]
+        }
+    },
+    "MN": {
+        "match numbe": {
+            "matchnumbe": [
+                "match numbe"
+            ]
+        },
+        "mixed ngrams": {
+            "mixedngrams": [
+                "mixed ngrams"
+            ]
+        }
+    },
+    "STrain": {
+        "source domain training": {
+            "sourcedomaintraining": [
+                "source domain training",
+                "source domain training data"
+            ]
+        }
+    },
+    "HITs": {
+        "human intelligence tasks": {
+            "humanintelligencetasks": [
+                "human intelligence tasks"
+            ]
+        }
+    },
+    "RWN": {
+        "right wing new": {
+            "rightwingnew": [
+                "right wing new",
+                "right wing news"
+            ]
+        }
+    },
+    "BGH": {
+        "bunrui goi hyou": {
+            "bunruigoihyou": [
+                "bunrui goi hyou"
+            ]
+        },
+        "bunruigoihyo thesaurus": {
+            "bunruigoihyothesaurus": [
+                "bunruigoihyo thesaurus"
+            ]
+        }
+    },
+    "ABL": {
+        "ablative": {
+            "ablative": [
+                "ablative"
+            ]
+        },
+        "alignment based learning": {
+            "alignmentbasedlearning": [
+                "alignment based learning"
+            ]
+        }
+    },
+    "PK": {
+        "paul krugman": {
+            "paulkrugman": [
+                "paul krugman"
+            ]
+        },
+        "peking university": {
+            "pekinguniversity": [
+                "peking university"
+            ]
+        },
+        "prior knowledge": {
+            "priorknowledge": [
+                "prior knowledge"
+            ]
+        }
+    },
+    "WC": {
+        "weightingbased corrector": {
+            "weightingbasedcorrector": [
+                "weightingbased corrector"
+            ]
+        },
+        "words correct": {
+            "wordscorrect": [
+                "words correct"
+            ]
+        }
+    },
+    "SDSs": {
+        "spoken dialogue systems": {
+            "spokendialoguesystems": [
+                "spoken dialogue systems"
+            ]
+        }
+    },
+    "CNN": {
+        "convolutional neural network": {
+            "convolutionalneuralnetwork": [
+                "convolutional neural network",
+                "convolutional neural networks"
+            ]
+        }
+    },
+    "BNF": {
+        "backus normal form": {
+            "backusnormalform": [
+                "backus normal form"
+            ]
+        },
+        "beneficial": {
+            "beneficial": [
+                "beneficial"
+            ]
+        }
+    },
+    "INFL": {
+        "in the transformational": {
+            "inthetransformational": [
+                "in the transformational"
+            ]
+        },
+        "inflection": {
+            "inflection": [
+                "inflection"
+            ]
+        }
+    },
+    "TB": {
+        "the base": {
+            "thebase": [
+                "the base"
+            ]
+        },
+        "tongue body": {
+            "tonguebody": [
+                "tongue body"
+            ]
+        }
+    },
+    "CLTE": {
+        "classifiers for detecting": {
+            "classifiersfordetecting": [
+                "classifiers for detecting"
+            ]
+        },
+        "crosslingual textual entailment": {
+            "crosslingualtextualentailment": [
+                "crosslingual textual entailment"
+            ]
+        }
+    },
+    "SLS": {
+        "spoken language system": {
+            "spokenlanguagesystem": [
+                "spoken language system",
+                "spoken language systems"
+            ]
+        }
+    },
+    "DD": {
+        "dependent": {
+            "dependent": [
+                "dependent"
+            ]
+        },
+        "dual decomposition": {
+            "dualdecomposition": [
+                "dual decomposition"
+            ]
+        }
+    },
+    "DIM": {
+        "diminishers": {
+            "diminishers": [
+                "diminishers"
+            ]
+        },
+        "diminutive": {
+            "diminutive": [
+                "diminutive"
+            ]
+        }
+    },
+    "PDN": {
+        "peoples daily news": {
+            "peoplesdailynews": [
+                "peoples daily news"
+            ]
+        },
+        "predictive dialogue network": {
+            "predictivedialoguenetwork": [
+                "predictive dialogue network"
+            ]
+        }
+    },
+    "ALR": {
+        "asian language resource": {
+            "asianlanguageresource": [
+                "asian language resource",
+                "asian language resources"
+            ]
+        }
+    },
+    "STT": {
+        "speech recognition outputs": {
+            "speechrecognitionoutputs": [
+                "speech recognition outputs"
+            ]
+        },
+        "speechtotext": {
+            "speechtotext": [
+                "speechtotext"
+            ]
+        }
+    },
+    "WSDM": {
+        "web search and data mining": {
+            "websearchanddatamining": [
+                "web search and data mining",
+                "web search and web data mining"
+            ]
+        }
+    },
+    "VPE": {
+        "verb phrase ellipsis": {
+            "verbphraseellipsis": [
+                "verb phrase ellipsis"
+            ]
+        }
+    },
+    "AUX": {
+        "auxiliaries": {
+            "auxiliaries": [
+                "auxiliaries"
+            ]
+        }
+    },
+    "ISI": {
+        "information sciences institute": {
+            "informationsciencesinstitute": [
+                "information sciences institute",
+                "international statistical institute"
+            ]
+        }
+    },
+    "STe": {
+        "sentence testing": {
+            "sentencetesting": [
+                "sentence testing",
+                "sentences for testing"
+            ]
+        }
+    },
+    "NLM": {
+        "neural language model": {
+            "neurallanguagemodel": [
+                "neural language model"
+            ]
+        }
+    },
+    "CPM": {
+        "continuous profile model": {
+            "continuousprofilemodel": [
+                "continuous profile model",
+                "continuous profile models"
+            ]
+        }
+    },
+    "RL": {
+        "reinforcement learning": {
+            "reinforcementlearning": [
+                "reinforcement learning"
+            ]
+        },
+        "rel loc": {
+            "relloc": [
+                "rel loc"
+            ]
+        }
+    },
+    "DO": {
+        "direct objec": {
+            "directobjec": [
+                "direct objec",
+                "direct object"
+            ]
+        }
+    },
+    "SVMs": {
+        "support vector machine": {
+            "supportvectormachine": [
+                "support vector machine",
+                "support vector machines"
+            ]
+        }
+    },
+    "TR": {
+        "template relatio": {
+            "templaterelatio": [
+                "template relatio",
+                "template relation"
+            ]
+        },
+        "terse reply": {
+            "tersereply": [
+                "terse reply"
+            ]
+        },
+        "translation retrieval": {
+            "translationretrieval": [
+                "translation retrieval"
+            ]
+        }
+    },
+    "CTB": {
+        "chinese treebank": {
+            "chinesetreebank": [
+                "chinese treebank"
+            ]
+        }
+    },
+    "HDT": {
+        "hierarchical dirichlet tree": {
+            "hierarchicaldirichlettree": [
+                "hierarchical dirichlet tree"
+            ]
+        },
+        "hindi dependency treebank": {
+            "hindidependencytreebank": [
+                "hindi dependency treebank"
+            ]
+        }
+    },
+    "MaxEnt": {
+        "maximum entropy": {
+            "maximumentropy": [
+                "maximum entropy",
+                "mum entropy"
+            ]
+        },
+        "maximum entropy classification": {
+            "maximumentropyclassification": [
+                "maximum entropy classification"
+            ]
+        }
+    },
+    "ISS": {
+        "iterative semantic specialization": {
+            "iterativesemanticspecialization": [
+                "iterative semantic specialization",
+                "semantic specialization"
+            ]
+        }
+    },
+    "DOM": {
+        "direct orthographic mapping": {
+            "directorthographicmapping": [
+                "direct orthographic mapping"
+            ]
+        },
+        "document object model": {
+            "documentobjectmodel": [
+                "document object model"
+            ]
+        }
+    },
+    "SC": {
+        "score": {
+            "score": [
+                "score"
+            ]
+        },
+        "second": {
+            "second": [
+                "second",
+                "section",
+                "semcor"
+            ]
+        },
+        "simple classification": {
+            "simpleclassification": [
+                "simple classification"
+            ]
+        },
+        "simplified chinese": {
+            "simplifiedchinese": [
+                "simplified chinese"
+            ]
+        },
+        "string consistency": {
+            "stringconsistency": [
+                "string consistency"
+            ]
+        },
+        "system combination": {
+            "systemcombination": [
+                "system combination"
+            ]
+        }
+    },
+    "PM": {
+        "parenthesized material": {
+            "parenthesizedmaterial": [
+                "parenthesized material"
+            ]
+        },
+        "priority model": {
+            "prioritymodel": [
+                "priority model",
+                "prosody model"
+            ]
+        }
+    },
+    "SGD": {
+        "stochastic gradient descent": {
+            "stochasticgradientdescent": [
+                "stochastic gradient descent"
+            ]
+        }
+    },
+    "LC": {
+        "left context": {
+            "leftcontext": [
+                "left context",
+                "left corner"
+            ]
+        },
+        "less computerized": {
+            "lesscomputerized": [
+                "less computerized"
+            ]
+        },
+        "lexical cohesion": {
+            "lexicalcohesion": [
+                "lexical cohesion"
+            ]
+        },
+        "low constant": {
+            "lowconstant": [
+                "low constant"
+            ]
+        }
+    },
+    "MAP": {
+        "maximum a posteriori": {
+            "maximumaposteriori": [
+                "maximum a posteriori"
+            ]
+        },
+        "mean average precision": {
+            "meanaverageprecision": [
+                "mean average precision"
+            ]
+        }
+    },
+    "HD": {
+        "head": {
+            "head": [
+                "head"
+            ]
+        },
+        "headdriven": {
+            "headdriven": [
+                "headdriven"
+            ]
+        },
+        "hierarchical discriminative": {
+            "hierarchicaldiscriminative": [
+                "hierarchical discriminative"
+            ]
+        }
+    },
+    "CG": {
+        "cancer genetics": {
+            "cancergenetics": [
+                "cancer genetics"
+            ]
+        },
+        "categorial grammar": {
+            "categorialgrammar": [
+                "categorial grammar"
+            ]
+        },
+        "crowd grades": {
+            "crowdgrades": [
+                "crowd grades"
+            ]
+        }
+    },
+    "LN": {
+        "lin": {
+            "lin": [
+                "lin"
+            ]
+        },
+        "location name": {
+            "locationname": [
+                "location name"
+            ]
+        },
+        "logical necessity": {
+            "logicalnecessity": [
+                "logical necessity"
+            ]
+        }
+    },
+    "GE": {
+        "generalized expectation": {
+            "generalizedexpectation": [
+                "generalized expectation"
+            ]
+        },
+        "genia": {
+            "genia": [
+                "genia"
+            ]
+        },
+        "genia event": {
+            "geniaevent": [
+                "genia event"
+            ]
+        },
+        "global entropy": {
+            "globalentropy": [
+                "global entropy"
+            ]
+        }
+    },
+    "MOD": {
+        "modals": {
+            "modals": [
+                "modals"
+            ]
+        },
+        "modifier": {
+            "modifier": [
+                "modifier"
+            ]
+        }
+    },
+    "CP": {
+        "cluster purity": {
+            "clusterpurity": [
+                "cluster purity"
+            ]
+        },
+        "complex predicate": {
+            "complexpredicate": [
+                "complex predicate"
+            ]
+        },
+        "constraint programming": {
+            "constraintprogramming": [
+                "constraint programming"
+            ]
+        }
+    },
+    "RF": {
+        "random forest": {
+            "randomforest": [
+                "random forest"
+            ]
+        },
+        "request for feedback": {
+            "requestforfeedback": [
+                "request for feedback"
+            ]
+        }
+    },
+    "LI": {
+        "language identification": {
+            "languageidentification": [
+                "language identification"
+            ]
+        },
+        "linear interpolation": {
+            "linearinterpolation": [
+                "linear interpolation"
+            ]
+        },
+        "linguist": {
+            "linguist": [
+                "linguist"
+            ]
+        }
+    },
+    "LNRE": {
+        "large number of rare events": {
+            "largenumberofrareevents": [
+                "large number of rare events"
+            ]
+        }
+    },
+    "PT": {
+        "parse tree": {
+            "parsetree": [
+                "parse tree",
+                "partial tree"
+            ]
+        },
+        "part": {
+            "part": [
+                "part"
+            ]
+        },
+        "phrase table": {
+            "phrasetable": [
+                "phrase table"
+            ]
+        },
+        "portugese": {
+            "portugese": [
+                "portugese",
+                "portuguese"
+            ]
+        },
+        "probability threshold": {
+            "probabilitythreshold": [
+                "probability threshold"
+            ]
+        },
+        "probable alignments": {
+            "probablealignments": [
+                "probable alignments"
+            ]
+        },
+        "prompts": {
+            "prompts": [
+                "prompts"
+            ]
+        }
+    },
+    "GR": {
+        "glue rule": {
+            "gluerule": [
+                "glue rule"
+            ]
+        },
+        "grammatical relation": {
+            "grammaticalrelation": [
+                "grammatical relation",
+                "grammatical relations"
+            ]
+        },
+        "greetin": {
+            "greetin": [
+                "greetin"
+            ]
+        },
+        "group": {
+            "group": [
+                "group"
+            ]
+        },
+        "or": {
+            "or": [
+                "or"
+            ]
+        }
+    },
+    "MEMM": {
+        "maximum entropy markov model": {
+            "maximumentropymarkovmodel": [
+                "maximum entropy markov model"
+            ]
+        }
+    },
+    "AWN": {
+        "aligned wordnets": {
+            "alignedwordnets": [
+                "aligned wordnets",
+                "arabic wordnet"
+            ]
+        }
+    },
+    "FM": {
+        "f measure": {
+            "fmeasure": [
+                "f measure",
+                "fmeasures"
+            ]
+        },
+        "frame matcher": {
+            "framematcher": [
+                "frame matcher"
+            ]
+        }
+    },
+    "ERR": {
+        "error rate reductions": {
+            "errorratereductions": [
+                "error rate reductions",
+                "error rates"
+            ]
+        }
+    },
+    "HI": {
+        "harvard inquirer": {
+            "harvardinquirer": [
+                "harvard inquirer"
+            ]
+        },
+        "hindi": {
+            "hindi": [
+                "hindi"
+            ]
+        }
+    },
+    "LCS": {
+        "least common subsumer": {
+            "leastcommonsubsumer": [
+                "least common subsumer",
+                "longest common subsequenc",
+                "longest common substring"
+            ]
+        },
+        "lexical conceptual structure": {
+            "lexicalconceptualstructure": [
+                "lexical conceptual structure"
+            ]
+        },
+        "longest common subsequence": {
+            "longestcommonsubsequence": [
+                "longest common subsequence"
+            ]
+        }
+    },
+    "MDL": {
+        "minimum description length": {
+            "minimumdescriptionlength": [
+                "minimum description length",
+                "minimum description logic"
+            ]
+        }
+    },
+    "OW": {
+        "omegawiki": {
+            "omegawiki": [
+                "omegawiki"
+            ]
+        },
+        "overwrite": {
+            "overwrite": [
+                "overwrite"
+            ]
+        }
+    },
+    "TTS": {
+        "text to speech": {
+            "texttospeech": [
+                "text to speech"
+            ]
+        },
+        "text to speech synthesis": {
+            "texttospeechsynthesis": [
+                "text to speech synthesis"
+            ]
+        }
+    },
+    "STA": {
+        "stat": {
+            "stat": [
+                "stat"
+            ]
+        },
+        "stat ive": {
+            "stative": [
+                "stat ive"
+            ]
+        }
+    },
+    "FST": {
+        "finite state transducer": {
+            "finitestatetransducer": [
+                "finite state transducer"
+            ]
+        }
+    },
+    "SDI": {
+        "selective dissemination": {
+            "selectivedissemination": [
+                "selective dissemination"
+            ]
+        },
+        "sense data item": {
+            "sensedataitem": [
+                "sense data item"
+            ]
+        }
+    },
+    "DL": {
+        "decision list": {
+            "decisionlist": [
+                "decision list"
+            ]
+        },
+        "description logic": {
+            "descriptionlogic": [
+                "description logic",
+                "distortion limit"
+            ]
+        }
+    },
+    "ORIG": {
+        "origin": {
+            "origin": [
+                "origin"
+            ]
+        }
+    },
+    "UK": {
+        "university": {
+            "university": [
+                "university"
+            ]
+        },
+        "university of manchester": {
+            "universityofmanchester": [
+                "university of manchester",
+                "university of oxford",
+                "university of sheffield",
+                "university of sunderland"
+            ]
+        }
+    },
+    "TAGs": {
+        "tree adjoining grammars": {
+            "treeadjoininggrammars": [
+                "tree adjoining grammars"
+            ]
+        }
+    },
+    "SVR": {
+        "support vector regression": {
+            "supportvectorregression": [
+                "support vector regression"
+            ]
+        }
+    },
+    "AE": {
+        "answer extraction": {
+            "answerextraction": [
+                "answer extraction"
+            ]
+        },
+        "autoepistemic": {
+            "autoepistemic": [
+                "autoepistemic"
+            ]
+        }
+    },
+    "NG": {
+        "ngrams": {
+            "ngrams": [
+                "ngrams"
+            ]
+        },
+        "noun group": {
+            "noungroup": [
+                "noun group",
+                "noun groups"
+            ]
+        },
+        "null grammar": {
+            "nullgrammar": [
+                "null grammar"
+            ]
+        }
+    },
+    "RM": {
+        "reparandum": {
+            "reparandum": [
+                "reparandum"
+            ]
+        },
+        "resource management": {
+            "resourcemanagement": [
+                "resource management"
+            ]
+        },
+        "restricted memory": {
+            "restrictedmemory": [
+                "restricted memory"
+            ]
+        }
+    },
+    "COG": {
+        "cognition": {
+            "cognition": [
+                "cognition"
+            ]
+        }
+    },
+    "ADD": {
+        "added": {
+            "added": [
+                "added"
+            ]
+        },
+        "additive": {
+            "additive": [
+                "additive"
+            ]
+        },
+        "atr dialogue database": {
+            "atrdialoguedatabase": [
+                "atr dialogue database"
+            ]
+        }
+    },
+    "MSA": {
+        "modern standard arabic": {
+            "modernstandardarabic": [
+                "modern standard arabic"
+            ]
+        },
+        "morphosyntactic analyzers": {
+            "morphosyntacticanalyzers": [
+                "morphosyntactic analyzers"
+            ]
+        }
+    },
+    "Q&A": {
+        "question answering": {
+            "questionanswering": [
+                "question answering"
+            ]
+        }
+    },
+    "CB": {
+        "carpetbagge": {
+            "carpetbagge": [
+                "carpetbagge",
+                "carpetbagger"
+            ]
+        },
+        "ui": {
+            "ui": [
+                "ui"
+            ]
+        }
+    },
+    "MF": {
+        "mean field": {
+            "meanfield": [
+                "mean field"
+            ]
+        },
+        "middle field": {
+            "middlefield": [
+                "middle field"
+            ]
+        }
+    },
+    "LVM": {
+        "latent variable method": {
+            "latentvariablemethod": [
+                "latent variable method",
+                "latent variable model"
+            ]
+        }
+    }
+}

@@ -1,0 +1,3619 @@
+{
+  "POS": [
+    "partofspeech",
+    "partofspeech",
+    "part of speech",
+    "positive instances",
+    "possessive",
+    "position",
+    "partofspeech",
+    "part of speech",
+    "part of speech",
+    "partofspeech",
+    "parts of speech",
+    "postag"
+  ],
+  "SPE": [
+    "sound pattern of english",
+    "specific"
+  ],
+  "FC": [
+    "fludarabine and cyclophosphamide",
+    "frequent candidates",
+    "functional composition",
+    "foot condition"
+  ],
+  "RL": [
+    "reinforcement learning",
+    "rel loc",
+    "reduce left",
+    "reinforcement learning",
+    "relevant links"
+  ],
+  "EF": [
+    "french translated from english",
+    "early fusion"
+  ],
+  "LF": [
+    "lexical functions",
+    "long form",
+    "logical form",
+    "logical form",
+    "late fusion",
+    "log frequency",
+    "labelled f",
+    "logical form",
+    "left"
+  ],
+  "RLM": [
+    "review language model",
+    "recurrent language model"
+  ],
+  "CR": [
+    "candidate rank",
+    "canonical representative",
+    "compression ratios",
+    "creation",
+    "causal relations",
+    "coreference resolution",
+    "conference registration",
+    "critical",
+    "controlled requirements",
+    "controlled requirements"
+  ],
+  "TE": [
+    "term",
+    "template element",
+    "translation equivalents",
+    "textual entailment",
+    "true equivalents",
+    "temporal expression",
+    "template element",
+    "textual entailment",
+    "temporal expression",
+    "textual entailment"
+  ],
+  "QA": [
+    "question answerin",
+    "question answering",
+    "question answering",
+    "question answering"
+  ],
+  "PC": [
+    "partially correct",
+    "pathway curation",
+    "prepositional complement"
+  ],
+  "SMT": [
+    "statistical machine translation",
+    "statistical machine translation",
+    "statistical machine translatio",
+    "statistical machine translation",
+    "statistical machine translation systems",
+    "structure mapping theory",
+    "statistical machine translation",
+    "statistical machine translation"
+  ],
+  "ASR": [
+    "a speech recognizer",
+    "automatic speech recognition",
+    "automatic speech recognition"
+  ],
+  "MT": [
+    "metathesaurus",
+    "machine translation",
+    "machine translation",
+    "madnani et",
+    "machine translation",
+    "machine translation",
+    "machine translation",
+    "machine translation"
+  ],
+  "HLT": [
+    "human language technology",
+    "human language technologies",
+    "human language technology"
+  ],
+  "IO": [
+    "indirect objec",
+    "ice ice lo0",
+    "indirect objec"
+  ],
+  "DO": [
+    "direct objec",
+    "direct objec"
+  ],
+  "ERG": [
+    "ergative",
+    "ergative"
+  ],
+  "GI": [
+    "general inquirer",
+    "gastrointestinal"
+  ],
+  "MeSH": [
+    "medical subject headings",
+    "medical subject headings"
+  ],
+  "ATR": [
+    "automatic term recognition",
+    "automatic term recognition",
+    "atrans"
+  ],
+  "OOV": [
+    "out of vocabulary",
+    "out of vocabulary",
+    "out of vocabulary"
+  ],
+  "DW": [
+    "dependency words",
+    "disjoint windows"
+  ],
+  "RLP": [
+    "role value labeled precision",
+    "rule  learner prediction"
+  ],
+  "SRL": [
+    "system for the semeval2007",
+    "salient referent list",
+    "semantic role labelling",
+    "semantic role labeler",
+    "semantic role labeling",
+    "semantic role labeling",
+    "semantic role labeling"
+  ],
+  "SVM": [
+    "vector machines",
+    "support vector machine",
+    "support vector machin",
+    "support vector machine"
+  ],
+  "SVD": [
+    "singular value decomposition",
+    "singular value decompositio",
+    "singular value decomposition"
+  ],
+  "CN": [
+    "common nouns",
+    "common noun",
+    "chinese person name",
+    "common noun",
+    "confusion network",
+    "common nouns",
+    "cotrain",
+    "chinese language",
+    "concept node"
+  ],
+  "AG": [
+    "agreement",
+    "agenda graph"
+  ],
+  "PCR": [
+    "phycreatio",
+    "phycreation"
+  ],
+  "MCR": [
+    "multilingual central repository",
+    "mentalcreation",
+    "mentalcreatio"
+  ],
+  "WEA": [
+    "eather",
+    "weapon"
+  ],
+  "HYP": [
+    "hyperny",
+    "hypothesized",
+    "hypothesis",
+    "hypothesis"
+  ],
+  "MOT": [
+    "motivation",
+    "motivatio",
+    "motivation"
+  ],
+  "OBJ": [
+    "object",
+    "object",
+    "object"
+  ],
+  "MET": [
+    "memory efficient tucker",
+    "method"
+  ],
+  "MCL": [
+    "markov cluster algorithm",
+    "markov clustering algorithm",
+    "maximum change in length"
+  ],
+  "PE": [
+    "parkhurst exchange forum",
+    "predefined event"
+  ],
+  "CF": [
+    "collaborative filtering",
+    "context factor",
+    "confidence",
+    "crowdflower",
+    "control features",
+    "corpus frequency",
+    "communicative function",
+    "chain frequency",
+    "certainty factor"
+  ],
+  "CDC": [
+    "cross document coreference",
+    "context dependent claim"
+  ],
+  "LM": [
+    "language model",
+    "landmark",
+    "language model",
+    "long match",
+    "language model",
+    "landmark",
+    "local minimum",
+    "monosemous links",
+    "language model",
+    "bigram model"
+  ],
+  "SDS": [
+    "spoken dialog system",
+    "spoken dialog system",
+    "spoken dialog system"
+  ],
+  "BS": [
+    "bi abstracts",
+    "bias",
+    "bacillus subtilis",
+    "beam search",
+    "scrollbw"
+  ],
+  "TR": [
+    "terse reply",
+    "template relation",
+    "translation retrieval",
+    "template relation"
+  ],
+  "NLG": [
+    "natural language generation",
+    "natural language generation",
+    "natural language generation"
+  ],
+  "MI": [
+    "multiple imputation",
+    "mutual infromation",
+    "multiple imputation",
+    "mation",
+    "multiple imputation",
+    "misclassification index",
+    "multiple imputation"
+  ],
+  "NER": [
+    "named entity recognition",
+    "named entity recognition",
+    "named entity recognition",
+    "named entity taggers",
+    "nition",
+    "named entity recognition",
+    "named entity recognition",
+    "name entity recognizer",
+    "named entity recognition"
+  ],
+  "NP": [
+    "noun phrase",
+    "nuclearity principle",
+    "np",
+    "non phrase",
+    "n  catip",
+    "noun phras",
+    "noun phrase",
+    "named page",
+    "najprostsze",
+    "noun phrase",
+    "noun phrase",
+    "nominal parent"
+  ],
+  "RI": [
+    "random indexing",
+    "random indexing",
+    "random indexing"
+  ],
+  "BB": [
+    "bacteria biology",
+    "bacteria biotope"
+  ],
+  "HT": [
+    "human transcription",
+    "hashtag"
+  ],
+  "TCS": [
+    "twocomponent systems",
+    "target connectivity strength"
+  ],
+  "TAC": [
+    "text analysis conference",
+    "theme as chomeuf"
+  ],
+  "DPR": [
+    "data processing  category",
+    "discontiguous phrase rules"
+  ],
+  "SVMs": [
+    "support vector machine",
+    "support  vector machines"
+  ],
+  "AP": [
+    "alveopalatal",
+    "articlepreposition",
+    "averaged perceptron",
+    "averaged perceptron",
+    "appropriate",
+    "baseappositives",
+    "agreement principle",
+    "associ  ated press",
+    "absolute position",
+    "adverbial phrase",
+    "adjective or adverbial phrase",
+    "adjective phrase",
+    "answer processing",
+    "averaged prec is ion"
+  ],
+  "PSD": [
+    "preposition sense disambiguation",
+    "phrase sense disambiguation",
+    "preposition sense disambiguation"
+  ],
+  "CTB": [
+    "chinese treebank",
+    "chinese treebank"
+  ],
+  "EC": [
+    "english contex",
+    "english consonant",
+    "entailment core",
+    "economics",
+    "enhanced connectivity",
+    "economics"
+  ],
+  "CER": [
+    "character error rate",
+    "concept error rate",
+    "constant entropy rate",
+    "character error rate"
+  ],
+  "PP": [
+    "polarity",
+    "prepositional phrase",
+    "parent",
+    "productproducer",
+    "prepositional phrase",
+    "perplex",
+    "parent",
+    "prediction precision",
+    "pos i t ive  prec is ion",
+    "proper part",
+    "perplex",
+    "parent",
+    "practical parser",
+    "particle phrase"
+  ],
+  "HDT": [
+    "hierarchical dirichlet tree",
+    "hindi dependency treebank"
+  ],
+  "LAT": [
+    "lexical answer type",
+    "linker for activation of t"
+  ],
+  "MSR": [
+    "measures of semantic relatedness",
+    "microsoft research"
+  ],
+  "POBJ": [
+    "object of preposition",
+    "object of preposition"
+  ],
+  "FP": [
+    "false positive",
+    "false positive",
+    "filled pause",
+    "false positive",
+    "false positive"
+  ],
+  "FN": [
+    "false new",
+    "false negative",
+    "false negative",
+    "framenet",
+    "following noun",
+    "false negative",
+    "for per"
+  ],
+  "HMM": [
+    "hidden markov model",
+    "hidden maxkov mode",
+    "hidden markov model",
+    "hidden markov model"
+  ],
+  "EA": [
+    "effort of association",
+    "easyadapt"
+  ],
+  "HDP": [
+    "hierarchical dirichlet process",
+    "hierarchical dirichlet process",
+    "hierarchical dirichlet process"
+  ],
+  "WS": [
+    "word segmentation",
+    "words per sentence",
+    "word sense"
+  ],
+  "MTurk": [
+    "mechanical turk1",
+    "mechanical turk",
+    "mechanical turk2"
+  ],
+  "CBT": [
+    "childrens book test",
+    "corpus benchmark too"
+  ],
+  "SLU": [
+    "spoken language understanding",
+    "spoken language understanding"
+  ],
+  "API": [
+    "application programming interface",
+    "applications programmer interface"
+  ],
+  "ID": [
+    "is numbered",
+    "information density",
+    "identification",
+    "index",
+    "immediate dominance",
+    "immediate dominance",
+    "idschema",
+    "immediate dom  inance",
+    "initial description",
+    "infectious diseases"
+  ],
+  "PA": [
+    "press association",
+    "product attribute",
+    "phrase analysis",
+    "philadelphia",
+    "philadelphia",
+    "percent agreement"
+  ],
+  "ACL": [
+    "association for computational linguistics",
+    "association for computational linguistics",
+    "address changes to betty walker",
+    "association for computational linguistic",
+    "association for computational linguistics",
+    "approaches to semitic languages",
+    "association for computational lin  guistics"
+  ],
+  "MER": [
+    "mapping error rate",
+    "meronym"
+  ],
+  "ANLP": [
+    "arabic natural langauge processing",
+    "applied natural language processing"
+  ],
+  "ME": [
+    "meaningful expression",
+    "microelectronics"
+  ],
+  "ISS": [
+    "input source sentence",
+    "iterative semantic specialization",
+    "iterative semantic specialization"
+  ],
+  "NB": [
+    "nave bayes",
+    "nave bayesian",
+    "nave bayesian",
+    "naive bayes",
+    "naive bayes",
+    "nave  baye",
+    "nave bayes",
+    "nave bayes",
+    "nave bayes",
+    "naivebayes"
+  ],
+  "TREC": [
+    "text retrieval conference",
+    "text retrieval conference"
+  ],
+  "REF": [
+    "reference",
+    "obj123",
+    "reference"
+  ],
+  "VP": [
+    "verb phrases",
+    "verb phrases",
+    "vbd prt",
+    "vbp",
+    "verb  phrase",
+    "verb phrases",
+    "verb phrases",
+    "verb pair",
+    "vpnp",
+    "verbal parent",
+    "v ",
+    "vpp"
+  ],
+  "UR": [
+    "uncontrolled",
+    "unlabeled recall"
+  ],
+  "UT": [
+    "universal tagset",
+    "utterance",
+    "universal tagset",
+    "unified transition"
+  ],
+  "SU": [
+    "speech understanding",
+    "system units",
+    "system utterance",
+    "segmentation units"
+  ],
+  "ANOVA": [
+    "analysis of variance",
+    "analysis of variance"
+  ],
+  "ADVP": [
+    "adverb phrase",
+    "adverbial phrases",
+    "adverb phras",
+    "adverb phrase"
+  ],
+  "DA": [
+    "differentiable adjectiv",
+    "dialogue act",
+    "directed accuracy",
+    "definite articles",
+    "dative",
+    "da",
+    "dependency accuracy",
+    "descriptor array",
+    "dialectal arabic",
+    "dialogue act",
+    "dialogue act",
+    "direct answer",
+    "dialogue act",
+    "discovery assistants"
+  ],
+  "OA": [
+    "accusative object",
+    "obligatory adjoining",
+    "of a"
+  ],
+  "OP": [
+    "operator",
+    "prepositional object",
+    "overparsing"
+  ],
+  "PD": [
+    "peripheral diversity",
+    "precision",
+    "predicate",
+    "predicate"
+  ],
+  "OC": [
+    "clausal object",
+    "clausal object",
+    "clausal object"
+  ],
+  "NMod": [
+    "noun modifier",
+    "noun modifier"
+  ],
+  "ODP": [
+    "open directory project",
+    "overt displays of power"
+  ],
+  "MaxEnt": [
+    "maximum entropy",
+    "maximum entropy",
+    "maximum entropy classification"
+  ],
+  "DUC": [
+    "document understanding conferences",
+    "document understanding conference"
+  ],
+  "SC": [
+    "semcor",
+    "section",
+    "second",
+    "simple classification",
+    "sur face coerc ion",
+    "score",
+    "system combination",
+    "string consistency",
+    "simplified chinese",
+    "score"
+  ],
+  "LOC": [
+    "local minimum",
+    "location",
+    "location",
+    "locus",
+    "locations",
+    "location"
+  ],
+  "QE": [
+    "quality estimation",
+    "quality estimation"
+  ],
+  "NLP": [
+    "natural language processing",
+    "natural language processing",
+    "natural anguage processing",
+    "natural language processing",
+    "natural language processin",
+    "natural language processing",
+    "natural language processin",
+    "natural language processin",
+    "natural language processing"
+  ],
+  "PS": [
+    "previous sentence",
+    "prefer  ence score",
+    "phrase structure",
+    "phrase structure",
+    "point of speech",
+    "plastic surgeon",
+    "possible"
+  ],
+  "CC": [
+    "coordinating conjunction",
+    "correlation coefficient",
+    "connected component",
+    "coordinating conjunction",
+    "concept class",
+    "coordinating conjunction",
+    "contrastive connectives",
+    "computerized conference",
+    "causeeffect",
+    "coordinating conjunctions",
+    "chinese context",
+    "chief complaint",
+    "control construction"
+  ],
+  "TMs": [
+    "translation memories",
+    "topic models"
+  ],
+  "DT": [
+    "decision tree",
+    "date or time",
+    "different topics",
+    "date or time",
+    "dependency tree",
+    "dependency tree",
+    "decision tree"
+  ],
+  "TBL": [
+    "transformation based learnin",
+    "transformation based learning",
+    "transformation based learning"
+  ],
+  "PM": [
+    "parenthesized material",
+    "prosody model",
+    "partial  match",
+    "priority model",
+    "phrasometer"
+  ],
+  "PSG": [
+    "phrase structure grammar",
+    "phrase structure grmmmar"
+  ],
+  "CRF": [
+    "criminative training",
+    "conditional random field",
+    "conditional random  fields",
+    "conditional random feild"
+  ],
+  "PTSD": [
+    "post traumatic stress disorder",
+    "post traumatic stress disorder",
+    "post traumatic stress disorder"
+  ],
+  "PMI": [
+    "pairwise mutual information",
+    "pairwise mutual information",
+    "pairwise mutual information"
+  ],
+  "NMI": [
+    "normalized  mutual infroamtion",
+    "normalized mutual information"
+  ],
+  "WSD": [
+    "word sense disambiguatio",
+    "word sense disambiguatio",
+    "word sense disambiguatio",
+    "word sense disambiguatio",
+    "wordsense disambiguation"
+  ],
+  "NN": [
+    "neural network",
+    "noun",
+    "nearest neighbor",
+    "noun",
+    "native",
+    "neural network",
+    "np  nr",
+    "singular or mass noun"
+  ],
+  "LDC": [
+    "local dominance count",
+    "linguistic data consortium"
+  ],
+  "II": [
+    "identifiable",
+    "itlll pluase eltil",
+    "is finished",
+    "is worth noting"
+  ],
+  "IRT": [
+    "inventory of tourist resources",
+    "item response theory"
+  ],
+  "LO": [
+    "log",
+    "lexical overlap"
+  ],
+  "CD": [
+    "conceptual dependency",
+    "cardinal",
+    "cardi  nal",
+    "conceptual density",
+    "conceptual density",
+    "contrastive divergence",
+    "cardinal number",
+    "content determination"
+  ],
+  "KDD": [
+    "knowledge discovery and data",
+    "knowledgediscovery and data",
+    "knowledgediscovery in database"
+  ],
+  "DP": [
+    "double propagation",
+    "dynamic programming",
+    "dependency relationships",
+    "dynamic programming",
+    "dependency parsing",
+    "document processor",
+    "dirichlet process",
+    "dependency parsing",
+    "discriminatory power",
+    "dirichlet process"
+  ],
+  "BioNLP": [
+    "natural language processing in biomedicine",
+    "biomedicine"
+  ],
+  "ICDM": [
+    "in data mining",
+    "international conference on data mining",
+    "ing"
+  ],
+  "SGD": [
+    "stochastic gradient descent",
+    "stochastic gradient descent"
+  ],
+  "PRE": [
+    "precision",
+    "po"
+  ],
+  "RNN": [
+    "recurrent neural network",
+    "recurrent neural network",
+    "recurrent neural network"
+  ],
+  "MFS": [
+    "most frequent sense",
+    "maximal freq sequencesd1",
+    "most frequent sense",
+    "mostfrequentsense"
+  ],
+  "IE": [
+    "information extraction",
+    "information extraction",
+    "information extraction"
+  ],
+  "EWN": [
+    "english wordnet",
+    "english wordnet"
+  ],
+  "NNS": [
+    "noun ",
+    "plural noun"
+  ],
+  "NE": [
+    "named entity",
+    "named entity",
+    "named ent i ty",
+    "named entity",
+    "named entit",
+    "negative entity",
+    "name",
+    "named entity"
+  ],
+  "RST": [
+    "rhetorical structure theory",
+    "rhetorical structure theory",
+    "rough set theory"
+  ],
+  "ED": [
+    "edit distance",
+    "emergency department"
+  ],
+  "RG": [
+    "random guess",
+    "response generation",
+    "rubenstein and goodenough",
+    "roget",
+    "reverse gap",
+    "reverse gap"
+  ],
+  "FSA": [
+    "finite state automaton",
+    "finite state acceptors",
+    "finite state automation",
+    "finite state automato"
+  ],
+  "DS": [
+    "domain stacking",
+    "data structure",
+    "dataset",
+    "distributional similarity",
+    "discourse",
+    "discharge summary",
+    "direct responses",
+    "discourse segment"
+  ],
+  "AI": [
+    "artificial intelligence",
+    "artificial intelligence"
+  ],
+  "DK": [
+    "declarative kernels",
+    "declarative knowledge",
+    "daily kos",
+    "daily ko"
+  ],
+  "ReLu": [
+    "rectified linear unit",
+    "rectified linear unit"
+  ],
+  "VB": [
+    "verb",
+    "variational bayers",
+    "verb base",
+    "variational bayes"
+  ],
+  "EDUs": [
+    "elementary discourse units",
+    "elementary discourse units"
+  ],
+  "NLU": [
+    "natural language understanding",
+    "natural language understanding"
+  ],
+  "DM": [
+    "domain model",
+    "discourse model",
+    "dialogue move",
+    "dialog management",
+    "data mining",
+    "discoursemodel",
+    "dialog management",
+    "default model",
+    "dialog management",
+    "dialog management",
+    "dialogue in motion"
+  ],
+  "CMP": [
+    "complement",
+    "cumulative micro precision"
+  ],
+  "FB": [
+    "fuzzy boolean",
+    "full brevity",
+    "feedback"
+  ],
+  "PDT": [
+    "positive diversity tuning",
+    "predeterminer",
+    "predeter"
+  ],
+  "LER": [
+    "letter error rate",
+    "letter error rate"
+  ],
+  "SRC": [
+    "source",
+    "semantic role classificatio",
+    "semantic role classification"
+  ],
+  "LC": [
+    "left context",
+    "lexical cohesion",
+    "less computerized",
+    "lexical cohesion",
+    "low constant",
+    "lexical classifier",
+    "left context"
+  ],
+  "AACC": [
+    "14iglot",
+    "artest callec for 18regvo i c",
+    "antest called fob 211scfihda"
+  ],
+  "LFG": [
+    "lexical functional  grammar",
+    "lexical functional grammar",
+    "lexical ftmction grammar"
+  ],
+  "CON": [
+    "continuation",
+    "conclusion",
+    "convolution"
+  ],
+  "B-L": [
+    "beginning of location",
+    "beginning of a literal"
+  ],
+  "B-I": [
+    "beginning an idiomatic",
+    "beginning an"
+  ],
+  "FR": [
+    "french",
+    "federal register",
+    "fast reactors"
+  ],
+  "BR": [
+    "best vs rest",
+    "backward relationship",
+    "browsing"
+  ],
+  "IG": [
+    "information gain",
+    "information gain",
+    "index grammar",
+    "information gain"
+  ],
+  "MAP": [
+    "mean average precision",
+    "maximum a posteriori",
+    "maximum a posteriori",
+    "maximum a posteriori",
+    "mean average precision"
+  ],
+  "HMMs": [
+    "hidden markov model",
+    "hidden markov models",
+    "hidden markov models"
+  ],
+  "LREC": [
+    "language resource",
+    "language resource",
+    "language resources and evaluation"
+  ],
+  "IC": [
+    "information content",
+    "informational contribution",
+    "information conten",
+    "independent cl",
+    "information content",
+    "inverse consultation",
+    "intonation center",
+    "individual constant"
+  ],
+  "CCG": [
+    "combinatory categorical grammar",
+    "combinatory categorial  grammars",
+    "combinatory categorial grammar",
+    "combinatory categorial grammar",
+    "combinatory categorial grammar",
+    "combinatory  categorial grammars"
+  ],
+  "MSE": [
+    "minimum squared error",
+    "mean squared error"
+  ],
+  "PROP": [
+    "proposition",
+    "proper"
+  ],
+  "Rel": [
+    "reliably",
+    "relevant"
+  ],
+  "FD": [
+    "flat discriminative",
+    "forced decoding",
+    "f measure",
+    "frequency dictionary"
+  ],
+  "GS": [
+    "gold standard",
+    "group significant",
+    "gibbs sampling",
+    "gold standard",
+    "generative system"
+  ],
+  "FE": [
+    "feature extractor",
+    "frame element",
+    "feeling",
+    "frame element",
+    "frame element",
+    "french english"
+  ],
+  "GB": [
+    "united kingdom",
+    "great britain",
+    "gambling"
+  ],
+  "SIB": [
+    "sibling",
+    "swiss institute of bioinformatic"
+  ],
+  "PIR": [
+    "predictive information redundanc",
+    "protein information resource",
+    "protein information resource5"
+  ],
+  "MRR": [
+    "mean reciprocal",
+    "mean reciprocal rank",
+    "mean reciprocal rank"
+  ],
+  "PPR": [
+    "personalized pagerank",
+    "personalized pagerank similarity"
+  ],
+  "EPs": [
+    "equivalent pseudowords",
+    "elementary predications"
+  ],
+  "HD": [
+    "head",
+    "hierarchical discriminative",
+    "headdriven",
+    "head"
+  ],
+  "CG": [
+    "crowd grades",
+    "cancer genetics",
+    "categorial grammar"
+  ],
+  "SL": [
+    "saccade length",
+    "sentence length",
+    "strictly local",
+    "slovene",
+    "source language",
+    "sign language"
+  ],
+  "LDA": [
+    "latent dirichlet al location",
+    "latent dirichlet allocation",
+    "latent dirichlet allocation",
+    "let alocation",
+    "latent dirichlet alocation",
+    "let allocation"
+  ],
+  "TC": [
+    "task completion",
+    "text categorization",
+    "transitive closure",
+    "turncos",
+    "token classification approach"
+  ],
+  "TG": [
+    "transgraph",
+    "temporary graph",
+    "template generation",
+    "template generation"
+  ],
+  "LN": [
+    "lin",
+    "lemma ngrams",
+    "location name",
+    "logical necessity",
+    "location name"
+  ],
+  "WN": [
+    "wordnet",
+    "wn"
+  ],
+  "JUMP": [
+    "jump",
+    "jumping"
+  ],
+  "LA": [
+    "lectures attended",
+    "low attachment",
+    "label accuracy",
+    "lip aperture",
+    "levantine arabic",
+    "left adjoining",
+    "latin",
+    "lexical acquisition"
+  ],
+  "GLO": [
+    "glottal vibration",
+    "glottis"
+  ],
+  "LAS": [
+    "labeled attachment score",
+    "labeled accuracy score",
+    "labelled attachment score",
+    "label attachment score",
+    "labeled attachment score",
+    "labelled attachment score"
+  ],
+  "CTS": [
+    "concept to speech",
+    "conversational telephone speech"
+  ],
+  "NW": [
+    "newswire",
+    "newswire"
+  ],
+  "BC": [
+    "bhattacharyya coefficient",
+    "broadcast conversation",
+    "broadcasting conversation",
+    "be concrete",
+    "brown corpus",
+    "broadcast conversation",
+    "broadcast conversation",
+    "base clauses"
+  ],
+  "BN": [
+    "broadcast news",
+    "british national",
+    "broadcast news",
+    "bayesian network",
+    "bengali",
+    "broadcast news"
+  ],
+  "UN": [
+    "usenet newsgroups",
+    "usenet"
+  ],
+  "WL": [
+    "webblog",
+    "word level",
+    "word lexicon",
+    "webblog"
+  ],
+  "IA": [
+    "implicit attitude",
+    "incremental algorithm",
+    "instrumentagency",
+    "input analyzer"
+  ],
+  "RR": [
+    "relationalrealizational",
+    "ranking by regression",
+    "reranking",
+    "resource  repository",
+    "reduced relative",
+    "reciprocal rank",
+    "relationalrealizational",
+    "reference resolution"
+  ],
+  "SD": [
+    "stanford dependencies",
+    "stanford",
+    "steepest descent",
+    "structural description",
+    "standard deviation",
+    "stanford dependency",
+    "speaker dependent",
+    "sequential dependence"
+  ],
+  "BI": [
+    "bioinformatician",
+    "bionlp"
+  ],
+  "GE": [
+    "global entropy",
+    "generalized expectation",
+    "general event",
+    "ge",
+    "genia",
+    "genia event",
+    "generalized expectation",
+    "general  event"
+  ],
+  "RBF": [
+    "radial basis kernel function",
+    "radial basis function",
+    "radial basis kernel function",
+    "radial basis function"
+  ],
+  "ACE": [
+    "automated content extraction",
+    "automatic content extraction"
+  ],
+  "ORG": [
+    "organisations",
+    "organisations",
+    "organizatio",
+    "organisations"
+  ],
+  "MLN": [
+    "markov logic network",
+    "markov logic network",
+    "markov logic network"
+  ],
+  "OpenMT": [
+    "open machine translation evaluation",
+    "open machine translation",
+    "open machine translation"
+  ],
+  "KSR": [
+    "keystroke ratio",
+    "keystroke ratio"
+  ],
+  "NI": [
+    "no impairment",
+    " "
+  ],
+  "FS": [
+    "false start",
+    "feature stacking",
+    "focus structure",
+    "scrollfw"
+  ],
+  "FL": [
+    "forward looking",
+    "flagging"
+  ],
+  "AS": [
+    "attachment score",
+    "automatic summarisation",
+    "application server",
+    "academia sinica",
+    "academia sinica",
+    "automatic summarisation"
+  ],
+  "ACC": [
+    "accusative",
+    "accusat",
+    "accompaniment",
+    "average clustering coefficient"
+  ],
+  "GEN": [
+    "genitive",
+    "gender",
+    "genitive",
+    "genetics"
+  ],
+  "CL": [
+    "computational linguistic",
+    "class",
+    "class",
+    "classifier",
+    "chain length",
+    "chosen algorithms",
+    "clitics",
+    "closed",
+    "computational linguistic"
+  ],
+  "PCFG": [
+    "probabilistic  contextfree grammar",
+    "probabilistic context free grammar",
+    "probabilistic context free grammar",
+    "probabilistic context free grammar"
+  ],
+  "DB": [
+    "database",
+    "data storage",
+    "database",
+    "dialogbot"
+  ],
+  "ML": [
+    "mean logprob",
+    "maximum likelihoo",
+    "maximum likelihoo",
+    "merged languages",
+    "machine learning",
+    "minimum length",
+    "machine learning"
+  ],
+  "RC": [
+    "relation concept",
+    "repetition  content",
+    "relative clause",
+    "relational conjunction",
+    "right context"
+  ],
+  "CP": [
+    "complex predicate",
+    "cluster purity",
+    "correspondence part",
+    "constraint programming"
+  ],
+  "AAAI": [
+    "association for artificial intelligence",
+    "association for the advancement of artificial intelligence",
+    "american association for  artificial intelligence"
+  ],
+  "NED": [
+    "neutral edge direction",
+    "neutral edge detection",
+    "normalized edit distance"
+  ],
+  "SG": [
+    "skip gram",
+    "slot grammars"
+  ],
+  "PE's": [
+    "processing elements",
+    "phrasal elements"
+  ],
+  "CAT": [
+    "computer aided translation",
+    "computer aided t"
+  ],
+  "RF": [
+    "random forest",
+    "request for feedback",
+    "reduction factor",
+    "ratio of frequencie"
+  ],
+  "GNF": [
+    "greibach normal form",
+    "greibach normal form"
+  ],
+  "AMTA": [
+    "association for machine translation in the americas",
+    "association for machine translation in the americas"
+  ],
+  "CT": [
+    "computed translation",
+    "character type",
+    "cost tim",
+    "chunking tree",
+    "competition title",
+    "constituent tree",
+    "contrast",
+    "certain",
+    "citation texts",
+    "counterfactual",
+    "collins thesaurus"
+  ],
+  "AB": [
+    "ab",
+    "audiobased",
+    "abstraction10300",
+    "adaboost",
+    "abstracts"
+  ],
+  "SIGPHON": [
+    "special interest group in computational phonology",
+    "special interest group in computational phonology"
+  ],
+  "LI": [
+    "language identification",
+    "linear interpolation",
+    "linguist"
+  ],
+  "TP": [
+    "translation process",
+    "true positive",
+    "true positive",
+    "true positive",
+    "true positive",
+    "transitional probability"
+  ],
+  "TN": [
+    "true negative",
+    "tense",
+    "true negative",
+    "team name",
+    "true negative"
+  ],
+  "BP": [
+    "beta process",
+    "base phrase",
+    "bin packing",
+    "belief propagation",
+    "bigram predictability",
+    "base phrase",
+    "log probn2  n1 2",
+    "belief propagation",
+    "bleu points"
+  ],
+  "SP": [
+    "speaker",
+    "shortest path",
+    "surgical pathology",
+    "simple past",
+    "sparse projection",
+    "stanford parser",
+    "split",
+    "shallow syntactic similarity",
+    "spelling",
+    "sentiment polarity",
+    "perspective",
+    "split",
+    "sparse projection",
+    "simple past"
+  ],
+  "TS": [
+    "training set",
+    "translation spotting",
+    "trueskill",
+    "telecommunication services",
+    "task set"
+  ],
+  "VS": [
+    "validating set",
+    "vector space",
+    "vowel  sequences"
+  ],
+  "EP": [
+    "english profile",
+    "entity profile",
+    "europarl",
+    "end position",
+    "expletive"
+  ],
+  "CE": [
+    "chinese encyclopedia",
+    "contrastive estimation",
+    "confidence estimation",
+    "correlated entity"
+  ],
+  "SVO": [
+    "subjectverbobject",
+    "subjectverbobject"
+  ],
+  "HR": [
+    "heart rate",
+    "hierarchical rule"
+  ],
+  "TcPO2": [
+    "transcutaneous oxygen",
+    "blood o2"
+  ],
+  "PG": [
+    "paraphrase generation",
+    "paraphrase generation"
+  ],
+  "PER": [
+    "position independent word error rate",
+    "position independent error rate",
+    "position independent word error rate"
+  ],
+  "NPs": [
+    "number of markables",
+    "npb nodes"
+  ],
+  "INV": [
+    "inverted",
+    "inverted"
+  ],
+  "H-Loss": [
+    "hierarchical loss",
+    "ierarchical loss",
+    "hierarchical loss"
+  ],
+  "GUI": [
+    "graphical user interface",
+    "graphical user interface",
+    "graphical user inteffac"
+  ],
+  "ILP": [
+    "integer linear program",
+    "integer linear program",
+    "integer linear program",
+    "integer linear program",
+    "inductive logic programming",
+    "integer linear programs",
+    "integer linear program"
+  ],
+  "LNRE": [
+    "large number of rare events",
+    "large number of rare events"
+  ],
+  "IPI": [
+    "information processing indices",
+    "information processing indice"
+  ],
+  "FAC": [
+    "facility",
+    "facility"
+  ],
+  "GPE": [
+    "geopolitical entity",
+    "geopolitical",
+    "geopolitical entity"
+  ],
+  "UMLS": [
+    "unified medical language system",
+    "unified medical language system7"
+  ],
+  "PTB": [
+    "penn english treebank",
+    "penntreebank"
+  ],
+  "EM": [
+    "emotion",
+    "expectationmaximization",
+    "entropy",
+    "exact match",
+    "emma",
+    "expectationmaximization",
+    "expectation maximisation",
+    "expectation maximisation",
+    "expectation maximisation"
+  ],
+  "ER": [
+    "error reduction",
+    "error rate"
+  ],
+  "NUM": [
+    "numeral",
+    "numeral",
+    "national university of mongolia",
+    "number",
+    "number",
+    "number"
+  ],
+  "DET": [
+    "detection error tradeoff",
+    "determiner",
+    "determine",
+    "deter",
+    "detai l izat ion"
+  ],
+  "ADP": [
+    "automatic data processing",
+    "prepositions or postpositions",
+    "adposition"
+  ],
+  "PSL": [
+    "pitt subjectivity lexicon",
+    "probabilistic soft logic"
+  ],
+  "CW": [
+    "collobert and weston",
+    "confidence weighted",
+    "characters per word"
+  ],
+  "MRF": [
+    "markov random field",
+    "markov random field"
+  ],
+  "IR": [
+    "information retrieva",
+    "information retrieva",
+    "information retrieval",
+    "information retrieval",
+    "inside region",
+    "iterative re",
+    "information retrieval",
+    "informtion retrieval",
+    "informal register"
+  ],
+  "RW": [
+    "realword",
+    "random walk"
+  ],
+  "MW": [
+    "missing word",
+    "missing"
+  ],
+  "PT": [
+    "probability threshold",
+    "parse tree",
+    "phrase table",
+    "portuguese",
+    "parse trees",
+    "part",
+    "portuguese",
+    "prompts",
+    "probable alignments",
+    "parse tree",
+    "partial tree",
+    "phrase table"
+  ],
+  "LR": [
+    "labeled recall",
+    "labeled recall",
+    "lagrangian relaxation",
+    "larger",
+    "lexrank",
+    "lexical reordering",
+    "logistic regression",
+    "logistic regression"
+  ],
+  "VR": [
+    "version",
+    "vocabulary richness",
+    "virtual reality"
+  ],
+  "CA": [
+    "case",
+    "classification accuracy",
+    "communicative act",
+    "concept accuracy",
+    "california",
+    "coordieatien ned apposition",
+    "case analysis"
+  ],
+  "RT": [
+    "reluctant trimmer",
+    "untime",
+    "recall",
+    "reposting",
+    "reference time",
+    "role text",
+    "retweet"
+  ],
+  "CS": [
+    "consumer staples",
+    "coordination structures",
+    "computer scientist",
+    "context spaces",
+    "customization solution",
+    "character segmenter",
+    "chang  schutze",
+    "czech",
+    "computer scientist"
+  ],
+  "GR": [
+    "group",
+    "or",
+    "grammatical relation",
+    "grammatical relation",
+    "grammatical relation",
+    "griscf",
+    "greetin",
+    "glue rule"
+  ],
+  "KS": [
+    "knowledge store",
+    "keep silenc"
+  ],
+  "MEMM": [
+    "maximum entropy markov model",
+    "maximum entropy markov model"
+  ],
+  "CoreNLP": [
+    "stanford corenlp",
+    "corenlp"
+  ],
+  "Porter": [
+    "porter",
+    "porter stemmer"
+  ],
+  "Snowball": [
+    "snowball",
+    "snowball stemmer"
+  ],
+  "SUB": [
+    "substitution",
+    "substance"
+  ],
+  "REL": [
+    "relational",
+    "relational",
+    "relative pronoun",
+    "relevance"
+  ],
+  "EG": [
+    "engineering",
+    "example",
+    "exponentiated gradient",
+    "egypt",
+    "entity grid"
+  ],
+  "SAM": [
+    "semantic analysis module",
+    "sentiment aspect match"
+  ],
+  "VBN": [
+    "verb past participle",
+    "verb past participle"
+  ],
+  "VBG": [
+    "verbs only ing",
+    "gerund",
+    "verb gerund or present partici"
+  ],
+  "AWN": [
+    "arabic wordnet",
+    "aligned wordnets",
+    "arabic wordnet"
+  ],
+  "CHA": [
+    "ehange",
+    "characteristics"
+  ],
+  "COP": [
+    "complement constituent",
+    "copula"
+  ],
+  "AGC": [
+    "automatic gain control",
+    "automatic genre classification"
+  ],
+  "PR": [
+    "predication",
+    "probable",
+    "process",
+    "posterior regularization",
+    "phrasal rule",
+    "pr",
+    "pos i t i ve  recal l",
+    "passage retrieval",
+    "positive recal"
+  ],
+  "PU": [
+    "punctuation",
+    "positiveunlabeled",
+    "pump",
+    "purity"
+  ],
+  "CO": [
+    "collocation",
+    "concession",
+    "concession",
+    "cotraining",
+    "country",
+    "campus outdoor",
+    "convertible"
+  ],
+  "AC": [
+    "auxiliary construction",
+    "ambiguity classes",
+    "active chain",
+    "adpositional case"
+  ],
+  "VT": [
+    "verbe",
+    "veins theory"
+  ],
+  "FM": [
+    "frame matcher",
+    "f measure",
+    "f measure"
+  ],
+  "AZ": [
+    "argumentative zoning",
+    "argumentative zoning"
+  ],
+  "TREC-7": [
+    "seventh text retrieval conference",
+    "seventh text retrieval conference"
+  ],
+  "JST": [
+    "japan science and technology",
+    "justification"
+  ],
+  "SS": [
+    "spellingsim",
+    "same sentence",
+    "structure",
+    "sentence splitting",
+    "stanford parser style",
+    "semantic class",
+    "surface shape of the  sentence",
+    "subjects",
+    "surface structure",
+    "subpath set"
+  ],
+  "SWBD-DA": [
+    "switchboard dialogue act",
+    "switchboard dialog act"
+  ],
+  "ERR": [
+    "error rate reductions",
+    "error rate reductions"
+  ],
+  "MBR": [
+    "minimum bayes risk",
+    "minimum bayes risk"
+  ],
+  "TF": [
+    "temporal focus",
+    "term frequenc",
+    "thomas friedman",
+    "term frequency",
+    "translation filter",
+    "term frequency",
+    "text filtering"
+  ],
+  "DF": [
+    "document frequency",
+    "dyadic features",
+    "document frequency"
+  ],
+  "RIDF": [
+    "residual inverse document frequency",
+    "residual idf",
+    "residualidf"
+  ],
+  "DEM": [
+    "demonstrative",
+    "demonstrative",
+    "demonstrative"
+  ],
+  "RHS": [
+    "rhs",
+    "right hand side"
+  ],
+  "AER": [
+    "alignment error",
+    "alignment error",
+    "alignment error"
+  ],
+  "MNR": [
+    "manner",
+    "manner"
+  ],
+  "PL": [
+    "phrase levels",
+    "probability loss",
+    "phrase levels"
+  ],
+  "PW": [
+    "partwhole",
+    "partwhole"
+  ],
+  "GF": [
+    "grammatical function",
+    "grammatical framework",
+    "grammatical function"
+  ],
+  "TTR": [
+    "traduction terminologie et rdaction",
+    "typetoken ratio"
+  ],
+  "CFS": [
+    "correlation based feature subset",
+    "correlation"
+  ],
+  "TREC-9": [
+    "the ninth text retrieval conference",
+    "eighth text retrieval conference"
+  ],
+  "KB": [
+    "knowledge base",
+    "knowledge base",
+    "knowledgebased",
+    "knowledge base"
+  ],
+  "LP": [
+    "labeled precision",
+    "linear programming",
+    "linear precedence",
+    "lip protrusion",
+    "label propagation",
+    "linear precedence",
+    "linear precedence",
+    "linear preeedenc",
+    "linear precedenc",
+    "labeled precision",
+    "labeled precision",
+    "labeled",
+    "less privileged",
+    "libertarian party"
+  ],
+  "DevSet": [
+    "development dataset",
+    "development dataset"
+  ],
+  "WSJ": [
+    "wall street journal",
+    "wall street  journal"
+  ],
+  "MLE": [
+    "maximum likelihood estimation",
+    "maximum likelihood estimator",
+    "maximum likelihood estimation",
+    "maximum likelihood estimation",
+    "maximum likelihood estimation"
+  ],
+  "POSTECH": [
+    "pohang university of science and technology",
+    "pohang university of science  technology",
+    "pohang university of computer science and technolog"
+  ],
+  "DR": [
+    "discourse representations",
+    "discourse relations",
+    "divrank",
+    "direct reversal"
+  ],
+  "EN": [
+    "english",
+    "englis",
+    "e  n"
+  ],
+  "HI": [
+    "hindi",
+    "harvard inquirer"
+  ],
+  "STS": [
+    "similarity core task",
+    "semantic textual similarity",
+    "semantic textual similarity",
+    "semantic textual similarit",
+    "segmenters",
+    "semantic textual similarity"
+  ],
+  "QC": [
+    "quantum classifier",
+    "question classificatio",
+    "question classificatio",
+    "question classificatio",
+    "query classes"
+  ],
+  "TO": [
+    "target order",
+    "to"
+  ],
+  "ST": [
+    "shared task",
+    "stops",
+    "surface text",
+    "simulated tempering",
+    "split tags",
+    "same topic",
+    "solve time",
+    "smface tape",
+    "subtree",
+    "syntactic tree",
+    "same topic"
+  ],
+  "LCS": [
+    "longest common substring",
+    "lexical conceptual structure",
+    "longest common substring",
+    "least common subsumer",
+    "longest common subsequence",
+    "longest common sub",
+    "longest common subsequence",
+    "longer common sequence",
+    "lexical conccplual structure"
+  ],
+  "CH": [
+    "cincia hoje",
+    "character"
+  ],
+  "GRU": [
+    "gated recurrent unit",
+    "gated recurrent unit"
+  ],
+  "INT": [
+    "interruption",
+    "interrupted",
+    "integrated"
+  ],
+  "TM": [
+    "topic mode",
+    "terns",
+    "translation memory",
+    "term frequency",
+    "text mining",
+    "translation memory",
+    "text mining",
+    "task  manager"
+  ],
+  "SN": [
+    "sainflection oun",
+    "spanish novel",
+    "semantic network"
+  ],
+  "LTC": [
+    "language technology components",
+    "longest tm candidate indicator"
+  ],
+  "IWPT": [
+    "international conference on parsing technologies",
+    "international conference on parsing technologies"
+  ],
+  "HN": [
+    "highly negative",
+    "head  node"
+  ],
+  "HP": [
+    "highly positive",
+    "head of phrase",
+    "hashtag pattern",
+    "hydrophobichydrophilic",
+    "home page"
+  ],
+  "ShARe": [
+    "shared annotated resource",
+    "shared annotated resources"
+  ],
+  "SF": [
+    "sentence formalism",
+    "syntactic features",
+    "segmentation f",
+    "segment frequency",
+    "slot filling",
+    "sameframe",
+    "short form",
+    "subcat features"
+  ],
+  "TW": [
+    "target words",
+    "twlist",
+    "trigger words",
+    "tweets"
+  ],
+  "LD": [
+    "labdental",
+    "linear dominance",
+    "levenshtein distance",
+    "labeled data",
+    "large dataset"
+  ],
+  "UD": [
+    "universal dependencies",
+    "underspecified domain",
+    "unlabeled data"
+  ],
+  "MS": [
+    "multispeaker",
+    "missed samples",
+    "minimum statistics",
+    "marecek and straka",
+    "melcuk style",
+    "melcuk style"
+  ],
+  "AST": [
+    "adaptive supertagging",
+    "adjectival sta",
+    "annotated syntax tree"
+  ],
+  "ADJ": [
+    "disponibles",
+    "adjectives",
+    "adjectives",
+    "adjectives"
+  ],
+  "TCT": [
+    "triple context template",
+    "treebank"
+  ],
+  "BOW": [
+    "bag of words",
+    "bag of words"
+  ],
+  "CSLM": [
+    "dacslm",
+    "continuous space language model"
+  ],
+  "HM": [
+    "histogram model",
+    "harabagiu and maiorano",
+    "head match"
+  ],
+  "UID": [
+    "user id",
+    "uniform information density",
+    "user identity"
+  ],
+  "MNCut": [
+    "multiway normalized cut",
+    "multiway normalized cu"
+  ],
+  "SA": [
+    "saudi arabia",
+    "sentiment analysis",
+    "sentiment analysis",
+    "speaker adaptive",
+    "sentence  adverbs",
+    "speecb act",
+    "sentiment analysis",
+    "sentiment analysis",
+    "spreading activation"
+  ],
+  "TACL": [
+    "transactions of the acl",
+    "transactions of the association for computational linguistics"
+  ],
+  "LKB": [
+    "lexical knowledge base",
+    "lexical knowledge base",
+    "linguistic knowledge builder",
+    "lexical knowledge base"
+  ],
+  "MDL": [
+    "minimum description length",
+    "mum description length",
+    "minimum description length"
+  ],
+  "MCMC": [
+    "markov chain monte carlo",
+    "markov chain monte carlo"
+  ],
+  "OSS": [
+    "onomasiological search system",
+    "open source software"
+  ],
+  "TAG": [
+    "tree adjoining grammar",
+    "tree adjoining grammar"
+  ],
+  "EL": [
+    "entity linking",
+    "englishoriented level"
+  ],
+  "MR": [
+    "medical relation",
+    "movie reviews",
+    "majority rule",
+    "meaning representation",
+    "match rat",
+    "meaning representation",
+    "maximum recall"
+  ],
+  "OW": [
+    "overwrite",
+    "omegawiki"
+  ],
+  "SST": [
+    "spontaneous  scheduling task",
+    "subset tree",
+    "spontaneous scheduling task"
+  ],
+  "SCFGs": [
+    "synchronous contex free grammars",
+    "stochastic ontext free grammars"
+  ],
+  "IUI": [
+    "intelligent user interfaces",
+    "intelligent user interfaces"
+  ],
+  "ISA": [
+    "information search assistant",
+    "instrument society of america"
+  ],
+  "RNTN": [
+    "recursive neural tensor network",
+    "recursive neural tensor network"
+  ],
+  "FA": [
+    "functional anaphora",
+    "false attributes",
+    "force alignment"
+  ],
+  "LTT": [
+    "logical texttiling",
+    "lexical type tagset"
+  ],
+  "LEF": [
+    "likelihood evaluation function",
+    "longest ending filtering"
+  ],
+  "CU": [
+    "constraint unification",
+    "categorial uification",
+    "compound uni"
+  ],
+  "DIAG": [
+    "diagnostic",
+    "diagnostics model"
+  ],
+  "MERT": [
+    "minimum error rate training",
+    "minimum error rate training",
+    "minimum error rate training"
+  ],
+  "MP": [
+    "monolingual phrases",
+    "maximal projection",
+    "member of parliament"
+  ],
+  "TD": [
+    "t candidates",
+    "transducing dictionary",
+    "terminology data",
+    "typical development",
+    "deletion",
+    "tree depth",
+    "tunisian dialect",
+    "typical development",
+    "topic distillation"
+  ],
+  "CJ": [
+    "conjunct",
+    "conjunct"
+  ],
+  "INF": [
+    "infinitive",
+    "inf init ive",
+    "information",
+    "inf init ive  phrase"
+  ],
+  "EXP": [
+    "experiencer",
+    "explicit"
+  ],
+  "HPSG": [
+    "headdriven phrase structure grammar",
+    "head driven phrase  structure grammar"
+  ],
+  "GM": [
+    "gay marriage",
+    "google maps",
+    "graph matching",
+    "graphical model"
+  ],
+  "UAS": [
+    "unlabeled accuracy score",
+    "unlabeled accuracy score",
+    "unlabeled attachment score",
+    "unlabelled attachment score",
+    "unlabeled accuracy score"
+  ],
+  "SE": [
+    "standard error",
+    "set expansion",
+    "standard error",
+    "sentence external"
+  ],
+  "MEM": [
+    "maximum entropy model",
+    "maximum entropy model"
+  ],
+  "SMS": [
+    "set for text messages",
+    "short message service"
+  ],
+  "NMCV": [
+    "nonmonoclausal  verbs",
+    "nonmonoclausal verb",
+    "nonmonoclausal verbs"
+  ],
+  "LSA": [
+    "language sample analysis",
+    "language sample analysis",
+    "language sample analysis",
+    "language sample analysis"
+  ],
+  "CUI": [
+    "concept unique identifier",
+    "c0024881"
+  ],
+  "ENT": [
+    "entertainment",
+    "entity",
+    "entail"
+  ],
+  "COM": [
+    "comics",
+    "complexity",
+    "computer"
+  ],
+  "SR": [
+    "speech recognition",
+    "summarization ratio",
+    "synkam",
+    "search",
+    "separation ratio",
+    "semantic role",
+    "semantic relations",
+    "serbian",
+    "semantic roles",
+    "semantic relatedness"
+  ],
+  "OR": [
+    "odds ratio",
+    "odds ratio",
+    "ocator",
+    "outside region",
+    "omission rate",
+    "operating room",
+    "onset rhyme"
+  ],
+  "ES": [
+    "encyclopedia specialist",
+    "emotion score",
+    "exploratory search"
+  ],
+  "DE": [
+    "dead end",
+    "dual encoder",
+    "german",
+    "document expansion",
+    "dutch examples",
+    "dental"
+  ],
+  "PLM": [
+    "perplexity from language model",
+    "patched language model"
+  ],
+  "MAE": [
+    "mean absolute error",
+    "mean absolute error"
+  ],
+  "WER": [
+    "word error rate",
+    "position independent",
+    "word error rate",
+    "word error rat"
+  ],
+  "GMM": [
+    "gaussian mixture model",
+    "gaussian mixture model"
+  ],
+  "IF": [
+    "informative feature",
+    "informativefeature"
+  ],
+  "VL": [
+    "vulgar latin",
+    "velar"
+  ],
+  "PI": [
+    "portable computing devices",
+    "post inference",
+    "protoiberian"
+  ],
+  "IT": [
+    "italian",
+    "information technology",
+    "information technology"
+  ],
+  "CCA": [
+    "canonical correlation analysis",
+    "canonical correlation analysis"
+  ],
+  "AO": [
+    "all objects",
+    "object accusative"
+  ],
+  "MO": [
+    "matched object",
+    "modifier",
+    "matched object"
+  ],
+  "ATN": [
+    "augmented transition network",
+    "augmented transition network",
+    "augmented transition networks"
+  ],
+  "GC": [
+    "grammatical coverage",
+    "generative component",
+    "gail collins",
+    "generat ioncoverag"
+  ],
+  "SLs": [
+    "sublanguages",
+    "sign languages"
+  ],
+  "ICS": [
+    "initial cluster set",
+    "internal classification for standards"
+  ],
+  "TDT": [
+    "tactile detection task",
+    "topic detection and tracking",
+    "topic detection and tracking"
+  ],
+  "TTS": [
+    "text to speech",
+    "texttospeech",
+    "texttospeech synthesis"
+  ],
+  "VSM": [
+    "vector space mode",
+    "vector space mode",
+    "vector space mode"
+  ],
+  "STA": [
+    "stative",
+    "stative",
+    "stat"
+  ],
+  "E2C": [
+    "english into chinese",
+    "englishtochinese"
+  ],
+  "TSP": [
+    "traveling salesman problem",
+    "traveling salesman problem"
+  ],
+  "AMT": [
+    "amazon mechanical turk",
+    "amazon mechanical turk",
+    "amazon mechanical turk",
+    "amazon mechanical turk"
+  ],
+  "GIS": [
+    "generalized iterative scaling",
+    "geographical information systems"
+  ],
+  "NA": [
+    "naive approach",
+    "null adjunction",
+    "narrow",
+    "n t adjective",
+    "network analysis"
+  ],
+  "OAS": [
+    "overlapping ambiguity strings",
+    "overlap ambiguity string"
+  ],
+  "FAST": [
+    "functorargument structure for translation",
+    "functor argument s ructure"
+  ],
+  "FST": [
+    "finite state transducer",
+    "finite state transducer"
+  ],
+  "FSMs": [
+    "finite state machine",
+    "finite state machine"
+  ],
+  "OTHER": [
+    "others",
+    "other expressions"
+  ],
+  "BL": [
+    "baseline",
+    "backward looking",
+    "baselin",
+    "bilabial",
+    "baseline"
+  ],
+  "CFG": [
+    "context free grammar",
+    "contextfree grammar"
+  ],
+  "VMR": [
+    "violate match rat",
+    "violate match rate"
+  ],
+  "IMR": [
+    "inside match rate",
+    "inside match rat"
+  ],
+  "ANC": [
+    "american  national corpus",
+    "ancestor",
+    "american national corpus"
+  ],
+  "MWEs": [
+    "multi word expression",
+    "multi word expression",
+    "multi word expression",
+    "multi word expression"
+  ],
+  "PASS": [
+    "passive",
+    "passive"
+  ],
+  "GRE": [
+    "generation of referring expression",
+    "generation of referring expression"
+  ],
+  "SPEC": [
+    "spectral clustering",
+    "spectral clustering"
+  ],
+  "SDI": [
+    "selective dissemination",
+    "sense data item"
+  ],
+  "IDF": [
+    "inverse document frequency",
+    "inverse document frequency"
+  ],
+  "DL": [
+    "description logic",
+    "decision list",
+    "description logics",
+    "description logic"
+  ],
+  "PPs": [
+    "preposition  phrases",
+    "prepositional phrases",
+    "prepositional phrases"
+  ],
+  "LU": [
+    "language understanding",
+    "language understanding"
+  ],
+  "JJ": [
+    "adjective",
+    "japanese kanji"
+  ],
+  "CompR": [
+    "compression rate",
+    "compression rate"
+  ],
+  "RMSE": [
+    "root mean squared error",
+    "root mean squared error",
+    "root mean squared error"
+  ],
+  "ORIG": [
+    "origin",
+    "origin"
+  ],
+  "EFF": [
+    "effect",
+    "effect"
+  ],
+  "NEG": [
+    "negative instances",
+    "negation",
+    "negation",
+    "negative instances"
+  ],
+  "PRP": [
+    "purpose",
+    "personal pro",
+    "personal pronouns",
+    "phonological recognition problem"
+  ],
+  "DIR": [
+    "direction",
+    "direction"
+  ],
+  "MOD": [
+    "modifier",
+    "modals"
+  ],
+  "S\\NP": [
+    "seized ",
+    "ssnp"
+  ],
+  "PSP": [
+    "postposition",
+    "positivesentence percentage"
+  ],
+  "SELF": [
+    "selftraining",
+    "talking to oneself"
+  ],
+  "LV": [
+    "language variety",
+    "light verb"
+  ],
+  "UK": [
+    "university of sheffield",
+    "university",
+    "university of manchester",
+    "university of sunderland",
+    "usussex",
+    "university of oxford"
+  ],
+  "CIC": [
+    "collective iterative classification",
+    "centro de investigacion en computacion"
+  ],
+  "RAD": [
+    "radiology",
+    "radiology"
+  ],
+  "TAGs": [
+    "tree adjoining grammars",
+    "tree adjoinig grammars",
+    "tree adjoining grammars"
+  ],
+  "WSI": [
+    "word sense induction",
+    "word sense induction"
+  ],
+  "SSI": [
+    "supervised semantic indexing",
+    "speech systems incorporated"
+  ],
+  "RE": [
+    "referring expression",
+    "reordering",
+    "relation extraction",
+    "relation extraction",
+    "rank of expected",
+    "relation extraction",
+    "referring expression",
+    "regular expression",
+    "reduce"
+  ],
+  "ET": [
+    "expected translation",
+    "element"
+  ],
+  "SVR": [
+    "support vector regression",
+    "support vector regression"
+  ],
+  "AE": [
+    "auto epistemic",
+    "answer extraction"
+  ],
+  "RA": [
+    "reverse adjacent",
+    "recognition accuracy"
+  ],
+  "MA": [
+    "manner adverbs",
+    "monotone adjacent"
+  ],
+  "MG": [
+    "monotone gap",
+    "minimalist grammar",
+    "metagrammar"
+  ],
+  "ConcSs": [
+    "conceptual structures",
+    "conceptual representations"
+  ],
+  "RS": [
+    "role span",
+    "relevance score",
+    "reference standard",
+    "resource situation",
+    "relevance score",
+    "red state"
+  ],
+  "PF": [
+    "position features",
+    "prediction and feedbac",
+    "predicate form",
+    "predicted frequency",
+    "predicate form"
+  ],
+  "DI": [
+    "demtation",
+    "document input",
+    "dialog independent"
+  ],
+  "COMP": [
+    "complementizers",
+    "compressor",
+    "competition",
+    "compound",
+    "competition",
+    "competitio"
+  ],
+  "NOM": [
+    "nominative",
+    "nominaland",
+    "nominative",
+    "nominal"
+  ],
+  "PPV": [
+    "positive predictive value",
+    "personalized pageranking vector"
+  ],
+  "TSG": [
+    "tree substitution grammar",
+    "tree substitution grammar"
+  ],
+  "FMA": [
+    "foundation model of anatomy",
+    "foundational model of anatomy"
+  ],
+  "DOM": [
+    "direct orthographic mapping",
+    "document object model",
+    "direct orthographical mapping",
+    "domainaware method"
+  ],
+  "QP": [
+    "probing question",
+    "quadratic program",
+    "question processing",
+    "quadratic program"
+  ],
+  "PN": [
+    "proper noun",
+    "personal name",
+    "pos ngrams",
+    "personal name",
+    "personal name",
+    "preceding noun phrase"
+  ],
+  "DNN": [
+    "deep neural network",
+    "deep neural network"
+  ],
+  "BLEU": [
+    "bilingual evaluation under",
+    "bilingual evalutation understudy"
+  ],
+  "TA": [
+    "treebank aplroach",
+    "translation"
+  ],
+  "ConjVs": [
+    "conjunct verbs",
+    "junct verbs"
+  ],
+  "PRF": [
+    "pseudo relevance feedback",
+    "pseudo relevance feedback"
+  ],
+  "CM": [
+    "case marker",
+    "cm"
+  ],
+  "MIRA": [
+    "margininfused relaxed algorithm",
+    "margin infused relaxed algorithm",
+    "mcdonald and pereira",
+    "margin infused relaxed algorithm"
+  ],
+  "OWL": [
+    "web ontology language",
+    "ontology web language"
+  ],
+  "INC": [
+    "incompletive",
+    "incorrect"
+  ],
+  "AAE": [
+    "africanamerican english",
+    "africanamerican english"
+  ],
+  "NCE": [
+    "noise contrastive estimation",
+    "noise constrastive estimation"
+  ],
+  "MD": [
+    "modal",
+    "maureeen dowd",
+    "rieser",
+    "minimum divergence",
+    "mutual dependency",
+    "modal"
+  ],
+  "NG": [
+    "noun group",
+    "null grammar",
+    "ngrams",
+    "noun group"
+  ],
+  "UGC": [
+    "user generated content",
+    "usergenerated content"
+  ],
+  "FOR": [
+    "antfst called",
+    "antest callec",
+    "antest callec"
+  ],
+  "HAC": [
+    "hierarchical agglomerative clustering",
+    "hierarchical agglomerative clustering"
+  ],
+  "ASL": [
+    "affix seeds lexicon",
+    "average sentence length",
+    "american sign language"
+  ],
+  "SO": [
+    "semantic orientation",
+    "sequence ontology",
+    "source order"
+  ],
+  "MDP": [
+    "markov decision processes",
+    "markov decision process"
+  ],
+  "IP": [
+    "ideal point",
+    "intellectual property",
+    "independent phrase",
+    "i pi"
+  ],
+  "TAL": [
+    "traitement automatique des langue",
+    "tree adjoining lan  gages",
+    "traitement automatique des langue"
+  ],
+  "SV": [
+    "support vector",
+    "swedish",
+    "shared variables"
+  ],
+  "FV": [
+    "full verb",
+    "filling status"
+  ],
+  "NL": [
+    "natura l  language",
+    "dutch",
+    "natural language",
+    "nonlem",
+    "nonliteral",
+    "natura l  language",
+    "northern light",
+    "natural language"
+  ],
+  "DTs": [
+    "decision trees",
+    "discourse trees"
+  ],
+  "RB": [
+    "refined bucket",
+    "expressing adverbials"
+  ],
+  "VBD": [
+    "past tense verb",
+    "verb past tense"
+  ],
+  "VBZ": [
+    "thirdperson singular present verb",
+    "verb present 3rd person",
+    "plays",
+    "nns"
+  ],
+  "ASTG": [
+    "adjective string",
+    "adicctive string"
+  ],
+  "PTrans": [
+    "precisioncorrecttransliteration",
+    "precisioncorrecttransliterations"
+  ],
+  "MZ": [
+    "magazine",
+    "magazine"
+  ],
+  "PSB": [
+    "possibility",
+    "pacific symposium on biocomputing"
+  ],
+  "RTE": [
+    "recognizing textual entailment",
+    "recognizing textual entailment",
+    "recognizing textual entailment"
+  ],
+  "RM": [
+    "reparandum",
+    "resource management",
+    "restricted memory"
+  ],
+  "IM": [
+    "instant messaging",
+    "interregnum",
+    "input manager"
+  ],
+  "BA": [
+    "backward",
+    "basic additive"
+  ],
+  "DSMs": [
+    "distributional semantic models",
+    "distributional semantic models"
+  ],
+  "RU": [
+    "russian",
+    "reductions",
+    "relative utility"
+  ],
+  "SSA": [
+    "subjectivity and sentiment analysis",
+    "simple segmentation algorith"
+  ],
+  "ARG": [
+    "attribute relation graph",
+    "npvpadj",
+    "arguments"
+  ],
+  "MEMMs": [
+    "maaximum entropy markov models",
+    "maximum entropy markov  models"
+  ],
+  "AD": [
+    "and",
+    "automatic differentiation"
+  ],
+  "KT": [
+    "kind types",
+    "knowledge type"
+  ],
+  "DARPA": [
+    "defense advanced research projects agency",
+    "defense advanced research projects agency"
+  ],
+  "TOP": [
+    "topic",
+    "topic marker",
+    "token on top"
+  ],
+  "ABS": [
+    "abstract",
+    "abstractio",
+    "abstract"
+  ],
+  "PSY": [
+    "psychfeature",
+    "psychfeatur"
+  ],
+  "COG": [
+    "cognition",
+    "cognitio"
+  ],
+  "SPA": [
+    "space",
+    "speech act"
+  ],
+  "ACT": [
+    "active",
+    "arboreal context tree",
+    "active",
+    "accumulated tag counts"
+  ],
+  "PAT": [
+    "patient",
+    "pattern"
+  ],
+  "LS": [
+    "less studied",
+    "logical sufficiency"
+  ],
+  "BM": [
+    "binding module",
+    "binding module"
+  ],
+  "ADD": [
+    "atr dialogue databas",
+    "additive",
+    "added"
+  ],
+  "SLINK": [
+    "subordination link",
+    "subordinate"
+  ],
+  "CSD": [
+    "chinese semantic dictionary",
+    "chinese semantic  dictionary"
+  ],
+  "MM": [
+    "markov model",
+    "media"
+  ],
+  "AQUAINT": [
+    "advanced question answering for intelligence",
+    "advanced question answering for intelligence"
+  ],
+  "ANIM": [
+    "animate",
+    "animal"
+  ],
+  "IS": [
+    "interruption site",
+    "information status",
+    "in ter face  st ructure",
+    "is",
+    "information status",
+    "iterative sealing"
+  ],
+  "LSP": [
+    "labeled sequential patterns",
+    "language for special purposes",
+    "linguistic string project"
+  ],
+  "MC": [
+    "miller and charles",
+    "misclassified",
+    "major claim"
+  ],
+  "COR": [
+    "corrola tion",
+    "corrective",
+    "coreference",
+    "  roles model"
+  ],
+  "AF": [
+    "acoustic features",
+    "adjusted frequency"
+  ],
+  "PPS": [
+    "subject pronoun",
+    "prompt piano server"
+  ],
+  "NLI": [
+    "natural language inference",
+    "native language identification",
+    "natural language inference"
+  ],
+  "GLM": [
+    "global linear model",
+    "generalised linear model",
+    "generalised linear model"
+  ],
+  "DRT": [
+    "discourse representation theory",
+    "discourse representation theory"
+  ],
+  "SGML": [
+    "standard generalized markup language",
+    "standard generalized markup"
+  ],
+  "SFST": [
+    "tical finitestate transducer",
+    "statistical finitestate transducer"
+  ],
+  "AA": [
+    "automatically annotated training",
+    "an adverb"
+  ],
+  "AJCL": [
+    "americanjournal of computational",
+    "americanjournal of computational  linguistics"
+  ],
+  "MUC-6": [
+    "message understanding conference6",
+    "message understanding conference 6"
+  ],
+  "PACLING": [
+    "pacific asia  conference on language information and com  putation",
+    "pacific association for computational linguistics"
+  ],
+  "REG": [
+    "referring expression generation",
+    "regression"
+  ],
+  "CNs": [
+    "compound nouns",
+    "common ouns"
+  ],
+  "EFL": [
+    "english as foreign language",
+    "expression",
+    "engliaboriented formal language"
+  ],
+  "AB)C": [
+    "abc",
+    "assumed to have the structure"
+  ],
+  "GA": [
+    "genetic algorithm",
+    "gravitationally"
+  ],
+  "LEM": [
+    "laten event model",
+    "latent event model"
+  ],
+  "MNS": [
+    "means",
+    "means"
+  ],
+  "NTD": [
+    "negative transfer detection",
+    "nave td"
+  ],
+  "MTUs": [
+    "minimal translation units",
+    "minimal translation units"
+  ],
+  "TL": [
+    "total",
+    "tweet length",
+    "target language",
+    "timeline",
+    "target language",
+    "text length"
+  ],
+  "LSH": [
+    "locality sensitive hashing",
+    "locality sensitive hashing"
+  ],
+  "SYN": [
+    "synonymy",
+    "syntax",
+    "synonyms",
+    "syntax"
+  ],
+  "DSM": [
+    "distributed semantic models",
+    "distributional semantic model"
+  ],
+  "DER": [
+    "dialogue act based metric",
+    "diacritization error rate"
+  ],
+  "DAs": [
+    "domain acts",
+    "dialogue acts",
+    "dialogue acts"
+  ],
+  "DEP": [
+    "depictive",
+    "dependency"
+  ],
+  "GT": [
+    "google translation",
+    "google translate",
+    "glottal",
+    "generalized transformation"
+  ],
+  "BG": [
+    "bulgarian",
+    "background",
+    "background"
+  ],
+  "STK": [
+    "syntactic tree kernel",
+    "syntactic tree kernels"
+  ],
+  "PRC": [
+    "procedure",
+    "partition right context",
+    "prefix counted"
+  ],
+  "PWN": [
+    "princeton wordnet",
+    "princeton wordnet"
+  ],
+  "SCFG": [
+    "synchronous contextfree grammar",
+    "stochasticcontextfreegrammar"
+  ],
+  "SWN": [
+    "senti wordnet",
+    "sentiwordnet"
+  ],
+  "SH": [
+    "shift",
+    "schwartz  hearst",
+    "shape"
+  ],
+  "CI": [
+    "confidence intervals",
+    "confidence interval",
+    "campus indoor",
+    "conventional implicatures"
+  ],
+  "MSA": [
+    "modern standard arabic",
+    "morphosyntactic analyzers"
+  ],
+  "CWS": [
+    "cluewordsummarizer",
+    "chinese word segmentation"
+  ],
+  "IIS": [
+    "iterative scaling",
+    "improved iterative scaling"
+  ],
+  "SGM": [
+    "speech generation module",
+    "speech generation module"
+  ],
+  "LGM": [
+    "language gen  eration module",
+    "language generation module"
+  ],
+  "CSUR": [
+    "computing surveys",
+    "computing surveys"
+  ],
+  "FMLN": [
+    "farabundo marti national liberation front",
+    "farabuido marti national liberation"
+  ],
+  "LB": [
+    "lexical baseline",
+    "listener bot",
+    "lazyboost",
+    "likely beneficial"
+  ],
+  "CRP": [
+    "chinese restaurant process",
+    "chinese restaurant process"
+  ],
+  "IYAS": [
+    "for answer search",
+    "interactive systems for answer search"
+  ],
+  "AFP": [
+    "agence france presse",
+    "agence france presse"
+  ],
+  "DPPs": [
+    "determinantal point processes",
+    "determinantal point processes"
+  ],
+  "SSST": [
+    "statistical translation",
+    "syntax and structure in statistical translation"
+  ],
+  "SUBS": [
+    "substantif",
+    "substamif"
+  ],
+  "WB": [
+    "web blog",
+    "wordbreak"
+  ],
+  "IPS": [
+    "inflectional property sets",
+    "interactive parsing system"
+  ],
+  "AV": [
+    "accessor variety",
+    "adjacent variet",
+    "accessor variety",
+    "altavista",
+    "assessor variety",
+    "auxiliary verb",
+    "average",
+    "accessor variety"
+  ],
+  "DLG": [
+    "description length gain",
+    "description length gain"
+  ],
+  "TG-RNN": [
+    "tag guided rnn",
+    "tag guided rnn"
+  ],
+  "NC": [
+    "np2 ",
+    "nonconvertible",
+    "noun compound"
+  ],
+  "SLT": [
+    "spoken language technology",
+    "spoken language technology"
+  ],
+  "ADJP": [
+    "adjective phras",
+    "adjective phrase"
+  ],
+  "AR": [
+    "anaphora resolution",
+    "averaged reca l l"
+  ],
+  "IWP": [
+    "independent word probability",
+    "independent word probability"
+  ],
+  "AT": [
+    "all templates",
+    "article",
+    "attach",
+    "answer type",
+    "activity tree"
+  ],
+  "CTB5": [
+    "chinese treebank version 51",
+    "chinese treebank 51"
+  ],
+  "UC": [
+    "unix consultant",
+    "user centered"
+  ],
+  "BTEC": [
+    "basic travel expression corpus",
+    "basic travel expression corpu"
+  ],
+  "ESA": [
+    "explicit",
+    "explicit semantic analysis"
+  ],
+  "IST": [
+    "information society technologies",
+    "information society"
+  ],
+  "BF": [
+    "base form",
+    "branching factor",
+    "bracketing f"
+  ],
+  "Q&A": [
+    "question  answering",
+    "question answerin",
+    "question answer"
+  ],
+  "FIPS": [
+    "federal information processing standard",
+    "federal mfomtion processing staodards"
+  ],
+  "SAs": [
+    "semantic analysis",
+    "speech acts14"
+  ],
+  "MMR": [
+    "maximal marginal relevance",
+    "maximal marginal relevance"
+  ],
+  "MOOCs": [
+    "massive open online courses",
+    "massive open online courses"
+  ],
+  "TT": [
+    "theme tool",
+    "target time",
+    "tree transducer",
+    "text tiling",
+    "trigger term",
+    "tongue tip"
+  ],
+  "NARR": [
+    "narrative",
+    "narrative"
+  ],
+  "CITEC": [
+    "cognitive interaction technology",
+    "center of excellence"
+  ],
+  "DG": [
+    "dependency grammar",
+    "dependency grammar",
+    "dependency grammar",
+    "dependency grammar"
+  ],
+  "CNB": [
+    "cn bank",
+    "causality nave bayesian"
+  ],
+  "MRD": [
+    "machine readable dictionary",
+    "machine readable dictionary"
+  ],
+  "MN": [
+    "match number",
+    "mixed ngrams"
+  ],
+  "STrain": [
+    "source domain training",
+    "source domain training"
+  ],
+  "HITs": [
+    "human intelligence tasks",
+    "human intelligence tasks"
+  ],
+  "CNPC": [
+    "constraint",
+    "complex noun phrase constraint"
+  ],
+  "RWN": [
+    "right wing new",
+    "right wing new"
+  ],
+  "CB": [
+    "ui",
+    "carpetbagger",
+    "carpetbagger"
+  ],
+  "BGH": [
+    "bunruigoihyo thesaurus",
+    "bunruigoihyo thesaurus",
+    "bunruigoihy3",
+    "bunruigoihy6"
+  ],
+  "RH": [
+    "random house",
+    "reattachment heuristic"
+  ],
+  "H_FL": [
+    "human fluency",
+    "human fluency score"
+  ],
+  "CC-A": [
+    "center to  anchor",
+    "center to anchor"
+  ],
+  "LE-A": [
+    "left  edge to anchor",
+    "left edge to anchor"
+  ],
+  "ABL": [
+    "alignment based learning",
+    "ablative"
+  ],
+  "PK": [
+    "paul krugman",
+    "prior knowledge",
+    "peking university"
+  ],
+  "WC": [
+    "weighting based corrector",
+    "words correct"
+  ],
+  "FSDs": [
+    "feature specification defaults",
+    "feature specification  defaults"
+  ],
+  "SDSs": [
+    "spoken dialogue systems",
+    "spoken dialogue systems"
+  ],
+  "MF": [
+    "middle field",
+    "mean field"
+  ],
+  "CNN": [
+    "convolutional neural network",
+    "convolutional neural network",
+    "convolutional neural network"
+  ],
+  "IQ": [
+    "intelligence quotient",
+    "interaction quality"
+  ],
+  "BNF": [
+    "beneficial",
+    "backus normal form"
+  ],
+  "IER": [
+    "interpretation error rate",
+    "interpretation error rate"
+  ],
+  "INFL": [
+    "inflection",
+    "in the transformational"
+  ],
+  "TB": [
+    "tongue body",
+    "the base"
+  ],
+  "CLTE": [
+    "crosslingual textual entailment",
+    "classifiers for detecting"
+  ],
+  "LMI": [
+    "local mutual information",
+    "local mutual information"
+  ],
+  "SLS": [
+    "spoken language system",
+    "spoken language  systems",
+    "spoken language system"
+  ],
+  "TAG's": [
+    "tree adjoin  ing grammars",
+    "tree adjoining grammars"
+  ],
+  "DD": [
+    "dear daughter",
+    "dependent",
+    "dual decomposition"
+  ],
+  "DIM": [
+    "diminishers",
+    "diminutive"
+  ],
+  "PH": [
+    "phonetic",
+    "previous conjunct headed"
+  ],
+  "CFE": [
+    "caterpillar fundamental english",
+    "case frame editor"
+  ],
+  "PDN": [
+    "peoples daily news",
+    "predictive dialogue network"
+  ],
+  "MRP": [
+    "minimum risk parse",
+    "max rule product"
+  ],
+  "PPDB": [
+    "properties in the paraphrase database",
+    "paraphrase database"
+  ],
+  "LVM": [
+    "latent variable model",
+    "latent variable method"
+  ],
+  "MPL": [
+    "module  package layer",
+    "metapattern language"
+  ],
+  "TFSs": [
+    "typed fea  twre structures",
+    "typed feature structures"
+  ],
+  "PL-MRF": [
+    "partial lattice mrf",
+    "partiallattice markov random field"
+  ],
+  "NT": [
+    "nadeau  turney",
+    "number translation"
+  ],
+  "SM": [
+    "seabed minerals",
+    "shared modifier"
+  ],
+  "ALR": [
+    "asian language resource",
+    "asian language resource"
+  ],
+  "HTTP": [
+    "hypertext transfer protocol",
+    "hypertext transport protocol"
+  ],
+  "CRM": [
+    "customer relationship management",
+    "content relevance"
+  ],
+  "TAM": [
+    "tamil",
+    "tag allocation model"
+  ],
+  "STT": [
+    "speechtotext",
+    "speech recognition outputs"
+  ],
+  "WSDM": [
+    "web search and data mining",
+    "web search and data mining"
+  ],
+  "VPE": [
+    "verb phrase ellipsis",
+    "verb phrase ellipsis"
+  ],
+  "UPC": [
+    "universitat politecnica de catalunya",
+    "universitat politcnica"
+  ],
+  "AUX": [
+    "auxiliaries",
+    "auxiliary"
+  ],
+  "SEM": [
+    "semantic",
+    "semantics"
+  ],
+  "ISI": [
+    "information sciences institute",
+    "international statistical institute"
+  ],
+  "STe": [
+    "sentence testing",
+    "sentence testing"
+  ],
+  "WCFG": [
+    "weighted cfg",
+    "weighted context free grammars"
+  ],
+  "FAA": [
+    "federal aviation association",
+    "federal aviation administration"
+  ],
+  "PPD": [
+    "peoples daily",
+    "pkus peoples daily"
+  ],
+  "N-N": [
+    "nounnoun",
+    "nounnoun"
+  ],
+  "NLM": [
+    "neural language model",
+    "neural language model"
+  ],
+  "CPM": [
+    "continuous profile model",
+    "continuous profile model"
+  ]
+}

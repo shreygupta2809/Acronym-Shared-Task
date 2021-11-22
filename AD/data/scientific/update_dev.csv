@@ -1,0 +1,895 @@
+,acronym_,expansion,id,text
+0,RL,reinforcement learning,1,An Evaluation of Pedagogical Tutorial Tactics for a Natural Language Tutoring System: a RL Approach.
+1,RL,reinforcement learning,2,RL: An Introduction.
+2,RL,reinforcement learning,3,RL.
+3,RL,reinforcement learning,4,2016 Association for Computational Linguistics Deep RL with a Natural Language Action Space Ji He ?
+4,RL,reinforcement learning,5,RL for Dialog Management Using Least-Squares Policy Iteration and Fast Fea-ture Selection.
+5,RL,reinforcement learning,6,Optimizing Dialogue Management with RL: Experiments with the NJFun System.
+6,RL,rel loc,7,"prep of(S, object word) relations, recovering RL word ?"
+7,RL,rel loc,8,252 J?rgensen and L?nning Minimal Recursion Semantic Analysis of Locatives prep relation mode RL rel id rel . . .
+8,RL,rel loc,9,"We pre-define a dictionary of attribute-values (color word, size word, abs location word, RLation word) for each of the attributes based on the observed data using a combination of POS-tagging and manual labeling."
+9,RL,reinforcement learning,10,"Re- cently, inspired by advances in deep learning (Le- Cun et al, 2015; Hinton et al, 2012; Krizhevsky et al, 2012; Dahl et al, 2012), significant progress has been made by combining deep learning with RL."
+10,RL,reinforcement learning,11,"In some applications, it is possible to manually design fea- tures for state-action pairs, which are then used in RL to learn a near-optimal policy (Li et al, 2009)."
+11,RL,reinforcement learning,12,"Because a player?s action changes the environment, RL (Sutton and Barto, 1998) is appropriate for modeling long- term dependency in text games."
+12,RL,reinforcement learning,13,"In language processing, RL has been ap- plied to a dialogue management system that con- verses with a human user by taking actions that generate natural language (Scheffler and Young, 2002; Young et al, 2013)."
+13,RL,reinforcement learning,14,"4 Related Work There has been increasing interest in applying deep RL to a variety problems, but only a few studies address problems with nat- ural language state or action spaces."
+14,RL,reinforcement learning,15,"Microsoft Research, Redmond, WA 98052, USA {jianshuc, xiaohe, jfgao, lihongli, deng}@microsoft.com Abstract This paper introduces a novel architec- ture for RL with deep neural networks designed to handle state and action spaces characterized by natural language, as found in text-based games."
+15,DO,direct objec,16,Thus the Dative DOt construc-  tion is stated as a construction i the grammar whose combination with  specific lexieal items comes up only in use.
+16,DO,direct objec,17,"So, in relation to the verb afelippen (to cut off) we find -  among others- DOt and Means."
+17,DO,direct objec,18,"Clause  Head: Send  Indire~-I Object: Noun Phrase  Head: Him  DOt Noun Phrase  Head: Message  Article: The  Relative: Clause  Head: Arrive  Subject: That  Time: Yesterday  Figure 1: Syntactic Analysis of ""Send him the message that  arrived yesterday.""."
+18,DO,direct objec,19,The semantic onstraints on when a Dative  DOt can be used can not be expressed in the lexicon - the  difference between (12) and (13) depends on a constmal of the entire  utterance conceptualization.
+19,DO,direct objec,20,DOt NPs and Indirect Object NPs are all untagged? (
+20,DO,direct objec,21,"In the above example, the preposition met (with) is an  indicator for Means and it is the absence of a preposition  which points to the DOt."
+21,DO,direct objec,22,SYNTACTIC FORM:  - Realize the Goal as the DOt  - Realize the Theme as the Second Object.
+22,DO,direct objec,23,Thus the Dative DO construc-  tion is stated as a construction i the grammar whose combination with  specific lexieal items comes up only in use.
+23,DO,direct objec,24,"So, in relation to the verb afelippen (to cut off) we find -  among others- DO and Means."
+24,DO,direct objec,25,"Clause  Head: Send  Indire~-I Object: Noun Phrase  Head: Him  DO Noun Phrase  Head: Message  Article: The  Relative: Clause  Head: Arrive  Subject: That  Time: Yesterday  Figure 1: Syntactic Analysis of ""Send him the message that  arrived yesterday.""."
+25,DO,direct objec,26,The semantic onstraints on when a Dative  DO can be used can not be expressed in the lexicon - the  difference between (12) and (13) depends on a constmal of the entire  utterance conceptualization.
+26,DO,direct objec,27,DO NPs and Indirect Object NPs are all untagged? (
+27,DO,direct objec,28,"In the above example, the preposition met (with) is an  indicator for Means and it is the absence of a preposition  which points to the DO."
+28,DO,direct objec,29,SYNTACTIC FORM:  - Realize the Goal as the DO  - Realize the Theme as the Second Object.
+29,SVMs,support vector machine,30,"SVMs have been used for text classification (Tong and Koller, 2002), using properties of the support vector ma- chine algorithm for determining what unlabelled data to select for classification."
+30,SVMs,support vector machine,31,"SVMs (SVM, Cortes and Vapnik (1995)) have gained a lot of popularity in the past decade and very often are state-of-the-art approach for text mining challenges."
+31,SVMs,support vector machine,32,"SVMs are powerful statisti- cal classifiers, as employed in the ?"
+32,SVMs,support vector machine,33,2.6 Support Vector Machine SVMs (SVM) are statistical classifiers which use labelled training data to pre- dict the class of unseen inputs.
+33,SVMs,support  vector machines,34,"At  this  point  the  focus switches over to the tool itself, which learns  regular  patterns  using  SVMs  and then uses the information gathered to tag any  possible list of words  (Figure 1, Line 5)."
+34,SVMs,support  vector machines,35,"Decisions were  made  by  an  annotator  with  a  well-grounded  knowledge of SVMs and their  behaviour,  which  turned  out  to  be  quite  useful  when deciding which output should be classified as  ?"
+35,TR,terse reply,36,"The fragments  also consisted of parsed ones: terse question,  TR and definitions, and nonparsed ones:  false starts and phatics."
+36,TR,terse reply,37,"Of particular interest in the  analysis is the notion of a terse question, which is a  type of telegraphic ellipsis, and a TR, which is  a type of contextual ellipsis."
+37,TR,template relation,38,"To illustrate concretely, suppose our search state is: (some felines have tails, valid) 538 Transition TR WordNet hypernym v WordNet hyponym w WordNet antonym ?"
+38,TR,template relation,39,2 Related Work  The relation extraction task was first introduced as  part of the Template Element task in MUC6 and then  formulated as the TR task in MUC7.
+39,TR,template relation,40,"The reports are ordered by task (Template Element, TR, Scenario Template, Named Entity, and Coreference) and secondarily by site and language (in alphabetical order)."
+40,TR,template relation,41,"While the  MUC TR and Scenario Template  tasks targeted relations and events plus their attrib- utes, the focus of these tasks was domain specific."
+41,TR,template relation,42,4.5 Base Phrase Chunking  It is well known that chunking plays a critical role  in the TR task of the 7th Message  Understanding Conference (MUC-7 1998).
+42,TR,template relation,43,"2 Related Work  The task of relation extraction was introduced as a  part of the Template Element task in MUC6 and  formulated as the TR task in MUC7  (MUC, 1987-1998)."
+43,TR,translation retrieval,44,1 Introduction TR aims to search for the most probable translation candidate from a set of target- language strings for a given source-language string.
+44,TR,translation retrieval,45,"Institute for Interdisciplinary Information Sciences Tsinghua University, Beijing, China chengyong3001@gmail.com, xu@tsinghua.edu.cn  Toshiba Corporation Corporate Research & Development Center tatsuya.izuha@toshiba.co.jp # Toshiba (China) R&D Center haojie@toshiba.com.cn Abstract TR aims to find the most likely translation among a set of target-language strings for a given source-language string."
+45,TR,template relation,46,"To illustrate concretely, suppose our search state is: (some felines have tails, valid) 538 Transition TRn WordNet hypernym v WordNet hyponym w WordNet antonym ?"
+46,TR,template relation,47,2 Related Work  The relation extraction task was first introduced as  part of the Template Element task in MUC6 and then  formulated as the TRn task in MUC7.
+47,TR,template relation,48,"The reports are ordered by task (Template Element, TRn, Scenario Template, Named Entity, and Coreference) and secondarily by site and language (in alphabetical order)."
+48,TR,template relation,49,"While the  MUC TRn and Scenario Template  tasks targeted relations and events plus their attrib- utes, the focus of these tasks was domain specific."
+49,TR,template relation,50,4.5 Base Phrase Chunking  It is well known that chunking plays a critical role  in the TRn task of the 7th Message  Understanding Conference (MUC-7 1998).
+50,TR,template relation,51,"2 Related Work  The task of relation extraction was introduced as a  part of the Template Element task in MUC6 and  formulated as the TRn task in MUC7  (MUC, 1987-1998)."
+51,CTB,chinese treebank,52,"In this paper, we use Chinese  Propbank 1.0 provided by Linguistic Data Consor- tium (LDC), which is based on CTB."
+52,CTB,chinese treebank,53,"This was effective  because of the properties of Chinese: First, there is  no multi-root in CTB."
+53,CTB,chinese treebank,54,"5 Experiment and discussion  This section will describe the experiment on the  SRL in CTB, compare TSVM with  regular SVM, and evaluate the effect of the pro- posed argument-specific heuristics."
+54,CTB,chinese treebank,55,"It consists of 37,183 propositions indexed to the                                                    1 F1 measure computes the harmonic mean of precision  and recall of SRL systems in CoNLL-2005  first 250k words in CTB 5.1, includ- ing 4,865 verb types and 5,298 framesets."
+55,CTB,chinese treebank,56,"We incorporated Nivre?s method with these  preprocessing methods for Chinese dependency  analysis with Penn CTB and Sinica  Treebank (Chen   et al, 2003)."
+56,CTB,chinese treebank,57,Adding seman- tic roles to the CTB.
+57,CTB,chinese treebank,58,The Penn CTB: Phrase structure annotation of a large corpus.
+58,CTB,chinese treebank,59,The Penn CTB: phrase structure an- notation of a large corpus.
+59,CTB,chinese treebank,60,The Penn CTB: Phrase Structure Annotation of a Large Corpus.
+60,HDT,hierarchical dirichlet tree,61,k+njk (7) where the second product is over pairs (kl) where k is a parent of l on the path from the root to x. The HDT model we pro- posed has a large number of parameters and hy- perparameters (even after integrating out the ?
+61,HDT,hierarchical dirichlet tree,62,6 Conclusion and Future Work We presented a HDT model for information retrieval which can inject (semantical or syntactical) word relationships as the domain knowl- edge into a probabilistic model for information re- trieval.
+62,HDT,hierarchical dirichlet tree,63,We give encour- aging experimental evidence of the superiority of the HDT compared to standard baselines.
+63,HDT,hierarchical dirichlet tree,64,"We generalize the model of (Cowans, 2004) by re- placing the Dirichlet distributions with Dirichlet tree distributions (Minka, 2003), thus we call our model the HDT."
+64,HDT,hierarchical dirichlet tree,65,b) The global tree and local trees in HDT docu- ment model.
+65,HDT,hindi dependency treebank,66,c?2011 Association for Computational Linguistics Empty Categories in HDT: Analysis and Recovery Chaitanya GSK Intl Institute of Info.
+66,HDT,hindi dependency treebank,67,"Unlike PropBanks in most other languages, the Hind PropBank is annotated on top of dependency structure, the HDT."
+67,HDT,hindi dependency treebank,68,"3 HDT (HTB) A multi layered and multi representational tree- bank for Hindi is developed by annotating with morpho-syntactic (morphological analyses, POS tags, chunk) and syntacto-semantic (dependency re- lations labeled in the computational paninian frame- work) information."
+68,HDT,hindi dependency treebank,69,(2012) describe a graphical tool that was used in the annotation of the HDT.
+69,HDT,hindi dependency treebank,70,94 2 The HDT  Hindi is a free word order language with SOV as  the default order.
+70,HDT,hindi dependency treebank,71,A GUI to Detect and Correct Errors in HDT.
+71,MaxEnt,maximum entropy,72,"If bx corresponds to empirical expectations and p?(z|x) is uniform, then Equation (10) would be a log-likelihood and Equation (14) (fol- lowing) would be a maxiMaxEnt problem."
+72,MaxEnt,maximum entropy,73,A max- iMaxEnt approach to combining word align- ments.
+73,MaxEnt,maximum entropy,74,A maxiMaxEnt word aligner for arabic-english machine translation.
+74,MaxEnt,maximum entropy,75,Note that this primal?dual relationship is very similar to the one between maximum likelihood and maxiMaxEnt.
+75,MaxEnt,maximum entropy,76,"Supervised training methods already applied to PP attachment range from stochastic maximum likelihood (Collins and Brooks, 1995) or maxi- MaxEnt models (Ratnaparkhi et al, 1994) to the induction of transformation rules (Brill and Resnik, 1994), decision trees (Stetina and Nagao, 1997) and connectionist models (Sopena et al, 1998)."
+76,MaxEnt,maximum entropy,77,Adaptation of maxiMaxEnt capitalizer: Little data can help a lot.
+77,MaxEnt,maximum entropy,78,"Ratnaparkhi et al, 1994) 228 extended the problem instances to quadruples by also considering the kernel noun of the PP, and used maxiMaxEnt models to estimate the preferences."
+78,MaxEnt,maximum entropy,79,"As with maxiMaxEnt, gradient computation involves computing an expectation under q(z | x), which can be performed efficiently if the features f(x, z) factor in the same way as the model p?(x, z), and t"
+79,MaxEnt,maximum entropy,80,MaxEnt based restoration of arabic diacritics.
+80,MaxEnt,maximum entropy,81,Learned MaxEnt parameters x ct First-person pronouns features ?
+81,MaxEnt,maximum entropy,82,MaxEnt model for punctuation annotation from speech.
+82,MaxEnt,maximum entropy,83,"the same experiment applied to TB2 dataset (TB2- 278 Description Accuracy Data Extra Supervision Always noun 55.0 RRR Most likely for each P 72.19 RRR Most likely for each P 72.30 TB2 Most likely for each P 81.73 FN Average human, headwords (Ratnaparkhi et al, 1994) 88.2 RRR Average human, whole sentence (Ratnaparkhi et al, 1994) 93.2 RRR Maximum Likelihood-based (Hindle and Rooth, 1993) 79.7 AP MaxEnt, words (Ratnaparkhi et al, 1994) 77.7 RRR MaxEnt, words & classes (Ratnaparkhi et al, 1994) 81.6 RRR Decision trees (Ratnaparkhi et al, 1994) 77.7 RRR Transformation-Based Learning (Brill and Resnik, 1994) 81.8 WordNet Maximum-Likelihood based (Collins and Brooks, 1995) 84.5 RRR Maximum-Likelihood based (Collins and Brooks, 1995) 86.1 TB2 Decision trees & WSD (Stetina and"
+83,MaxEnt,maximum entropy,84,"ription Accuracy Data Extra Supervision Always noun 55.0 RRR Most likely for each P 72.19 RRR Most likely for each P 72.30 TB2 Most likely for each P 81.73 FN Average human, headwords (Ratnaparkhi et al, 1994) 88.2 RRR Average human, whole sentence (Ratnaparkhi et al, 1994) 93.2 RRR Maximum Likelihood-based (Hindle and Rooth, 1993) 79.7 AP MaxEnt, words (Ratnaparkhi et al, 1994) 77.7 RRR MaxEnt, words & classes (Ratnaparkhi et al, 1994) 81.6 RRR Decision trees (Ratnaparkhi et al, 1994) 77.7 RRR Transformation-Based Learning (Brill and Resnik, 1994) 81.8 WordNet Maximum-Likelihood based (Collins and Brooks, 1995) 84.5 RRR Maximum-Likelihood based (Collins and Brooks, 1995) 86.1 TB2 Decision trees & WSD (Stetina and Nagao, 1997) 88.1 RRR WordNet Memory-based Learning (Zavre"
+84,MaxEnt,maximum entropy,85,"(Ratnaparkhi et al, 1994) 81.6 RRR Decision trees (Ratnaparkhi et al, 1994) 77.7 RRR Transformation-Based Learning (Brill and Resnik, 1994) 81.8 WordNet Maximum-Likelihood based (Collins and Brooks, 1995) 84.5 RRR Maximum-Likelihood based (Collins and Brooks, 1995) 86.1 TB2 Decision trees & WSD (Stetina and Nagao, 1997) 88.1 RRR WordNet Memory-based Learning (Zavrel et al, 1997) 84.4 RRR LexSpace MaxEnt, unsupervised (Ratnaparkhi, 1998) 81.9 MaxEnt, supervised (Ratnaparkhi, 1998) 83.7 RRR Neural Nets (Alegre et al, 1999) 86.0 RRR WordNet Boosting (Abney et al, 1999) 84.4 RRR Semi-probabilistic (Pantel and Lin, 2000) 84.31 RRR MaxEnt, ensemble (McLauchlan, 2001) 85.5 RRR LSA SVM (Vanschoenwinkel and Manderick, 2003) 84.8 RRR Nearest-neighbor (Zhao and Lin, 2004) 8"
+85,MaxEnt,maximum entropy classification,86,2.2 MaxEnt The second step of our paraphrasing system consists of a supervised maximum entropy classification ap- proach.
+86,ISS,iterative semantic specialization,87,"Girju et al (2005) apply both classic (SVM and decision trees) and novel supervised models (seman- tic scattering and ISS), using WordNet, word sense disambiguation, and a set of linguistic features."
+87,ISS,iterative semantic specialization,88,"In 2003, Girju, Badulescu, and Moldovan (Girju, Badulescu, and Moldovan, 2003) detected the PART- WHOLE relations for some of the most frequent patterns (including the genitives) using the Itera- tive ISS, a learning model that searches for constraints in the WordNet noun hierar- chies."
+88,DOM,direct orthographic mapping,89,"c?2009 ACL and AFNLP Graphemic Approximation of Phonological Context  for English-Chinese Transliteration      Oi Yee Kwong  Department of Chinese, Translation and Linguistics  City University of Hong Kong  Tat Chee Avenue, Kowloon, Hong Kong  Olivia.Kwong@cityu.edu.hk         Abstract  Although DOM has  been shown to outperform phoneme-based  methods in English-to-Chinese (E2C) translit- eration, it is observed that phonological con- text plays an important role in resolving gra- phemic ambiguity."
+89,DOM,direct orthographic mapping,90,"Although DOM has  been shown to be an effective method, it is nev- ertheless observed that phonological context sig- nificantly contributes to the resolution of some  graphemic ambiguity."
+90,DOM,direct orthographic mapping,91,"Although the DOM approach advo- cates a direct transfer of grapheme at run-time, we still need to establish the grapheme correspon- dence at the model training stage, when phoneme level alignment can help."
+91,DOM,direct orthographic mapping,92,"The core of our systems is based on Li et al?s  (2004) Joint Source-Channel Model under the  DOM framework, which  skips the middle phonemic representation in  conventional phoneme-based methods and mod- els the segmentation and alignment preferences  by means of contextual n-grams of the translit- eration segment pairs (or token pairs in their ter- minology)."
+92,DOM,direct orthographic mapping,93,"Grapheme- based method (Li et al, 2004) treats translitera- tion as a DOM and only uses orthography-related features while phoneme- based method (Knight and Graehl, 1998) makes use of phonetic correspondence to generate the transliteration."
+93,DOM,document object model,94,5 DOM.
+94,DOM,document object model,95,Gupta et al (2003) parsed HTML documents  to a DOM tree and to extract the  main content of a web page by removing the link  lists and empty tables.
+95,DOM,document object model,96,"If you intend to automatically process only a few selected fora, you will probably use XPath queries on the HTML DOM."
+96,DOM,document object model,97,DOM.
+97,SC,semcor,98,"The reason for working with this collection is the fact that we also have a manual translation of the SC docu- ments from English into one of the target languages used in the experiments (Romanian), which enables comparative evaluations of different scenarios (see Section 4)."
+98,SC,semcor,99,"The automatic translation of the MPQA and of the SC corpus was performed using Language Weaver,1 a commercial statistical machine transla- tion software."
+99,SC,semcor,100,"P R F high-precision 86.7 32.6 47.4 high-coverage 79.4 70.6 74.7 Table 1: Precision (P), Recall (R) and F-measure (F) for the two OpinionFinder classifiers, as measured on the MPQA corpus As a raw corpus, we use a subset of the SC corpus (Miller et al, 1993), consisting of 107 docu- ments with roughly 11,000 sentences."
+100,SC,semcor,101,"In (Mihalcea et al, 2007), we used the manual translation of the SC corpus into Romanian to form an English-Romanian par- allel data set."
+101,SC,semcor,102,"These sentences represent the manual translation into Romanian of a small subset of the SC corpus, which was removed from the training corpora used in experi- ments two and three."
+102,SC,semcor,103,"Figure 3: Experiment three: machine translation of raw training data from target language into source language As before, we use the high-coverage classifier available in OpinionFinder, and the SC corpus."
+103,SC,semcor,104,"nFinder classifiers, as measured on the MPQA corpus As a raw corpus, we use a subset of the SC corpus (Miller et al, 1993), consisting of 107 docu- ments with roughly 11,000 sentences."
+104,SC,semcor,105,We compare our results with those obtained by a previously proposed method that was based on the manual translation of the SC subjectivity- annotated corpus.
+105,SC,semcor,106,The reason for working with this collection is the fact that we also have a manual translation of the SC docu- ments from English into one of the target languages used in the experiments (Ro
+106,SC,section,107,The previous n para- graphs1 were searched and the pronoun under in- vestigation was mapped to the closest (in terms of textual proximity) story character that had the same gender as the pronoun (see SC 3.4.1 re- garding gender estimation).
+107,SC,section,108,"The paper is structured as follows: SC 2 in- troduces the classification we are aiming at and the hypotheses that led to the experiments; SC 3 fo- cuses on the methodology used to produce the clas- sification; in SC 4 we discuss the results ob- tained so far; finally, SC 5 contains some con- clusions and proposals for further work."
+108,SC,section,109,This is applied to char- acters (rather than only speakers) because the gen- der information is exploited during the attribution of quotes (see SC 3.3).
+109,SC,second,110,Thus our SC method of finding the  pronoun/noun co-occurrences is simply to parse  the text and then assume that the noun-phrase  at Hobbs distance one is the antecedent.
+110,SC,second,111,The SC problem is resolving utterance chains with implicit speakers.
+111,SC,second,112,"The SC half of the paper describes a  method for using (portions of) t~e aforemen-  tioned program to learn automatically the typi-  cal gender of English words, information that is  itself used in the pronoun resolution program."
+112,SC,second,113,"3.2 Identification of Story Characters The SC step is identifying candidate charac- ters (i.e., entities) that appear in the stories under analysis."
+113,SC,second,114,"Even if Kim's gender  was unknown before seeing the first sentence,  after the SC sentence, it is known."
+114,SC,second,115,The SC  experiment investigates a method for unsuper-  vised learning of gender/number/animaticity  information.
+115,SC,simple classification,116,5.1 Comparison with SC We compared the RAkEL algorithm with single- label (SL) classification.
+116,SC,score,117,"Last but not least, we have to work on the definition of polysemy within our task, so that we can achieve significant agreement SCs among judges and in- tegrate this parameter in the experiment."
+117,SC,score,118,We cannot perform any analysis on the clustering results with respect to polysemy until reliable SCs are obtained.
+118,SC,score,119,"However, the agreement SCs for polysemy judgments were not significant at all."
+119,SC,score,120,"The precision SC computed over all phrases  containing any of the target honorifics are 66.0%  l In effect, this is the same as admi t t ing  that  a ref-  erent  can be in different gender  classes across different  observations."
+120,SC,score,121,"The low- est agreement SCs are those of J2, the only judge who had not done research on adjectives."
+121,SC,score,122,"The clustering procedure achieves a comparable agreement SC for one of the pa- rameters, and a little lower for the other."
+122,SC,system combination,123,2 SC Algorithm The median string of a set is defined as the string that minimises the sum of distances to the strings in the set.
+123,SC,system combination,124,1.3 SC Combination of (manual) rule-writing and statis- tical learning has been studied before.
+124,SC,system combination,125,3.3 SC Results Our framework to compute consensus translations allows multiple combinations varying the median string algorithm or the set of weight values used in the weighted sum of distances.
+125,SC,system combination,126,2.3 SC System combination is used to produce consensus translations from multiple hypotheses generated with different translation engines.
+126,SC,system combination,127,"5.3 Comparison with SC We re-implemented a state-of-the-art system com- bination method (Rosti et al, 2007)."
+127,SC,system combination,128,"c?2010 Association for Computational Linguistics An Augmented Three-Pass SC Framework: DCU Combination System for WMT 2010 Jinhua Du, Pavel Pecina, Andy Way CNGL, School of Computing Dublin City University Dublin 9, Ireland {jdu,ppecina,away}@computing.dcu.ie Abstract This paper describes the augmented three- pass system combination framework of the Dublin City University (DCU) MT group for the WMT 2010 system combi- nation task."
+128,SC,string consistency,129,"To test this hypothesis, we devise the following classification problem: can we discriminate between 78 Baseline Dialog length (turns) Mean, standard deviation, min and max acts per turn Presence of special machine acts (flight offer and confirm) Presence of user acts (provide a dest city and arrival city) Proportion of acts which were provides SC Did the user provide inconsistent information about dest city?"
+129,SC,simplified chinese,130,"he documents adopted in MET-2 are selected from newspapers in China, thus we have to transform SC characters in GB coding set to traditional Chinese characters in Big-5 coding set before testing."
+130,SC,simplified chinese,131,The traditional Chinese sentences are transferred  into SC.
+131,SC,simplified chinese,132,"The documents adopted in MET-2 are selected from newspapers in China, thus we have to transform SC characters in GB coding set to traditional Chinese characters in Big-5 coding set before testing."
+132,SC,simplified chinese,133,The experiment results demonstrate that adopting our two strategies generally benefi- cial to NWI and CWS on both traditional and SC datasets.
+133,SC,simplified chinese,134,It was converted to SC by using Wikipedia?s traditional-simplified conversion table http://svn.
+134,SC,simplified chinese,135,Traditional  Chinese edition of a SC  edition published in 1984.)
+135,SC,simplified chinese,136,"However, ""D"" is used in SC characters and it is also a legal traditional Chinese character that denotes"
+136,SC,simplified chinese,137,"However, ""D"" is used in SC characters and it is also a legal traditional Chinese character that denotes another meaning."
+137,SC,score,138,and F-SC (LF ?
+138,SC,score,139,"All classifiers obtain a relatively high accuracy but vary in the precision, recall and F-SC values."
+139,SC,score,140,"Furthermore, by using rules to identify the metaphors in riddles, we get an improvement of 10.1% at Acc@1, which proves the validity of the 852 SC Criterion 5 Elegant metaphors, totally coherent 4 Correct metaphors, mostly coherent 3 Acceptable metaphors, more of less coherent 2 Tolerable metaphors, little coherent 1 Wrong metaphors, incoherent Table 7: The criterion of riddle evaluation rule we define."
+140,SC,score,141,The ranking score is calculated as SC(c) = m?
+141,SC,score,142,"haracters in riddle Max Freq Radical maximized number of frequencies of characters in riddle Number Alignment number of alignments used for generating the candidate Length Alignment length of words from alignments Number Rule number of rules used for generating the candidate Length Rule length of words from rules LM SC R score of language model trained by Chinese riddles, poems and couplets LM SC G score of language model trained by web documents Table 4: Features for riddle generation and count the unigram and bigram word frequency of the rest words."
+142,SC,score,143,"that the character decompose Avg Freq Character average number of frequencies of characters in riddle Max Freq Radical maximized number of frequencies of characters in riddle Number Alignment number of alignments used for generating the candidate Length Alignment length of words from alignments Number Rule number of rules used for generating the candidate Length Rule length of words from rules LM SC R score of language model trained by Chinese riddles, poems and couplets LM SC G score of language model trained by web documents Table 4: Features for riddle generation and count the unigram and bigram word frequency of the rest words."
+143,PM,parenthesized material,144,"with 0 referring to case-insensitivity, 1 being replacement of hyphens with spaces, 2 being removal of punc- tuation, 3 being removal of PMs, and 6 being removal of spaces; grouped digits indi- cate simultaneous invocation of each specified rule in the group."
+144,PM,parenthesized material,145,Removal of PMs.
+145,PM,parenthesized material,146,"Even strict pattern matches and forms that  vary only with respect to inflectional  morphology (i.e., the plurals) yield a nontrivial  percentage of false positives?a percentage  which is actually higher than two of our  heuristics (optionality of hyphenation and  optionality of PM)."
+146,PM,parenthesized material,147,"Optionality of PM: for any  regular expression representing a gene name,  substitute the regular expression formed by  making any paired parentheses and the material  they enclose (and surrounding whitespace, as  appropriate) optional."
+147,PM,parenthesized material,148,"For example in pr tence 36 patients with inflammatory bowel disease  (11 with ulcerative colitis and 25 with Crohn?s disease),  the PM caused SemRep to incor- rectly  returned ?"
+148,PM,parenthesized material,149,These consisted of mapping vowel  sequences to a constant string (the purpose of  this being to look at American vs. British  dialectal differences in gene names);  replacement of hyphens with spaces; removal of  PM; and normalization of  case.
+149,PM,prosody model,150,Punctuation annotation using statisti- cal PMs.
+150,PM,prosody model,151,"Recent PM im- provements include the use of bagging techniques in deci- sion tree training to reduce the variability due to a single tree (Liu et al, 2003)."
+151,PM,prosody model,152,Recent PM im- provements include the use of bagging techniques in deci- sion tree training to reduce the
+152,PM,prosody model,153,Punctua- tion annotation using statistical PMs.
+153,PM,prosody model,154,"Identifying the function words is  important for applications such as information  retrieval, PMing in speech synthesis,  semantic role labeling, and dependency parsing."
+154,PM,prosody model,155,Punctu- ation annotation using statistical PMs.
+155,PM,prosody model,156,The PM is a de- cision tree classifier that generates the posterior probabil- ity of an SU boundary at each interword boundary given the prosodic features.
+156,PM,priority model,157,"To  overcome this problem, we combine BANNER  with two other predictors, a Sematic Model and a  PM."
+157,PM,priority model,158,"Second, these two models learn  name patterns in different ways, i.e., semantic rela- tionships for the Semantic Model and positional  and lexical information for the PM."
+158,PM,priority model,159,"First, the Semantic Model and the  PM do not use previous gold-standard  sets for training."
+159,PM,priority model,160,These phrases are then evaluated using the  PM.
+160,PM,priority model,161,2.4 PM  The Semantic Model detects four different catego- ries for a single word.
+161,PM,priority model,162,"The PM is a statistical language  model for named entity recognition (Tanabe and  Wilbur, 2006)."
+162,PM,priority model,163,"However, the PM  captures gene name patterns by analyzing the order  of words and the character strings making up  words."
+163,SGD,stochastic gradient descent,164,In our experiments we trained DSSMs using  mini-batch SGD.
+164,SGD,stochastic gradient descent,165,"k?3?i?k {f 1 , f 2 , f 3 } Bernoulli-Bernoulli RBM was applied to pre- train DNNs and SGD with cross-entropy criterion to fine-tune DNNs."
+165,SGD,stochastic gradient descent,166,SGD Training for L1-regularized Log-linear Models with Cumulative Penalty.
+166,SGD,stochastic gradient descent,167,GU-MLT-LT:  Sentiment Analysis of Short Messages using Lin- guistic Features and SGD.
+167,SGD,stochastic gradient descent,168,"3 SGD For M3N optimization, Taskar et al (2003) has proposed a reparametrization of the dual variables to take advantage of the network structure of the labeling sequence problem."
+168,SGD,stochastic gradient descent,169,The opti- mum has been found using the online method (SGD).
+169,SGD,stochastic gradient descent,170,"In particular, we developed an efficient parallelized implementation of our SGD algorithm using the message-passing interface (MPI)."
+170,SGD,stochastic gradient descent,171,The SGD is adopted to optimize the parameters.
+171,SGD,stochastic gradient descent,172,Large-scale machine learning with SGD.
+172,SGD,stochastic gradient descent,173,Training is performed with SGD by per- forming a gradient step against the violating tag.
+173,SGD,stochastic gradient descent,174,"2010) and SGD code from deeplearning.net/tutorial (Bengio, 2009)."
+174,SGD,stochastic gradient descent,175,i is updated using SGD.
+175,LC,left context,176,"Parsing goes basically bottom-up with top-down  confirmation, improving the so called LC  technique."
+176,LC,left context,177,LC Transforms and Fi-  nite State Approximations.
+177,LC,left context,178,"One dimension in this space is represented by the parsing algorithm used: For example, within the framework of Generalized LC Pars- ing (Demers, 1977), algorithms can be char- acterized in terms of the point at which a context-free rule is recognized, in relation to the recognition-point of the symbols on its right- hand side."
+178,LC,left context,179,"Rosenkrantz, D. J / P. M. Lewis (1970) l)e-  terministic LC Parser, IEEE Con\[er-  ence Record of the l l th Annual Symposium on  Switching and Automata Theory, 139-152."
+179,LC,left context,180,"IS_A_LEFT_CORNER(  \[Real_LC Cat,Structure\],  \[Real GoalCat,Structurel,   Input Str ing,RestStr ing  /* reflexive closure of the relation ""being a left  corne r"" * /  is_a_leftcorner(   \ [Rea iLe f tCornerCategory ,   Rea lLe f tCornerCategory_St ructure \ ] ,   \[Real GoalCategory,RealGoal_Category_Structure\] ,   String,String )  uni fy(RealLeftCorner_Category,   Real_Goal_Category ) ."
+180,LC,left context,181,"These include well stud- ied grammars such as Hierarchical Phrase Structure Grammars and Combinatory Categorial Grammars, and transforms that rearrange the tree such as the LC Transform used in Roark and Johnson (1999)."
+181,LC,lexical cohesion,182,"c?2007 Association for Computational Linguistics UofL: Word Sense Disambiguation Using LC  Yllias Chali           Department of Computer Science  University of Lethbridge   Lethbridge, Alberta, Canada, T1K 3M4  chali@cs.uleth.ca  Shafiq R. Joty  Department of Computer Science  University of Lethbridge   Lethbridge, Alberta, Canada, T1K 3M4  jotys@cs.uleth.ca      Abstract  One of the main challenges in the applica- tions (i.e.: text summarization, question an- swering,"
+182,LC,lexical cohesion,183,"Morris J. and Hirst G. (1991) ""LC  Computed by Thesaural Relations as an  Indicator of the Structure of Text."""
+183,LC,lexical cohesion,184,LC Com-  puted by Thesaural Relations as an Indicator of the  Structure of Text.
+184,LC,lexical cohesion,185,"G. 1991, LC  Computed by Thesaural Relations as an Indica- tor of the Structure of Text .Computational Lin- guistics, 17(1):21-48."
+185,LC,lexical cohesion,186,Complexity .983* 1.404*  LC -.266* -.440*  Interactive/Conv.
+186,LC,lexical cohesion,187,c?2013 Association for Computational Linguistics Bilingual LC Trigger Model for Document-Level Machine Translation Guosheng Ben?
+187,LC,less computerized,188,To  relate the language resources among the LC languages has brought us to the following  open questions:    1.
+188,LC,less computerized,189,"t for encodings, as many of these LC languages do not have one stan- dard encoding that is used by all."
+189,LC,less computerized,190,The problem is magnified when we need to deal with the LC lan- guages.
+190,LC,less computerized,191,"In this paper, we will present a method of providing language and encod- ing support for LC languages."
+191,LC,less computerized,192,The major concern in the  LC languages is how to leverage the technology for those languages which will result in  scaling up the number of online language populations.
+192,LC,less computerized,193,"A related problem is that of support for encodings, as many of these LC languages do not have one stan- dard encoding that is used by all."
+193,LC,less computerized,194,"We then describe an ed- itor called Sanchay Editor, which uses this method and also has many other facilities useful for those using LC lan- guages for simple text editing or for Nat- ural Language Processing purposes, espe- cially for annotation."
+194,LC,lexical cohesion,195,r between words works as an indi-  cator of the LC.
+195,LC,lexical cohesion,196,"This is because c(X) is based only on the  LC of the words in X.  6 Discussion  The structure of Paradigme represents the knowl-  edge system of English, and an activated state pro-  duced on it represents word meaning."
+196,LC,lexical cohesion,197,"The similarity rep-  resents the strength of LC or  semantic relation, and also provides valu-  able information about similarity and co-  herence of texts."
+197,LC,lexical cohesion,198,"Recogniz-  ing the structure of text is an essential task in text  understanding.\[Grosz andSidner, 1986\]  One of the valuable indicators of the structure of  text is LC.\[Halliday nd Hasan, 1976\]  Lexical cohesion is the relationship between words,  classified as follows:  1."
+198,LC,lexical cohesion,199,We consider LC as semantic similarity  between words.
+199,LC,lexical cohesion,200,"2009 ACL and AFNLP A Cohesion Graph Based Approach for Unsupervised Recognition of Literal and Non-literal Use of Multiword Expressions Linlin Li and Caroline Sporleder Saarland University Postfach 15 11 50 66041 Saarbr?ucken Germany {linlin,csporled}@coli.uni-saarland.de Abstract We present a graph-based model for rep- resenting the LC of a dis- course."
+200,LC,low constant,201,"Since r tends to be quite small and can be bounded by a LC, this already gives polynomial time complexity."
+201,LC,low constant,202,"Since that the size of the right-hand-side and the number of outgoing d-edges per node are practically bounded by LCs, applying k rules on a tree T yields a linear increase in the size of the forest."
+202,LC,low constant,203,We  use hash tables to alLC time access to the  language model data.
+203,LC,low constant,204,"Furthermore, they are very different 1Logarithmic values are used in the actual implementation which are floored to a LC in case of zero ?"
+204,LC,left context,205,LC Focus Right Context Combined Class - - - - - a a n b i d ?
+205,LC,left context,206,Context Accuracy (%) LC Only 91.31 Right Context Only 88.26 Both Contexts 92.54 Table 3: The effect of using both left and right context.
+206,LC,left context,207,"	   shi ,1Lo  zhang  ma  ying  jiu  biao  shi ,2Lo ,1Co ,2Co ,3Co ,1Ro ,2Ro 	  	  LC Right Context Candidate to be parsed), it will be rejected immediately."
+207,LC,left context,208,LC (-lc): nodes in this partition  do not cover any phrase word and they are  all in the left of the left phrase.
+208,LC,left context,209,"Description Feature Trigram + Context x1x2x3x4x5 Trigram x2x3x4 LC x1x2 Right Context x4x5 Center Word x3 Trigram - Center Word x2x4 Left Word + Right Context x2x4x5 Right Word + LC x1x2x3 Type of Trigram: number, punctuation, alphabetic letter and other t(x2)t(x3)t(x4) Table 2: Features employed to measure the sim- ilarity between two vertices, in a given tex- t ?"
+209,MAP,mean average precision,210,"|  201/206 Pre-processing Configurations & MeasuresSpearman?s Rank Correlation 00,1 0,20,3 0,40,5 0,6 N, V, A Nouns Keywords EBEB+SYNEB+HypoLINESA-WordESA-Text 17.08.08 |  Computer Science Department | Ubiquitous Knowledge Processing Lab  |  202/206 ESA-Text tf.idf with Different Lexical-Semantic Resources Nouns,Verbs,Adjectives Nouns Keywords0 0.050.1 0.150.2 0.250.3 0.350.4 0.450.5 0.550.6 0.65 MAP WikipediaGermaNet HyperGermaNet RadialWiktionary 17.08.08 |  Computer Science Department | Ubiquitous Knowledge Processing Lab  |  203/206 ?"
+210,MAP,mean average precision,211,Collection PL2 TFIDF FV LSI CLEF?03 35.7 16.4 23.7 9.2 TREC-1&2 22.6 12.4 10.8 6.5 ROBUST 24.8 12.6 10.5 4.5 Table 4: MAP(%) for the PL2 and TFIDF model on the three IR Collections compared to Fisher Vector and LSI These results are not surprising as it has been shown experimentally in many studies that latent- based approaches such as LSI are generally out- performed by state-of-the-art IR models in Ad- Hoc tasks.
+211,MAP,mean average precision,212,The NIST-B2 system with a higher WER (46.6%) has an improvement in MAP of 6.5%.
+212,MAP,mean average precision,213,"Below, we summarize the three measures we used: MAP, TOP1, and Aver- age Rank of Last Synonym."
+213,MAP,mean average precision,214,MAP (APR) Perf implements a definition of average preci- sion sometimes called ?
+214,MAP,mean average precision,215,"5.1 Data The data set we use is from the TAC-KBP2013 Slot Filling Validation (SFV) task, which consists of the merged responses returned by 52 runs (regarded as systems in MTM) from 18 teams submitted to the Slot 1573 Methods Precision Recall F-measure Accuracy MAP 1.Random 28.64% 50.48% 36.54% 50.54% 34% 2.Voting 42.16% 70.18% 52.68% 62.54% 62% 3.Linguistic Indicators 50.24% 70.69% 58.73% 72.29% 60% 4.SVM (3 + System + Source) 56.59% 48.72% 52.36% 75.86% 56% 5.MTM (3 + System + Source) 53.94% 72.11% 61.72% 81.57% 70% Table 2: Overall Performance Comparison."
+215,MAP,maximum a posteriori,216,"7.2 Comparison to Dirichlet MAP Solutions The transformation T(?,?)"
+216,MAP,maximum a posteriori,217,"Specifically, we will interpolate the translation models as in Foster and Kuhn (2007), including a MAP combination (Bacchiani et al 2006)."
+217,MAP,maximum a posteriori,218,"Future work might explore sensitivity to these choices, or empirical Bayesian or MAP inference for their values (Johnson and Goldwater, 2009)."
+218,MAP,maximum a posteriori,219,"In this study, we use the MAP es- timation with Gaussian priors for parameter estima- tion."
+219,MAP,maximum a posteriori,220,2.2.3 Regularization Schemes One can convert a maximum likelihood problem into MAP using Bayes?
+220,MAP,maximum a posteriori,221,"4 Evaluation We compared the Gibbs sampling compressor (GS) against a version of MAP EM (with Dirichlet parameter greater than 1) and a discriminative STSG based on SVM training (Cohn and Lapata, 2008) (SVM)."
+221,MAP,maximum a posteriori,222,"While they train the parameters using a MAP estima- tor, we extend the MERT algorithm (Och, 2003) to take the evaluation metric into account."
+222,MAP,maximum a posteriori,223,"4 Bayesian Learning for word-dependent  transition models   4.1 MAP training   Using ML training, we can obtain the estimation  formula for word dependent transition probabilities  { }( | , , )p i i e I?"
+223,MAP,mean average precision,224,The MAP for a run consisting of  multiple topics is the mean of the average precision  scores of each of the individual topics in the run.
+224,MAP,mean average precision,225,Each line in the graph con-  nects the MAP scores produced by  each version of the system for a single test.
+225,MAP,mean average precision,226,The last  row shows the MAPs from a 10-fold  cross validation to learn how to distinguish each class  from the union of the other three.
+226,MAP,mean average precision,227,"For instance, the weighted MAP of the previous best ap- proach in (Riedel et al.,"
+227,MAP,mean average precision,228,"For instance, this strategy im- proves the weighted MAP of the best approach in (Riedel et al.,"
+228,MAP,mean average precision,229,"In addition, when ap- plied to a relation extraction task, our ap- proach alone is comparable to several ex- isting systems, and improves the weighted MAP of a state-of-the- art method by 10 points when used as a subcomponent."
+229,HD,head,230,"We incorpo-  rate multiple anaphora resolution factors into  a statistical framework - -  specifically the dis-  tance between the pronoun and the proposed  antecedent, gender/number/animaticity of the  proposed antecedent, governing HD informa-  tion and noun phrase repetition."
+230,HD,head,231,"In the conditioning events, h is the  HD constituent above p, l~ r is the list of candi-  date antecedents o be considered, t is the type  of phrase of the proposed antecedent (always  a noun-phrase in this study), I is the type of  the HD constituent, sp describes the syntactic  structure in which p appears, dspecifies the dis-  tance of each antecedent from p and M"" is the  number of times the referent is mentioned."
+231,HD,head,232,It is also useful to note the interaction be-  tween the HD constituent of the pronoun p  and the antecedent.
+232,HD,head,233,"Also, some HD  verbs are too general to restrict he selection of  any NP."
+233,HD,head,234,"To avoid the sparse-data prob-  lem, the HDs h are clustered according to how  they behave in P(w~lh, t, l)."
+234,HD,hierarchical discriminative,235,We introduce a HD clas- sification method for text-based geotagging.
+235,HD,hierarchical discriminative,236,"For each test segment, the judges were presented with its text, and 3 alternative titles consisting of the reference and the titles produced by the HD model, and the best performing baseline."
+236,HD,hierarchical discriminative,237,"2.2 Factor Graph Model To construct the entity factoid hierarchy, we make use of a HD factor graph model."
+237,HD,hierarchical discriminative,238,This paper presents a HD approach for table-of-contents generation.
+238,HD,hierarchical discriminative,239,The HD method consis- tently outperforms the four baselines according to all ROUGE metrics.
+239,HD,headdriven,240,HD Phrase  Structure Grammar.
+240,HD,headdriven,241,In Ger-  man in HD Phrase Structure Grammar.
+241,HD,headdriven,242,"2 Background 2.1 The LinGO Grammar Matrix The LinGO Grammar Matrix is situated theoreti- cally within HD Phrase Structure Gram- mar (HPSG; Pollard and Sag, 1994), a lexicalist, constraint-based framework."
+242,HD,headdriven,243,HD Statistical Models for Natural Language Parsing.
+243,HD,headdriven,244,HD Phrase Structure Grammar.
+244,HD,head,245,ency annotations we can also determine how many instances need addi- 175 Location Main Fact Subfact Synonym Extra Title 3.3 ( 0.2) 1.9 ( 0.7) 0.0 ( 0.0) 0.8 ( 0.8) Abstract 19.1 (10.1) 9.3 ( 5.1) 36.2 (21.7) 25.8 (14.8) Introduction 11.3 ( 5.2) 8.3 ( 3.4) 30.4 (17.4) 17.2 ( 7.8) Results 31.0 (13.8) 37.6 (16.1) 20.3 (15.9) 32.0 (12.5) Discussion 21.8 ( 7.3) 19.5 ( 6.6) 2.9 ( 1.4) 9.4 ( 3.1) Figure HDing 5.0 ( 0.6) 10.7 ( 3.8) 1.4 ( 1.4) 2.3 ( 0.0) Figure Legend 3.1 ( 1.3) 4.8 ( 2.0) 0.0 ( 0.0) 7.0 ( 4.7) Table Data 0.0 ( 0.0) 0.2 ( 0.0) 0.0 ( 0.0) 0.0 ( 0.0) Methods 0.2 ( 0.0) 0.1 ( 0.1) 0.0 ( 0.0) 4.7 ( 0.8) Conclusion 0.6 ( 0.4) 0.1 ( 0.0) 0.0 ( 0.0) 0.0 ( 0.0) Footnotes 0.0 ( 0.0) 0.0 ( 0.0) 5.8 ( 2.9) 0.0 ( 0.0) HDings 4.8 ( 0.6) 7.5 ( 2.7) 2.9 ( 1.4) 0.8 ( 0.8) Full-text 100.0 (39.
+245,HD,head,246,0 (12.5) Discussion 21.8 ( 7.3) 19.5 ( 6.6) 2.9 ( 1.4) 9.4 ( 3.1) Figure HDing 5.0 ( 0.6) 10.7 ( 3.8) 1.4 ( 1.4) 2.3 ( 0.0) Figure Legend 3.1 ( 1.3) 4.8 ( 2.0) 0.0 ( 0.0) 7.0 ( 4.7) Table Data 0.0 ( 0.0) 0.2 ( 0.0) 0.0 ( 0.0) 0.0 ( 0.0) Methods 0.2 ( 0.0) 0.1 ( 0.1) 0.0 ( 0.0) 4.7 ( 0.8) Conclusion 0.6 ( 0.4) 0.1 ( 0.0) 0.0 ( 0.0) 0.0 ( 0.0) Footnotes 0.0 ( 0.0) 0.0 ( 0.0) 5.8 ( 2.9) 0.0 ( 0.0) HDings 4.8 ( 0.6) 7.5 ( 2.7) 2.9 ( 1.4) 0.8 ( 0.8) Full-text 100.0 (39.4) 100.0 (40.6) 100.0 (62.3) 100.0 (45.3) Table 6: Instances found excluding (including) all dependencies Fact Type # Created # Found # Instances Main Fact 170 156 523 Subfact 251 251 1196 Synonym 155 62 69 Extra 152 87 128 Total 728 556 1916 Table 7: Distribution of fact types in corpus tional knowledge outside of the curren
+246,HD,head,247,"But the model has also been applied to several other grammatical frameworks, e.g. Tree-Insertion Grammar (Hoogweg 2000), Tree-Adjoining Grammar (Neumann 1998), Lexical-Functional Grammar (Bod & Kaplan 1998; Cormons 1999), HD-driven Phrase Structure Grammar (Neumann & Flickinger 1999), and Montague Grammar (Bonnema et al 1997; Bod 1999)."
+247,HD,head,248,"2 Background 2.1 The LinGO Grammar Matrix The LinGO Grammar Matrix is situated theoreti- cally within HD-Driven Phrase Structure Gram- mar (HPSG; Pollard and Sag, 1994), a lexicalist, constraint-based framework."
+248,HD,head,249,HD-Driven Statistical Models for Natural Language Parsing.
+249,HD,head,250,HD-Driven Phrase Structure Grammar.
+250,CG,crowd grades,251,1089 predicting grades as compared to a pure ML approach and to using CG only?
+251,CG,crowd grades,252,"0 Table 1: Regression Results Technique Model Code Feature Type Train r Validation r RR-1 RS/LR 0.51 0.47 Ridge Regression RR-2 Pure ML 0.54 0.47 RR-3 CG 0.63 0.57 RR-4 ML-CS 0.55 0.60 RR-5 All 0.76 0.76 SVM-1 RS/LR 0.50 0.46 SVM SVM-2 Pure ML 0.53 0.46 SVM-3 CG 0.62 0.57 SVM-4 ML-CS 0.60 0.61 SVM-5 All 0.75 0.74 NN-1 RS/LR 0.56 0.51 Neural Networks NN-2 Pure ML 0.60 0.44 NN-3 CG 0.63 0.57 NN-4 ML-CS 0.66 0.57 NN-5 All 0.80 0.76 between 1 and 1000, was selected based on the the least RMS error in cross-validation."
+252,CG,crowd grades,253,Do CG add additional value in predicting grades over and above the features derived from the crowdsourced transcription?
+253,CG,crowd grades,254,CG: The crowd transcribes the speech in addition to providing scores on each of the following?
+254,CG,crowd grades,255,"1090 Table 1: Regression Results Technique Model Code Feature Type Train r Validation r RR-1 RS/LR 0.51 0.47 Ridge Regression RR-2 Pure ML 0.54 0.47 RR-3 CG 0.63 0.57 RR-4 ML-CS 0.55 0.60 RR-5 All 0.76 0.76 SVM-1 RS/LR 0.50 0.46 SVM SVM-2 Pure ML 0.53 0.46 SVM-3 CG 0.62 0.57 SVM-4 ML-CS 0.60 0.61 SVM-5 All 0.75 0.74 NN-1 RS/LR 0.56 0.51 Neural Networks NN-2 Pure ML 0.60 0.44 NN-3 CG 0.63 0.57 NN-4 ML-CS 0.66 0.57 NN-5 All 0.80 0.76 between 1 and 1000, was selected based on the the least RMS error in cross-validation."
+255,CG,cancer genetics,256,"1University of Engineering and Technology, VNU, Hanoi, Vietnam  2National Institute of Informatics, Tokyo, Japan  3European Bioinformatics Institute, Cambridge, UK  {vutm,lhquynh,thuypv,binhpt}@vnu.edu.vn, collier@ebi.ac.uk     Abstract  We describe a high precision system for ex- tracting events of biomedical significance that  was developed during the BioNLP shared task  2013 and tested on the CG data  set."
+256,CG,cancer genetics,257,"S. V. Ramanan RelAgent Private Ltd. 56, Venkatratnam Nagar Adyar, Chennai 600020 ramanan@npjoint.com P. Senthil Nathan RelAgent Private Ltd. 56, Venkatratnam Nagar Adyar, Chennai 600020 senthil@npjoint.com Abstract We tested a linguistically motivated rule- based system in the CG task  of the BioNLP13 shared task challenge."
+257,CG,cancer genetics,258,"I pre- pared a total of 17 such lexicons, which include 7 that were entered by hand (Greek letters, amino acids, chemical elements, known viruses, plus abbreviations of all these), and 4 corre- sponding to genes, chromosome locations, pro- teins, and cell lines, drawn from online public databases (CGWeb,2 BBID,3 Swis- sProt,4 and the Cell Line Database5)."
+258,CG,cancer genetics,259,"c?2013 Association for Computational Linguistics Generalizing an Approximate Subgraph Matching-based System to Extract Events in Molecular Biology and CG Haibin Liu haibin.liu@nih.gov NCBI, Bethesda, MD, USA Karin Verspoor karin.verspoor@nicta.com.au NICTA, Melbourne, VIC, Australia Donald C. Comeau comeau@ncbi.nlm.nih.gov NCBI, Bethesda, MD, USA Andrew MacKinlay andrew.mackinlay@nicta.com.au NICTA, Melbourne, VIC, Australia W. John Wilbur wilbur@ncbi.nlm.nih.gov NCBI, Bethesda, MD, USA Abstract We participated in the BioNLP 2013 sh"
+259,CG,categorial grammar,260,"1987  CG, Unification Grammar and Parsing."
+260,CG,categorial grammar,261,The framework is based on  Combinatory CGs and it  uses the morpheme as the basic building  block of the categorial lexicon.
+261,CG,categorial grammar,262,CG.
+262,CG,categorial grammar,263,"1987 CGs and Natural Language Structures, D.  Reidel, Dordrecht, Holland."
+263,CG,categorial grammar,264,"In order to perform morphological nd syntactic  compositions in a unified framework, the slash oper-  ators of CG must be enriched with  the knowledge about the type of process and the  type of morpheme."
+264,CG,categorial grammar,265,"\[Calder, 89\] J. Calder, M. Reape, and H. Zeevat,  ""An Algorithm for Generation i  Unification  CG"", Proceedings of the 4th  Conference of the European Chapter of the  ACL, pp."
+265,LN,lin,266,"Proceedings of the 3rd Workshop on Computational LNguistics for Literature (CLfL) @ EACL 2014, pages 40?49, Gothenburg, Sweden, April 27, 2014."
+266,LN,lin,267,Associa-  tion of Computational LNguistics.
+267,LN,lin,268,c?2014 Association for Computational LNguistics From Speaker Identification to Affective Analysis: A Multi-Step System for Analyzing Children?s Stories Elias Iosif?
+268,LN,lin,269,"Com-  putational LNguistics, 19(1), March."
+269,LN,lin,270,"Computational LNguistics,  19:313-330."
+270,LN,lin,271,"Computational LNguistics, pages 535-  ""561."
+271,LN,location name,272,We filter most such cases by allowing only capital- ized LNs.
+272,LN,location name,273,which allows LNs and connections to be captured starting from the given seed location set.
+273,LN,location name,274,We acquire search engine snip- pets and extract contexts where LNs co- appear.
+274,LN,location name,275,refers to at least 5 LNs including farms in Africa and Australia and a locality in Ireland.
+275,LN,location name,276,"In this paper we present a framework that given a few seed locations as a specification of a region, discovers additional locations (including alternate LNs) and map-like travel paths through this region labeled by transport type labels."
+276,LN,location name,277,Given a LN L we start the search with patterns ?
+277,LN,location name,278,3 The Algorithm As input to our algorithm we are given a seed of a few LNs specifiying some geograph- ical region.
+278,LN,logical necessity,279,LN.
+279,LN,location name,280,= 2.3 Recognition of Chinese LNs  Based on SVM  The identification process of location names is  the same as that of person names except for the  features extraction.
+280,LN,location name,281,LC: uni-gram characters in LN or Geopo- litical entity.
+281,LN,location name,282,"= n i if if f FP FP FP                                  (12)  where ,  is the  number of F )2)((log)( 2 += iif FCFP )( iFC i as the i-th middle character of loca- tion names in the Chinese LNs Re- cord."
+282,LN,location name,283,i in the Chinese LNs  Record.
+283,LN,location name,284,"=                                          (13)  where ,  is the  number of  S as the last character of location  names in the Chinese LNs Record."
+284,LN,location name,285,"=                                          (13)  where ,  is the  number of  S as the last character of location  names in the Chinese LNs"
+285,LN,location name,286,0 in the Chinese LNs  Record.
+286,LN,location name,287,"=                                      (11)  where ,  is the  number of F )2)((log)( 0200 += FCFPh )( 0FC 0 as the first character of location  names in the Chinese LNs Record."
+287,LN,location name,288,5.2 Extracting Chinese LNs  We use 1.5M characters corpus of year 1998  from the People?s Daily as the training corpus  and extract sentences of year 2000 from the Peo- ple?s Daily (containing 2919 Chinese location  names) as testing corpus to conduct an open test  experiment.
+288,GE,global entropy,289,Then the GE score is  computed as:    ????
+289,GE,global entropy,290,The GE combines the local entropies for all antecedent candidates of a given anaphor.
+290,GE,global entropy,291,GE?
+291,GE,global entropy,292,"The higher the GE, the higher the uncertainty of the model about the antecedent for an anaphor."
+292,GE,global entropy,293,The GE aims to combine the uncertainty information from all antecedent candi- dates for a given anaphor (instead of considering only a single candidate-anaphor pair as for LE).
+293,GE,global entropy,294,The GE c
+294,GE,global entropy,295,We scaled the rows of the matrix using GE weights and used L = 0.9A and U = 1.1A. 4.4 Term Weighting and Dimension Choice for Multi-Document Summarization A natural term weighting can be obtained by com- puting the row sums of the dimension-reduced approximation to the term-sentence matrix.
+295,GE,generalized expectation,296,"c?2008 Association for Computational Linguistics GE Criteria for Semi-Supervised Learning of Conditional Random Fields Gideon S. Mann Google Inc. 76 Ninth Avenue New York, NY 10011 Andrew McCallum Department of Computer Science University of Massachusetts 140 Governors Drive Amherst, MA 01003 Abstract This paper presents a semi-supervised train- ing method for linear-chain conditional ran- dom fields that makes use of labele"
+296,GE,generalized expectation,297,GE Criteria for Semi-Supervised Learning of Conditional Random Fields.
+297,GE,generalized expectation,298,"Additionally, the alternat- ing projection method is computationally more effi- cient than GE (Mann and Mc- Callum, 2008) and can be applied in an online fash- ion using stochastic gradient."
+298,GE,generalized expectation,299,"Druck et al, 2008) constrain the predictions of a multinomial logistic regression model on unla- beled instances in a GE for- mulation for learning from labeled features."
+299,GE,generalized expectation,300,ME with GE The objec- tive function and the constraints on expectations in (1) can be generalized to: max ?
+300,GE,generalized expectation,301,2009 ACL and AFNLP GE Criteria for Bootstrapping Extractors using Record-Text Alignment Kedar Bellare Dept.
+301,GE,genia,302,The GE Event and Protein Coreference tasks of the BioNLP Shared Task 2011.
+302,GE,genia,303,"We further used some simple fea- tures from syntactic phrases (OpenNLP4 parser) and dependency parse trees (McDonald et al, 2005), ex- tracted using parsers trained on GE corpora."
+303,GE,genia,304,"n from the GE event cor- pus (Kim et al, 2008), a small handpicked set of event triggers and a list of English stop words."
+304,GE,genia,305,3 Trigger Word Tagging The training and the development abstracts were first tokenized and split into sentences using maxi- mum entropy models trained on the GE3 corpora.
+305,GE,genia,306,"dict(i,d) i appears in dictionary d. genia(i,p) i is event clue in the GE corpus with precision p. dep(i,j,d,parser) i is head of token j with dependency d according to parser parser."
+306,GE,genia,307,"dict(i,d) i appears in dictionary d. genia(i,p) i is event clue in the GE corpu"
+307,GE,genia,308,"As dictionaries we use a collection of cellular lo- cation terms taken from the GE event cor- pus (Kim et al, 2008), a small handpicked set of event triggers and a list of English stop words."
+308,GE,genia,309,Overview of the GE Event task in BioNLP Shared Task 2011.
+309,GE,genia event,310,Overview of the GE task in BioNLP Shared Task 2011.
+310,GE,genia event,311,"The GE corpus (Kim, Ohta, and Tsujii 2008) contains 9,372 sentences where biological events are annotated with negation and uncertainty."
+311,GE,genia event,312,"Because the GE and BioScope corpus share 958 abstracts, it is possible to compare their annotations, as it is done by Vincze et al (2010)."
+312,GE,genia event,313,The GE and Protein Coreference tasks of the BioNLP Shared Task 2011.
+313,GE,generalized expectation,314,Lever- aging existing resources using GE criteria.
+314,GE,generalized expectation,315,"Equation (5) is an instance of GE criteria (Mann and Mc- Callum, 2008) that penalizes the divergence of a specific model expectation from a given target value."
+315,GE,generalized expectation,316,"The use of GE criteria allows for a dramatic reduction in annotation time by shifting from traditional instance-labeling to feature-labeling, and the methods presented outperform traditional CRF training and other semi-supervised methods when limited human effort is available."
+316,GE,generalized expectation,317,The use of GE criteria allow
+317,GE,generalized expectation,318,This is accom- plished by using GE cri- teria to express a preference for parameter set- tings in which the model?s distribution on un- labeled data matches a target distribution.
+318,GE,generalized expectation,319,"6 Conclusion We have presented GE criteria for linear-chain conditional random fields, a new semi-supervised training method that makes use of labeled features rather than labeled instances."
+319,GE,generalized expectation,320,Semi-supervised learning of dependency parsers using GE criteria.
+320,MOD,modifier,321,is a MOD of ngabulu milk.
+321,MOD,modifier,322,"It has a rich system of case marking, and ad- nominal MODs agree with the heads they modify in case, number, and four genders."
+322,MOD,modifier,323,"Furthermore, head nouns are gener- ally not required: argument positions can be instan- tiated by MODs only, or, if the referent is clear from the context, by no nominal constituent of any kind."
+323,MOD,modifier,324,"marking, and ad- nominal MODs agree with the heads they modify in case, number, and four genders."
+324,MOD,modifier,325,"That is, aside from the constraint that verbal clauses require a clitic cluster (marking subject and object agreement and tense, aspect and mood) in second position, the word order is otherwise free, to the point that noun phrases can be non-contiguous, with head nouns and their MODs separated by un- related words."
+325,MOD,modifier,326,"rder is otherwise free, to the point that noun phrases can be non-contiguous, with head nouns and their MODs separated by un- related words."
+326,MOD,modifier,327,"the constraint that verbal clauses require a clitic cluster (marking subject and object agreement and tense, aspect and mood) in second position, the word order is otherwise free, to the point that noun phrases can be non-contiguous, with head nouns and their MODs separated by un- related words."
+327,MOD,modifier,328,"are predicated of the same entity re- quires a departure from the ordinary way that heads are combined with arguments and MODs com- bined with heads in HPSG in general and in the Matrix in particular.3 In the Grammar Matrix, as in most work in HPSG, lexical heads record the de- pendents they require in valence lists (SUBJ, COMPS, SPR)."
+328,MOD,modifier,329,"For the same reason, they will appear in postnominal posi- tion when acting as MODs."
+329,MOD,modals,330,"However~ it has been argued convincingly by  Ross  (1967a) and others that MOD  should be analyzed as main  ver""bs  o?"
+330,MOD,modals,331,"Verb moods are composed with the aid of MOD, while tenses and expressions are built with the aid of auxiliary verbs."
+331,MOD,modals,332,"We also assign the main clause to past, present, or future tense by using the fine-grained POS tag and a set of heuristics (for example, to check for MOD).4 We assign a tense agreement score to each verb v as follows."
+332,MOD,modals,333,"Many lexical and grammatical devices aid hedging (expressions such as epistemics verbs, MOD, adjectives, etc."
+333,MOD,modals,334,"The present pr`oblem~ is  in  fact~ another  point in favor` of  the v iew that  MOD  o r ig inate  in a  higher"" sentence~ because i t  enables us to acknowledge the s imi la r i ty   of  the anomaly  in (10) and ( \ ]1 ) ."
+334,MOD,modals,335,"Secondly, since many stop words (e.g. determiners, MOD) typi- cally demonstrate little variation in the dependencies they engage in, we ignore type equivalences for stop words and implement only exact matching of depen- dencies. ("
+335,CP,complex predicate,336,CPs in Urdu.
+336,CP,complex predicate,337,CPs.
+337,CP,complex predicate,338,CPs:Structure and  Theory.
+338,CP,complex predicate,339,Words by Default:  Inheritance and the Persian CP  Construction.?
+339,CP,complex predicate,340,"CPs in In- dian Language Wordnets, Lexical Resources and  Evaluation Journal, 40 (3-4)."
+340,CP,complex predicate,341,"Detecting CPs in Hindi using  POS Projection across Parallel Corpora, Proceed- ings of the Workshop on Multiword Expressions:  Identifying and Exploiting Underlying Properties,  Sydney, 11?18,  Alex Alsina."
+341,CP,complex predicate,342,Multidimensionality of  Representation: NV CPs in Hindi.
+342,CP,cluster purity,343,"On the task of identifying cognates from over 21,000 words in 218 different lan- guages from the Oceanic language family, our model achieves a CP score over 91%, while maintaining pairwise recall over 62%."
+343,CP,cluster purity,344,"On the larger Oceanic data, our model can achieve CP scores of 91.8%, while maintaining pairwise recall of 62.1%."
+344,CP,cluster purity,345,"The weighted average of  CP (i.e. the number of predominant tags  divided by cluster size) was measured at 88.8%,  which exceeds significantly the precision of 53%  on word type as reported by Sch?tze (1995) on a  related task."
+345,CP,cluster purity,346,"We report CP, accuracy, precision, recall, and F1 for our latent variable logistic classifier (LogLV) and a baseline that assigns arguments to clusters accord- ing to their syntactic function (SyntFunc)."
+346,CP,cluster purity,347,Our model achieves a CP score of 90.3% on this dataset com- pared to 89.7% reported in Grenager and Manning.
+347,CP,cluster purity,348,"First, we report CP, which is a kind of pre- cision measure for clusterings."
+348,CP,constraint programming,349,215  Chart Parsing and CP  Frank Morawietz  Seminar flit Sprachwissenschaft  Universifiit Tfibingen  Wilhehnstr.
+349,CP,constraint programming,350,"This solver has been developed in the CP paradigm using the constraint satisfaction approach of (Duchier and Niehren, 2000)."
+350,CP,constraint programming,351,Concurrent  CP Languages.
+351,CP,constraint programming,352,"Po-  sition paper for the First Workshop on Princi-  ples and Practice of CP  (Rhode Island, April 1993)."
+352,CP,constraint programming,353,Principles of CP.
+353,CP,constraint programming,354,"In P. van Hentenryck and  V. Saraswat, editors, Principles and Practice of  CP, chapter 2, pages 27-  48."
+354,RF,random forest,355,Figure 2 shows the convergence plot of the composite pairwise coreference function based on RF8.
+355,RF,random forest,356,"In a 10-fold cross-validation experiment, we tested a RF classifier (Breiman, 2001) and an SVM (Platt, 1998) with polynomial ker- nel."
+356,RF,random forest,357,"190 To understand the mistakes of the classifier, we manually assessed error patterns within the model of the RF classifier."
+357,RF,random forest,358,"With an overall macro-averaged F1 of .79, RF yielded the best results, both with respect to precision as well as recall."
+358,RF,random forest,359,RFs.
+359,RF,random forest,360,"2 ranker improved the results for both RF as well as the SVM, so we limited our feature set to the 100 best features."
+360,RF,request for feedback,361,"The results suggest that knowledge of the student?s confusion-related facial expressions can signifi-cantly enhance dialogue act classification for two types of dialogue acts, GROUNDING and RF."
+361,RF,request for feedback,362,"This paper has reported on a first step toward using knowledge of user facial expres-sions to improve a dialogue act classification mod-el for tutorial dialogue, and the results demonstrate that facial expressions hold great promise for dis-tinguishing the pedagogically relevant dialogue act RF, and the conversational moves of GROUNDING."
+362,RF,request for feedback,363,"For example, a student?s RF requires the tutor to assess the condition of the task, rather than to query the in-domain factual knowledge base."
+363,RF,request for feedback,364,"For RF, the predictive features were presence or absence of AU4 within ten seconds of the longest available history (three turns in the past), as well as the presence of AU4 within five seconds of the current utterance (the utterance whose dialogue act is being classified)."
+364,LI,language identification,365,"NICTA Victoria mhlui@unimelb.edu.au, ned@nedletcher.net, oadams@student.unimelb.edu.au, lduong@student.unimelb.edu.au, paulcook@unimelb.edu.au, tb@ldwin.net Abstract The Discriminating between Similar Languages (DSL) shared task at VarDial challenged partici- pants to build an automatic LI system to discriminate between 13 languages in 6 groups of highly-similar languages (or national varieties of the same language)."
+365,LI,language identification,366,Cross-domain feature selection for LI.
+366,LI,language identification,367,"We examined a number of text representations for the per-group language identifiers, including a standard representation for LI based on language-indicative byte sequences, as well as with de-lexicalized text representations."
+367,LI,language identification,368,"4 Conclusion Discriminating between similar languages is an interesting sub-problem in LI, and the DSL shared task at VarDial has given us an opportunity to examine possible solutions in greater detail."
+368,LI,language identification,369,langid.py: An off-the-shelf LI tool.
+369,LI,language identification,370,Linguini: LI for multilingual documents.
+370,LI,linear interpolation,371, a bucketed LI smoothing for both models.
+371,LI,linear interpolation,372,Compensation vectors for new envi-  ronments are obtained by LI of several of the  MFCDCN compensation vectors:  ?
+372,LI,linear interpolation,373,"We tested the LI of the in- and general-domain translation models as follows: Given one model which assigns the probability P1(t|s) to the trans- lation of source string s into target string t, and a second model which assigns the probability P2(t|s) to the same event, then the interpolated translation probability is: P (t|s) = ?"
+373,LI,linear interpolation,374,Table 2 shows the resulting interpolation coefficients for the tag language model using the usual LI smoothing formula ZL}-~IPA?x?)[ffi] ^_ ]A^fi`  1 ]A^ffi`bac ??
+374,LI,linear interpolation,375,"Relative frequency can be used directly for es-  timating the word probabilities, and trigram  backoff and LI can be used for  estimating the POS probabilities."
+375,LI,linear interpolation,376,"Given a derivation d, most existing phrase- based models approximate the derivation probabil- ity through a LI of a finite set of feature functions (?("
+376,LI,linguist,377,"Proceedings of the 3rd Workshop on Computational LIics for Literature (CLfL) @ EACL 2014, pages 40?49, Gothenburg, Sweden, April 27, 2014."
+377,LI,linguist,378,Associa-  tion of Computational LIics.
+378,LI,linguist,379,c?2014 Association for Computational LIics From Speaker Identification to Affective Analysis: A Multi-Step System for Analyzing Children?s Stories Elias Iosif?
+379,LI,linguist,380,"Com-  putational LIics, 19(1), March."
+380,LI,linguist,381,"Computational LIics,  19:313-330."
+381,LI,linguist,382,"Computational LIics, pages 535-  ""561."
+382,LNRE,large number of rare events,383,Statistical analysis of  LNRE and related  problems.
+383,LNRE,large number of rare events,384,"The statistical analysis of LNRE?,"
+384,LNRE,large number of rare events,385,"2 Statistical considerations  2.1 Highly skewed distributions  As first observed e.g. by Zipf (1935, 1949) the  frequency of words and other linguistic units tend  to follow highly skewed distributions in which  there are a LNRE."
+385,LNRE,large number of rare events,386,Sta-  tistical Analysis of LNRE  and Related Problems.
+386,PT,probability threshold,387,"x)] Since Alchemy outputs a probability of entailment and not a binary judgment, it is necessary to specify a PT indicating entailment."
+387,PT,probability threshold,388,"A more  sophisticated one is the PT strategy,  in which all the categories above a user-defined thresh-  old are assigned to a document."
+388,PT,probability threshold,389,log-PT - -  the difference between  the log-probability score of the top-most hypothesis  and the bottom-most hypothesis at any given state  of the stack cannot be larger than a given threshold.
+389,PT,probability threshold,390,"A lower PT of 0.01 was set, so that hun- dreds of tags of equal likelihood were not produced in the case where the tagger was unable to make an informed prediction."
+390,PT,probability threshold,391,"Ju- rafsky (1996) assumes that processing difficulty is triggered if the correct analysis falls below a certain PT (i.e., is pruned by the parser)."
+391,PT,probability threshold,392,"Given a PT  (0 <  < 1) and a span threshold s, the document is said to support the hypothesis ??"
+392,PT,parse tree,393,"This algorithm searches the PT in a left-  to-right, breadth-first fashion that obeys the  major reflexive pronoun constraints while giv-  ing a preference to antecedents hat are closer  to the pronoun."
+393,PT,parse tree,394,We have im-  plemented a slightly modified version of Hobbs  algorithm for the Tree-bank PTs.
+394,PT,parse tree,395,Feature Sets entity type of e1 and e2 words in e1 and e2 word bigrams in e1 and e2 POS of e1 and e2 words between e1 and e2 word bigrams between e1 and e2 POS between e1 and e2 distance between e1 and e2 distance between e1 and e2 in the dependency graph steps in PT to get e1 and e2 in the same phrase various combinations of the above features Table 2: Our feature set for the MIRA classifier that pre- dicts binary relations.
+395,PT,parse tree,396,"Due to relatively large differences between  Tree:bank PTs and Hobbs' trees, our  Hobbs' implementation does not yield as high  an accuracy as it would have if we had had  perfect Hobbs' tree representations."
+396,PT,parse tree,397,In order to evaluate the alignments we computed the fraction of correctly transferred edges as a function of the average number of edges transferred by using supervised PTs on the target side.
+397,PT,parse tree,398,We consider a PT on the source language as a set of dependency edges to be transferred.
+398,PT,phrase table,399,"The full pipeline consists of the following steps: (1) prepare the data (lowercase, tokenize, and filter long sentences); (2) build language models; (3) create word alignments in each direction; (4) symmetrize directional word alignments; (5) build PT; (6) tune weights for the PT."
+399,PT,phrase table,400,"Similarly, the PT size is significantly re- duced by 35%, while the gains on the tail docu- ments range from 0.6 to 1.4."
+400,PT,phrase table,401,"Contrary to conventional wisdom in the MT community, bigger PTs did not always perform better."
+401,PT,phrase table,402,"In 14 out of 18 cases, the threshold picked was 0.4 (medium size PTs) and the other four times 0.2 was picked (smaller PTs)."
+402,PT,portuguese,403,"We also used the English/ PT (En-Pt), PT/Spanish (Pt-Es), PT/French (Pt-Fr), and Spanish/French (Es-Fr) portions of the Europarl corpus using annotations described by Grac?a et al (2008), where we split the gold alignments into a dev/test set in a ratio of 40%/60%."
+403,PT,portuguese,404,"articles required in one language but optional in the other (e.g., English Cars use gas and PT Os carros usam gasolina), cases where the content is expressed using multiple words in one language and a single word in the other language (e.g., agglutination such as English weapons of mass destruction and German Massenvernichtungswaffen), and expres- sions translated indirectly."
+404,PT,portuguese,405,"483 Computational Linguistics Volume 36, Number 3 Table 1 Test corpora statistics: English?French, English?Spanish, English?PT, PT?Spanish, PT?French, and Spanish?French."
+405,PT,parse trees,406,"G. & C. Merriam Co., Springfield, Mass.  158  Appendix A. PT  DECL PRON*  VERB* ""ate""  DET  NOUN*  ?"
+406,PT,parse trees,407,"However, these attachments become  unsatisfactory after the system understands the next  20 Computational Linguistics, Volume 15, Number 1, March 1989  Jungyun Seo and Robert F. Simmons Syntactic Graphs: A Representation for the Union of All Ambiguous PT  sentence."
+407,PT,parse trees,408,3 Reranking PT Using SRL Information Here we give the general framework for the rerank- ing methods that we present in the next section.
+408,PT,parse trees,409,"0362-613X/89/010019-32503.00  Computational Linguistics, Volume 15, Number 1, March 1989 19  Jungyun Seo and Robert F. Simmons Syntactic Graphs: A Representation for the Union of All Ambiguous PT  . ,"
+409,PT,parse trees,410,"The  node \[1,8oo,v\] represents a VP with head word  21  Jungyun See and Robert F. Simmons Syntactic Graphs: ,% Representation for the Union of All Ambiguous PT  GRAMMAR RULES AND CORRESPONDING TRIPLES:  Grammar rules arc-name head modifier  i. SNT--~NP VP snp header  VP head of NP  2."
+410,PT,parse trees,411,PT Used SRL F1 Gold 77.1 1-best 63.9 Reranked by gold parse F1 68.1 Reranked by gold frame F1 74.2 Simple SRL combination (?
+411,PT,part,412,This is PTly because selection restrictions are  not clearcut in many cases.
+412,PT,part,413,The probability that a referent is in a PTic-  166  ular gender class is just the relative frequency  with which that referent is referred to by a pro-  noun p that is PT of that gender class.
+413,PT,part,414,"Given a PTicular choice of the antecedent  candidates, the distance is independent of  distances of candidates other than the an-  tecedent (and the distance to non-referents  can be ignored):  P(so, d~a, 2~) o?"
+414,PT,part,415,"In PTicular, the scheme infers the gender of a  referent from the gender of the pronouns that  161  refer to it and selects referents using the pro-  noun anaphora program."
+415,PT,part,416,"When viewed in this way, a can be regarded as  an index into these vectors that specifies which  value is relevant o the PTicular choice of an-  tecedent."
+416,PT,portuguese,417,"These questions were machine translated to Spanish, French and Brazilian PT using IBM?s n."
+417,PT,portuguese,418,We will initially focus on the case of English/Brazillian-PT but we intend our work to be generalizable to other language pairs.
+418,PT,portuguese,419,UAS with out preprocessing: Arabic 65.19 77.74 79.02 76.74  Chinese 84.27 89.46 86.42 90.03  Czech 76.24 83.4 83.52 82.88  Danish 81.72 88.64 86.11 88.45  Dutch 71.77 75.49 75.83 74.97  German 84.11 87.66 90.67 87.53  Japanese 89.91 93.12 92.40 92.99  PT 85.07 90.3 88.00 90.21  Slovene 71.42 81.14 80.96 80.43  Spanish 80.46 85.15 88.90 85.19  Swedish 81.08 88.57 83.99 88.83  Turkish 61.22 74.49 73.91 74.3  AV: 77.7 84.6 84.1 84.38  SD: 8.67 6.15 5.78 6.42  Bulgarian 86.34 91.3 89.27 91.44  Table 1: Results  195  An Alternative Conception of  Tree-Adjoining Derivation  Yves Schabes*  Mitsubishi Electric Research Laboratory  Stuart M. Shie
+419,PT,portuguese,420,"We enumerate  them below as a key: Arabic (ar), Danish (da),  German (de), English (en), Spanish (es), French  (fr), Indonesian (Malay) (id), Italian (it), Japanese  (ja), Korean (ko), Malaysian (Malay) (ms), Dutch  (nl), PT (pt), Russian (ru), Thai (th), Viet- namese (vi) and Chinese (zh)."
+420,PT,portuguese,421,"Our initial investigations using this set for English, Spanish, French, Brazilian PT and German text, suggest min- imal modification is required to adapt for use in question answering."
+421,PT,portuguese,422,workshop on joint evaluation of computational processing of PT at PorTAL 2002.
+422,PT,prompts,423,"PT the user to interactively enter sam- ple documents (used primarily for testing, or entering queries)."
+423,PT,prompts,424,"4.2 Automatic Generation of Corrective PT In this study, not all prompts were modified to match the user?s choice of words."
+424,PT,prompts,425,PT.
+425,PT,prompts,426,"Of course, the role of PT and SI is not surprising, although interest- ingly they are significant only in association with certain tutor moves."
+426,PT,prompts,427,"4PT are short texts that present an argument or issue and ask test takers to respond to it, either by analyzing the given argument or taking a stance on the given issue."
+427,PT,prompts,428,"For example, since Student Initiatives (SI) are not as frequent, we needed to double code more sessions to find a number of SI?s high enough to compute a meaningful Kappa (in our whole corpus, there are 1157 SIs but e.g. 4957 PT)."
+428,PT,probable alignments,429,The only evaluation set where Romanian-English data leads to better performance is the PT set.
+429,PT,probable alignments,430,"That is, "
+430,PT,probable alignments,431,PT are large blocks of words which the annotator was uncertain of how to align.
+431,PT,probable alignments,432,"The intersection of the Sure alignments pro- duced by the two annotators led to the final Sure aligned set, while the reunion of the PT led to the final Probable aligned set."
+432,PT,probable alignments,433,"Given an alignment , and a gold standard alignment , each such alignment set eventually consisting of two sets   ,   , and   ,   corresponding to Sure and PT, the following measures are defined (where  is the alignment type, and can be set to either S or P)."
+433,PT,probable alignments,434,"While this may seem contradictory, AER factors in both Sure and PT into is scoring while only the English?French data included such alignments in its gold standard."
+434,PT,parse tree,435,"Sen -- sentence branch     full_propernoun -- proper noun phrase propernoun JOHN [Sexed]     neg_copula -- copula verb phrase asCopulaN RETIRE [Fut] comnoun CHAIRMAN [Sing,Per3] Figure 3: PT for ""John will retire as chairman""."
+435,PT,parse tree,436,"I I l l  I i I l i   ' t i l t   ADJ'* ""a""  ""fish""  PREP ""with""  DET ADJ*  NOUN* ""fork""  t ta t '   Tree I. PT for a syntactically ambiguous PP attachment  DECL NP  VERB*  NP  PUNC  ' t i ""  PRON*  ttwant""  DET  NOUN*  PP  I t  t,   ADJ*  ""book""  PREP  DET  NOUN*  ~LCL   ""the""  ""by""  ADJ'*  ""uncle""  NP  VERB*  PP  ""my""  PRON* ""that""  'tlSt'  PREP ""on""  DET ADJ*  NOUN* ""shelf""  ""the""  Tree 2."
+436,PT,parse tree,437,"PT for ""About which very important topic has John talked on Sunday?"""
+437,PT,parse tree,438,"PT for ""Bill gives the woman a book which"
+438,PT,parse tree,439,The best TB2 feature set is approximately the same as the best FN feature set in spite of the dif- ferences between the datasets (PTs: TB2 ?
+439,PT,parse tree,440,"PT for ""Which man's woman will he persuade to date him?"""
+440,PT,parse tree,441,"edu/?mgo031000/ppa/ 274 FN TB2 Source FrameNet annotation samples (British National Corpus) Penn Treebank-II (WSJ articles) Instance identifica- tion Semantic-centered (related to Frame Elements) Syntactic-centered (related to the structure of the parse tree) PTs Automatically generated (Charniak) Gold standard Total size 27,421 instances 60,699 instances Distribution statistics 70.28% ambiguous verb attachments 2.36:1 v-attch:n-attch 35.71% ambiguous verb attachments 1:1.8 v-attch:n-attch Training / test sets 90% - 10% ?"
+441,PT,partial tree,442,"Further, the de-  sign of a graphical user-interface to enter the  queries is planned, allowing to specify queries  by drawing PTs instead of typing in  the expressions in the query language."
+442,PT,partial tree,443,"Here in incremental dependency parsing we define the loss function between a gold tree y and an incorrect PT z as the number of incorrect edges in z, plus the number of correct edges in y which are already ruled out by z. This MIRA extension results in slightly higher accuracy of 92.36, which we will use as the pure online learn- ing baseline in the comparisons below."
+443,PT,partial tree,444,Horeover~ a PT in the whole parse  tree plays a role of adjusting semantic and syntactic  interpretation.
+444,PT,partial tree,445,"On the basis of these derivation trees, we selected several features for training our disam- biguation models: local trees of depth 1, several lev- els of grandparenting, i.e. inclusion of grandpar- ent node (GP 2), great-grandparent node (GP 3) and great-great-grandparent node (GP 4), PTs of depth 1 (+AE)."
+445,PT,partial tree,446,"The idea is that the supertags might give a more fine-grained definition of struc- ture, using PTs rather than parts of speech."
+446,PT,partial tree,447,Bottom-up generation locally applies the translation model to a PT.
+447,PT,phrase table,448,using Europarl LM & PT (max phrase length 7) ?
+448,PT,phrase table,449,using Europarl LM & PT (max phrase length 10) ?
+449,PT,phrase table,450,"2 PT Pruning Phrase table pruning algorithms are important in translation, since they efficiently reduce the size of the translation model, without having a large nega- tive impact in the translation quality."
+450,PT,phrase table,451,A Systematic Comparison of PT Pruning Techniques.
+451,PT,phrase table,452,3.3 Additional PT of bilingual MWEs Wu et al (2008) proposed a method to construct a phrase table by a manually-made translation dic- tionary.
+452,PT,phrase table,453,"or, How to  Extract Paraphrases from PTs   1Roland Kuhn, 1Boxing Chen, 1George Foster and  2Evan Stratford  1National Research Council of Canada  2University of Waterloo  1First.Last@nrc.gc.ca; 2evan.stratford@gmail.com    Abstract  This paper describes how to cluster to- gether the phrases of a phrase-based sta- tistical machine translation (SMT) sys- tem, using information in the phrase table  itself."
+453,GR,group,454,"As future work we aim at allowing for the comparison at fragment level, where a fragment is considered a part of a function, a GR of functions."
+454,GR,group,455,"9 Acknowledgements   The authors would like to thank Mark Johnson  and other members of the Brown NLP GR  for many useful ideas and NSF and ONR for  support (NSF grants IRI-9319516 and SBR-  9720368, ONR grant N0014-96-1-0549)."
+455,GR,group,456,"In clustering, objects are GRed together according to their feature value distribution, not to a predefined classification (as is the case when using supervised techniques), so that we achieve a better guarantee that we are learning a structure already present in the data."
+456,GR,group,457,3.1 The  gender /an imat ic i ty  stat ist ics   After we have identified the correct antecedents  it is a simple counting procedure to compute  P(p\[wa) where wa is in the correct antecedent  for the pronoun p (Note the pronouns are  GRed by their gender):  \[ wain the antecedent for p \[  P(pl o) =  When there are multiple relevant words in the  antecedent we apply the likelihood test designed  by Dunning (1993) on all the words in the candi-  date NP.
+457,GR,group,458,"To make sure that the resulting system is practically useful, several user GRs have been identified, who drive the interface development process by providing practical use cases."
+458,GR,group,459,"Instead of computing the proba-  bUity for each one of them we GR them into  ""buckets"", so that rrt a iS the bucket for the num-  ber of times that a is mentioned."
+459,GR,or,460,"A Statistical Approach to AnaphGRa Resolution  Niyu  Ge, John  Hale and Eugene Charn iak   Dept."
+460,GR,or,461,"brown, edu  Abst ract   This paper presents an algGRithm fGR identi-  fying pronominal anaphGRa and two experi-  ments based upon this algGRithm."
+461,GR,or,462,"We incGRpo-  rate multiple anaphGRa resolution factGRs into  a statistical framewGRk - -  specifically the dis-  tance between the pronoun and the proposed  antecedent, gender/number/animaticity of the  proposed antecedent, governing head infGRma-  tion and noun phrase repetition."
+462,GR,or,463,We incGRpo-  rate multiple anaphGRa resolution factGRs into  a statistical framewGRk - -  specifically the dis-  tance be
+463,GR,grammatical relation,464,"In the Mental Representation of GRs (Joan Bresnan ed.),"
+464,GR,grammatical relation,465,"The Mental Representation of GRs, The MIT Press, Cambridge, Mass. J. Maxwell and R. Kaplan, 1991. """
+465,GR,grammatical relation,466,"In Joan Bresnan, editor, The Mental Repre- sentation of GRs, pages 173?281."
+466,GR,grammatical relation,467,"The Mental  Computational Linguistics, Volume 15, Number 1, March 1989  Representation fGRs."
+467,GR,grammatical relation,468,"In Joan Bresnan, editor, The Mental Representation of GRs, pages 173?281."
+468,GR,grammatical relation,469,The Mental Representation fGRs.
+469,GR,grammatical relation,470,"Booch G. 1994, Analyse et conception orientees  objets , Addison-Wesley, Reading Mass.  Bresnan Joan and Ronald Kaplan 1981, Lexical  functional grammars ; a formal system for gram-  105  matical representation, The mental representation  of GR, MIT Press, Cambridge,  Mass.  Delmonte R. 1990, Semantic Parsing with LFG and  Conceptual Representations, Computers and the  Humanities, Kluwer Academic Publishers, 24 , p.  461-488."
+470,GR,grammatical relation,471,Pairs of syntactic units connected by GR are extracted from the parse trees.
+471,GR,grammatical relation,472,We therefore designed the lexical entries for the case markers so that they specify information about what GR they attach to and what se- mantic information is needed in the clausal analysis.
+472,GR,grammatical relation,473,The most important differences are the use of manually defined rules and the inclusion of GR from a parser as critical fea- tures.
+473,GR,grammatical relation,474,Discriminative re- ordering with Chinese GR fea- tures.
+474,GR,grammatical relation,475,Discriminative re- ordering with Chinese GR features.
+475,GR,grammatical relation,476,GRs are in italics (con- junction and nominal-subject).
+476,GR,grammatical relation,477,GRs  and Montague Grammar.
+477,GR,grammatical relation,478,"GRs are arranged in a  hierarchy and are usually referred to by  numbers: 1, which is the highest, corresponds  to SUBJECT, 2 to DIRECT OBJEC~I ', 3 to  INDIRECT OBJECT."
+478,GR,grammatical relation,479,"To do this, we Figure 8 GRs output for metaphorical expressions."
+479,GR,grammatical relation,480,GRs  This kind of features refers to the grammatical  relation themselves.
+480,GR,grammatical relation,481,DP-HWC(i)c-l GRships ?
+481,GR,greetin,482,"72  THIRTEENTH ANNUAL MEETING  THE AS$OCIATtON FOR COMPUTATIONAL UNGUISTICS  Sheraton Boston Hotel  Boston, Massachusef t s   October $0-November 1, 1975  Thursday, October 30, 197.5  S&SSION 1: i,AhrCUAGE C/IVn ERSTAArDlllFG SYSTElhf S  Session Chairman: Yorick Wdks - h r v e r s l t y  of Edtnburgh  990 A.M. GRgs and Irrtroductory Rernarks  9: 15 A.M. PE'DfiGI,OT and Underrl art d i n g  Natural 1,nnguagr Procr t sing  Willtarn Fabens - Rutgers University  9:40 AM A Syrtcm /or Gencral Scmankc Analysis And l t , q  Use  I n  Drawirt g A l  apa from Dircctiotts  Jerry R. t.lobbs - The C ~ t y  College of CUNY  tO:OS A.M An Adaprivo Nutural Lartguago Parser  Ferry t. M~ller - M I T.  1030 AM."
+482,GR,greetin,483,GRgs Contact.
+483,GR,greetin,484,GRg SYS2 Saikin no oishii mono ni tsuite kikasete kudasai Q-Plan Topic-Inducing (Tell me about delicious food that you?ve had recently) USR2 Karei ni hamatterunda! (
+484,GR,greetin,485,930 Utterance (English translation by the authors) DA Gen. Module SYS1 Doumo desu (Hi) GRg Initial prompt USR1 Doumo.
+485,GR,greetin,486,JP) Table 3: Templates for topic types (translated by authors) Dialogue act Example GRgs Hello.
+486,GR,glue rule,487,"Features extracted from the alignments and used in translation are in common use: target lan- guage model, source-to-target and target-to-source phrase translation models, word and rule penalties, number of usages of the GR, source-to-target and target-to-source lexical models, and three rule Figure 1: Spreading neighborhood exploration within a cube, just before and after extraction of the item C. Grey squares represent the fron- tier queue; black squares are candidates already extracted."
+487,GR,glue rule,488,Glue(r): exp(1) if rule is a GR ? ?
+488,GR,glue rule,489,"To pro- duce the result, the joint decoder made use of 8,114 hierarchical phrase pairs learned from train- ing data, 6,800 GRs connecting partial trans- lations monotonically, and 16,554 tree-to-string rules."
+489,GR,glue rule,490,"Since concatenation is already possible under the general GR, rules with this pattern are redundant."
+490,GR,glue rule,491,"The Hiero decoder can easily be made to implement MJ1 reordering by allowing only a restricted set of reordering rules in addition to the usual GR, as shown in left-hand column of Table 1, where T is the set of terminals."
+491,GR,glue rule,492,T)+ Table 1: Hierarchical grammars (not including GRs).
+492,MEMM,maximum entropy markov model,493,"This class of models includes popular tag- ging models for named entities such as conditional random fields, MEMMs and max-margin Markov networks."
+493,MEMM,maximum entropy markov model,494,"We use a MEMM to estimate these probabilities, to pre-annotate in- stances, and to evaluate accuracy."
+494,MEMM,maximum entropy markov model,495,"OSCAR (Open-Source Chemistry Analysis Rou- tines) (Corbett and Murray-Rust, 2006; Jessop et al 2011) extracts mentions of a wide range of chemi- cals using a MEMM (Mc- Callum et al 2000)."
+495,MEMM,maximum entropy markov model,496,Our features were implemented  in a MEMM.
+496,MEMM,maximum entropy markov model,497,UBC-UPC: Sequential SRL using selectional preferences: an approach with MEMMs.
+497,MEMM,maximum entropy markov model,498,"It is based on maxent models, MEMMs and linear-chain CRF and proposes various optimization and regularization methods to improve both the computational complexity and the prediction performance of standard models."
+498,MEMM,maximum entropy markov model,499,An Approach with MEMMs.
+499,MEMM,maximum entropy markov model,500,"68  CoNLL 2008: Proceedings of the 12th Conference on Computational Natural Language Learning, pages 243?247 Manchester, August 2008 The Integration of Dependency Relation Classification and Semantic Role Labeling Using Bilayer MEMMs Weiwei Sun and Hongzhan Li and Zhifang Sui Institute of Computational Linguistics Peking University {weiwsun, lihongzhan.pku}@gmail.com, szf@pku.edu.cn Abstract This paper describes a system to solve the joint learning of syntactic and seman- tic dependencies."
+500,MEMM,maximum entropy markov model,501,Rudnick et al(2013) present a combina- tion of MEMMs and HMM to perform lexical selection in the sense of cross-lingual word sense disam- biguation (i.e. by choice from the set of trans- lation alternatives).
+501,MEMM,maximum entropy markov model,502,"An aproach with MEMMs Ben?at Zapirain, Eneko Agirre IXA NLP Group University of the Basque Country Donostia, Basque Country {benat.zapirain,e.agirre}@ehu.es Llu??s Ma`rquez TALP Research Center Technical University of Catalonia Barcelona, Catalonia lluism@lsi.upc.edu Abstract We present a sequential Semantic Role La- beling system that describes the tagging problem as a Maximum Entropy Mar"
+502,MEMM,maximum entropy markov model,503,"To provide part-of-speech tags to MSTParser, we use the MElt tagger (Denis and Sagot, 2009), a MEMM tagger en- riched with information from a large-scale dictio- nary.5 The tagger was trained on the training set to provide POS tags for the dev and test sets, and we used 10-way jackkni?ng to generate tags for the training set."
+503,MEMM,maximum entropy markov model,504,"To estimate the probability distribution of each arc and do inference, we im- plement a MEMM (Mc- Callum et al, 2000)."
+504,AWN,aligned wordnets,505,Using AWN to disambiguate par-  allel texts allows us to calculate the intersection  among the synsets accessible from an English text  through the English WoRDNET and the synsets  accessible from the parallel Italian text through  the Italian WORDNET.
+505,AWN,aligned wordnets,506,"TufiS, D., Ion, R., Ide, N.: Fine-grained word  sense disambiguation based on parallel corpo- ra, word alignment, word clustering and  AWN."
+506,AWN,aligned wordnets,507,"in (2004) presented a method that exploits word  clustering based on automatic extraction of trans- lation equivalents, being supported by available  AWN."
+507,AWN,aligned wordnets,508,"lexical resources (e.g., dictionaries,  AWN), or  ?"
+508,AWN,aligned wordnets,509,In this way the  AWN can be used to help each other and  derive a more compatible and consistent structure.
+509,AWN,aligned wordnets,510,There are then two general ways in which the  AWN can be accessed:  ?
+510,AWN,arabic wordnet,511,Automatically Extending Named Entities coverage  of AWN using Wikipedia.
+511,AWN,arabic wordnet,512,2010) proposed a system  that uses AWN to enhance Arabic  question/answering.
+512,AWN,arabic wordnet,513,"Our corpus will be further extended to include more text, and all lexical annotations (i.e., Lemmas) will be linked with existing Arabic ontology resources such as the AWN (Black et al.,"
+513,AWN,arabic wordnet,514,"As in (Alkhalifa and Rodrguez,  2008), they proposed an automatic technique for  extending Named Entities of AWN  using Wikipedia."
+514,AWN,arabic wordnet,515,A Proposed Model for Quranic AWN.
+515,AWN,arabic wordnet,516,AWN: current state  and future extensions.
+516,FM,frame matcher,517,"Thus, the FM only chooses roles from frames that are the best syntac- tic matches with the extracted argument set."
+517,FM,frame matcher,518,"The potential argument slots are sub- ject, object, indirect object, and PP-object, where the latter is specialized by the individual preposi- tion.1 Given chunked sentences with our verbs, the FM uses VerbNet both to restrict the list of candidate roles for each slot, and to eliminate some of the PP slots that are likely not arguments."
+518,FM,frame matcher,519,"3.2 Adjustments to the Role Mapping We further extend the FM, which has ex- tensive knowledge of VerbNet, for the separate task of helping to eliminate some of the inconsistencies that are introduced by our role mapping procedure."
+519,FM,frame matcher,520,"3.1 Initialization of Candidate Roles The FM construes extracted arguments from the parsed sentence as being in one of the four main types of syntactic positions (or slots) used by VerbNet frames: subject, object, indirect object, and PP-object.3 Additionally, we specialize the lat- ter by the individual preposition, such as ?"
+520,FM,frame matcher,521,"4 The Bootstrapping Algorithm We have described the FM that produces a set of slots with candidate role lists (some unam- biguous), and our backoff probability model."
+521,FM,frame matcher,522,The automatic FM aligns arguments extracted from an automatically parsed sentence with the frames in VerbNet for the target verb in the sentence.
+522,FM,f measure,523,"FM for our categories range from .61 (TEXTUAL) and .52 (AIM) to .45 (BACKGROUND), .38 (BASIS), and .26 (CONTRAST)."
+523,FM,f measure,524,Tables 3 and 4 show the improvement of C-E and A-E alignment FM with the confidence-based alignment link filtering (ALF).
+524,FM,f measure,525,"Performing 5-fold cross validation on the nwire and bnews corpora, (Jiang and Zhai, 2007) and (Chan and Roth, 2010) reported FM of 71.5 and 71.2, respectively."
+525,FM,f measure,526,Macro-F is the mean of the FM of all seven categories.
+526,FM,f measure,527,"Table 4 shows the NER results obtained by the meth- ods without considering NER-level rejection (i.e., to = 0), using threshold tw = 0.4 for Conf-A, Proposed, and Conf-Reject, which resulted in the best NER FM (see Table 5)."
+527,FM,f measure,528,"The scored results show that our CWS can  increase the Bakeoff baseline system with 4.86%  and 5.04% FM for the CKIP and the CityU  word segmentation tasks, respectively."
+528,FM,f measure,529,"This system has achieved competitive results with an FM of 82.7 when trained on the seven main types of ACE data with access to wordnet and part-of-speech-tag informa- tion as well as output of other MD and named-entity recognizers (Zitouni and Florian, 2008)."
+529,FM,f measure,530,Precision/recall/FM re- sults are shown in Table 2.
+530,FM,f measure,531,"This module achieved an FM of 68% (Amaral et al, 2007)."
+531,FM,f measure,532,"But system combination serves us well: it recovers all but 0.5 FM point of this loss, while also ac- tually performing better on the noisy data sets than the two classifiers specifically targeted toward them, as can be seen in Table 2."
+532,FM,f measure,533,"This module achieved an FM of 56% and SER (Slot Error Rate, the measure commonly used to evaluate this kind of task) of 0.74."
+533,FM,f measure,534,"However, because the mixed classifier, and moreso the gazetteer classifier, are oriented to noisy data, on clean data they suffer in performance by 2.5 and 5 FM points, respectively."
+534,FM,f measure,535,"Performance is presented in terms of Precision (P), Recall (R), and FM (F)."
+535,ERR,error rate reductions,536,"7 Related Work Dawid and Skene (1979) investigated filtering annotations using the EM algorithm, estimating annotator-specific ERR in the context of patient medical records."
+536,ERR,error rate reductions,537,"This shift did not nec- essarily translate to higher ERR, especially after optimizations."
+537,ERR,error rate reductions,538,"Percentage denotes the ERR, i.e. the number of err"
+538,ERR,error rate reductions,539,"However, for sensitive applications where ERR must practically be zero, or other situations where speech recognition ERR are too high, we are currently developing a real-time correction interface."
+539,ERR,error rate reductions,540,The low ERR are the key reason the error cor- rection task is so difficult: it is quite challenging for a system to improve over a writer that already per- forms at the level of over 90%.
+540,ERR,error rate reductions,541,"Table 1 shows the number of mistakes1 of each type and the ERR, i.e. the percentage of erroneous words by error type."
+541,ERR,error rate reductions,542,"Percentage denotes the ERR, i.e. the number of erroneous instances with respect to the to- tal number of relevant instances in the data."
+542,ERR,error rate reductions,543,"of mistakes1 of each type and the ERR, i.e. the percentage of erroneous words by error type."
+543,ERR,error rate reductions,544,"In  section 5, we present word alignment results that  show significant alignment ERR  compared to the baseline HMM and IBM model 4."
+544,ERR,error rate reductions,545,"Even so, we are able to achieve ERR ranging from 6.52% to 63.41% for TWA, and from 3.33% to 34.62% for SEMEVAL."
+545,ERR,error rate reductions,546,"We present experimen- tal results for heavily pruned backoff n- gram models, and demonstrate perplexity and word ERR when used with various baseline smoothing methods."
+546,ERR,error rate reductions,547,"We translate the context of an ambiguous word in multiple languages, and show through experiments on standard datasets that by using a multilingual vector space we can obtain ERR of up to 25%, as compared to a monolingual classifier."
+547,ERR,error rate reductions,548,"We now look at the impacts on system perfor- mance we can achieve with these new models4, and whether the perplexity differences that we ob- serve translate to real ERR."
+548,ERR,error rate reductions,549,"Using only low-level features capturing when partic- ipants choose to vocalize relative to one another, it attains relative ERR on unseen data of 37%, 67%, and 40% over chance on classifying role, leadership, and seniority, respectively."
+549,HI,hindi,550,"Fortunately, work is being done on verb subcategorization frames in HI.5 We plan to incorporate this information into the Urdu grammar verb lexicon."
+550,HI,hindi,551,"In addition, a guesser can be added to guess words that the morphology does not yet recognize (Chanod 4A web search on HI dictionary results in several promising sites."
+551,HI,hindi,552,"While some morphological analyzers al- ready exist for HI,3 e.g., as part of the tools developed at the Language Technolo- gies Research Centre (LTRC), IIT Hyderabad (http://www.iiit.net/ltrc/index.html), they are not immediately compatible with the XLE grammar development platform, nor is it clear that the morphological analyses they produce conform to the standards and methods developed within the ParGram project."
+552,HI,hindi,553,"Even within a linguistic formalism, LFG for Par- Gram, there is often more than one way to ana- 5One significant effort is the HI Verb Project run by Prof. Alice Davison at the University of Iowa; further information is available via their web site."
+553,HI,hindi,554,5 Script One issue that has not been dealt with in the Urdu grammar is the different script systems used for Urdu and HI.
+554,HI,hindi,555,Transliteration by analogical learning has been attempted by Dandapat et al (2010) for an English-to-HI transliteration task.
+555,HI,harvard inquirer,556,scores for English dataset derived from the HI project.
+556,HI,harvard inquirer,557,"We then re- placed sentiment words with a sentiment cat- egory identifier using the sentiment lexica of the HI (Stone, 1966) and LIWC (Pennebaker et al, 2007)."
+557,LCS,longest common substring,558,"Of the string-similarity features, we reused the LCS, Longest Common Subsequence (with and without normaliza- tion), and Greedy String Tiling measures."
+558,LCS,longest common substring,559,LCSsComputed between Two Sentences 17.08.08 |  Computer Science Department | Ubiquitous Knowledge Processing Lab  |  75/206 Example of Tiling for Derived and Non-Derived Text (from Clough 2003) ?
+559,LCS,longest common substring,560,LCSsComputed between Two Sentences 17.08.08 |  Computer Science Department | Ubiquitous Knowledge Processing Lab  |  74/206 ?
+560,LCS,lexical conceptual structure,561,"As  Dowry (1989), Jackendoff (1987, 1990) and oth-  ers have noted, LCS is  needed for correct semantic interpretation. ("
+561,LCS,lexical conceptual structure,562,"This sentence is processed by the system  and the following LCS is  obtained:  [Event GO Loc   ([Thing JOHN],   [Path TO Loc ([Position AT Loc ([Thing JOHN],  [Property HOUSE])])],   [Manner RUNNINGLY])]  which is stored by the tutoring system and later  matched against the student?s answer."
+562,LCS,lexical conceptual structure,563,"predictions regarding complex event  nominals uch as those illustrated in (29), it fails  on nominals that do not represent complex events  as in (30)  (29) a. TREE felling  b. COOKIE baking  (30) a. HISTORY teacher  b. BIT guzzler  1 believe the distinction is a semantic one involv-  ing 0-participants in LCS  (Ics)."
+563,LCS,lexical conceptual structure,564,Generation from LCS.
+564,LCS,lexical conceptual structure,565,"For while rule (16) would  make correct predictions regarding complex event  nominals uch as those illustrated in (29), it fails  on nominals that do not represent complex events  as in (30)  (29) a. TREE felling  b. COOKIE baking  (30) a. HISTORY teacher  b. BIT guzzler  1 believe the distinction is a semantic one involv-  ing 0-participants in LCS  (Ics)."
+565,LCS,lexical conceptual structure,566,"Every verb and noun (including deverbal  nouns) has a LCS that in-  cludes the entities involved in the events or states  described (see, for example, Dowty (1989),  Fillmore (1968), and Jackendoff (1987, 1990))."
+566,LCS,lexical conceptual structure,567,"Resnik and Diab [2000], in which similarity is computed according to the structure, rather than content, of LCS representations of verbs; see Jackendoff [1983] and Dorr [1993])."
+567,LCS,longest common substring,568,"From the downloaded corpus, we extract sentences such as Dickens was born in 1812 Dickens (1812 - 1870) was an English writer Dickens (1812 - 1870) wrote Oliver Twist The system identifies that the contexts of the last two sentences are very similar and chooses their LCS to produce the follow- ing patterns: <hook> was born in <target> <hook> ( <target> - 1870 ) In order to measure the precision of the ex- tracted patterns, a new corpus is downloaded us- ing the hook Dickens as the only query word, and the system looks for appearances of the patterns in the corpus."
+568,LCS,longest common substring,569,We use the Recall-Oriented Un- derstudy for Gisting Evaluation (ROUGE) based on the LCSs (ROUGE-L) as our evaluation metric.
+569,LCS,longest common substring,570,"From the downloaded corpus, we extract sentences such as Dickens was born in 1812 Dickens (1812 - 1870) was an English writer Dickens (1812 - 1870) wrote Oliver Twist The system identifies that the contexts of the last two sentences are very similar and chooses their LCS to produce the follow- ing patterns: <hook> was born in <target> <hook> ( <target> - 1870 ) The rote extractor needs to estimate automati- cally the precision of the extracted patterns, in or- der to keep the best ones."
+570,LCS,longest common substring,571,"This may just be the m characters to the left or to the right (Brin, 1998), the LCS of several contexts (Agichtein and Gravano, 2000), or all substrings obtained with a suf- fix tree constructor (Ravichandran and Hovy, 2002)."
+571,LCS,longest common substring,572,"This may just be the m characters to the left or to the right, (Brin, 1998), the LCS of several contexts (Agichtein and Gravano, 2000), or all substrings obtained with a suf- fix tree constructor (Ravichandran and Hovy, 2002)."
+572,LCS,longest common substring,573,"6As basic similarity measures, we use greedy string tiling (Wise, 1996) with n = 3, longest common subsequence and LCS (Allison and Dix, 1986), and word n-gram containment(Lyon et al 2001) with n = 2."
+573,LCS,least common subsumer,574,"lin uses the information content (Resnik, 1995) of the LCS of concepts A and B. Information content (IC) indi- cates the specificity of a concept; the least com- mon subsumer of a concept A and B is the most specific concept from which A and B are inherited."
+574,LCS,least common subsumer,575,LCS?
+575,LCS,least common subsumer,576,"Tracing for the information content measures (res, lin, jcn) includes both the paths between concepts as well as the LCS."
+576,LCS,least common subsumer,577,"features (covering lexical items before, af- ter and between both mentions (of the event trigger and an argument) as described by Zhou and Zhang (2007)); second, chunking features (concerned with head words of the phrases between two mentions as described by Zhou and Zhang (2007)); third, de- pendency parse features (considering both the se- lected dependency levels of the arguments (parents and LCS) as discussed by Ka- trenko and Adriaans (2006), as well as a shortest de- pendency path structure between the arguments as used by Kim et al (2008b) for walk features)."
+577,LCS,least common subsumer,578,"lin similarity 5 returns the difference between two times of the IC of the LCS of A and B, and the sum of IC of both concepts."
+578,LCS,least common subsumer,579,Path search takes place as a depth-limited search of maximum depth of 4 for a LCS.
+579,LCS,least common subsumer,580,"WUP finds the depth of the LCS of the words, and scales that by the sum of the depths of individual words."
+580,LCS,longest common subsequence,581,"LCSe is computed as follows: lcs(X,Y ) = (length(X) + length(Y )?"
+581,LCS,longest common subsequence,582,Auto- matic Evaluation of Machine Translation Quality Us- ing LCSe and Skip-Bigram Statistics.
+582,LCS,longest common subsequence,583,Auto- matic Evaluation of Machine Translation Quality Us- ing LCSe and Skip-Bigram Statics.
+583,LCS,longest common subsequence,584,"Salience grading for candidate antecedents  Features Score  F1  recency  0, if in two sentences away from anaphor  1, if in one sentence away from anaphor  2, if in same sentence as anaphor 0-2  F2 Subject and Object Preference 1  F3 Grammatical function agreement 1  F4 Number Agreement 1  F5 Semantic LCSe 0 to 3  F6 Semantic Type Agreement -1 to +2  F7 Biomedical antecedent preference -2 if not or +2  The first feature F1 is recency which measures the distance between an anaphor  and candidate antecedents in number of sentences."
+584,LCS,longest common subsequence,585,Automatic Evaluation of Machine Translation Quality Us- ing the LCSe and Skip- Bigram Statistics.
+585,LCS,longest common subsequence,586,Au- tomatic Evaluation of Machine Translation Qual- ity Using LCSe and Skip- Bigram Statics.
+586,LCS,longest common sub,587,Auto- matic Evaluation of Machine Translation Quality Us- ing LCSsequence and Skip-Bigram Statistics.
+587,LCS,longest common sub,588,Auto- matic Evaluation of Machine Translation Quality Us- ing LCSsequence and Skip-Bigram Statics.
+588,LCS,longest common sub,589,"Salience grading for candidate antecedents  Features Score  F1  recency  0, if in two sentences away from anaphor  1, if in one sentence away from anaphor  2, if in same sentence as anaphor 0-2  F2 Subject and Object Preference 1  F3 Grammatical function agreement 1  F4 Number Agreement 1  F5 Semantic LCSsequence 0 to 3  F6 Semantic Type Agreement -1 to +2  F7 Biomedical antecedent preference -2 if not or +2  The first feature F1 is recency which measures the distance between an anaphor  and candidate antecedents in number of sentences."
+589,LCS,longest common sub,590,"Of the string-similarity features, we reused the LCSstring, LCSsequence (with and without normaliza- tion), and Greedy String Tiling measures."
+590,LCS,longest common sub,591,Automatic Evaluation of Machine Translation Quality Us- ing the LCSsequence and Skip- Bigram Statistics.
+591,LCS,longest common sub,592,Au- tomatic Evaluation of Machine Translation Qual- ity Using LCSsequence and Skip- Bigram Statics.
+592,LCS,longest common subsequence,593,"1) Additionally, we relax the constraint of requiring exact string matches between the two sentences by using the LCS (Allison and Dix, 1986) and greedy string tiling (Wise, 1996) al- gorithms."
+593,LCS,longest common subsequence,594,Size of the LCS.
+594,LCS,longest common subsequence,595,A LCS algorithm suitable for similar text strings.
+595,LCS,longest common subsequence,596,"We used the cosine similarity, LCS, and word n-gram similarity measures."
+596,LCS,longest common subsequence,597,"Size of the LCS, normalized by TGT length."
+597,LCS,longest common subsequence,598,"Cosine similarity, LCS, and word n-gram similarity were also applied to measure the similarity between the edit comment and the turn text as well as the similarity between the edit comment and the turn topic name."
+598,MDL,minimum description length,599,"With tile description length of a model de-  fined in the above manner, we wish to select a  model having the MDL and  output it as the result of clustering."
+599,MDL,minimum description length,600,"5 Experimental setup To test whether MDL is a good driver for unsupervised inversion transduc- tion induction, we implemented and executed the method described above."
+600,MDL,minimum description length,601,Comparing the MDL principle and boosting in the automatic analysis of discourse.
+601,MDL,minimum description length,602,"7 Conclusions We have presented a minimalist, unsupervised learning model that induces relatively clean phrasal ITGs by iteratively splitting existing rules into smaller rules using a theoretically well- founded MDL objective."
+602,MDL,minimum description length,603,"successor count as a means to re- duce the search space of a more powerful al- gorithm based on MDL (Marcken, 1996)."
+603,MDL,minimum description length,604,"Besides specifying the means for forming new ECG constructions, the acquisition model provides an overarching computational framework for converging on an optimal set of constructions, based on a MDL principle ( Rissanen 1978) that favors compactness in describing both the grammar and the statistical properties of the data."
+604,MDL,mum description length,605,"Os-  borne, 1999) extended a definite clause grammar  with rules induced by a learner that was based upon  the maxiMDL principle."
+605,MDL,mum description length,606,The min- iMDL principle in coding and modeling.
+606,MDL,mum description length,607,"In Figure 2, we present information about the length of the Wikipedia entity descriptions for English and for the language other than English with the maxiMDL."
+607,MDL,mum description length,608,Comparing the miniMDL principle and boosting in the automatic analysis of discourse.
+608,MDL,mum description length,609,"successor count as a means to re- duce the search space of a more powerful al- gorithm based on miniMDL (Marcken, 1996)."
+609,MDL,mum description length,610,"Besides specifying the means for forming new ECG constructions, the acquisition model provides an overarching computational framework for converging on an optimal set of constructions, based on a miniMDL principle ( Rissanen 1978) that favors compactness in describing both the grammar and the statistical properties of the data."
+610,MDL,minimum description length,611,Discovering Morphemic Suffixes: A Case Study in MDL Induction.
+611,MDL,minimum description length,612,The model of Cartwright & Brent (1997) uses an algorithm which incrementally merges word clusters so that a MDL criterion for a template grammar is optimized.
+612,MDL,minimum description length,613,"Their idea is closely related to the classic MDL princi- ple for model selection (Barron et al.,"
+613,MDL,minimum description length,614,c?2013 Association for Computational Linguistics Unsupervised Transduction Grammar Induction via MDL Markus Saers and Karteek Addanki and Dekai Wu Human Language Technology Center Dept.
+614,MDL,minimum description length,615,The MDL Principle in Cod- ing and Modeling.
+615,MDL,minimum description length,616,"1.1 Hierarchical versus flat lexicons From the viewpoint of data compression and following the two-part MDL prin- ciple (Rissanen, 1978), Morfessor tries to minimize the number of bits needed to encode both the model parameters and the training data."
+616,OW,overwrite,617,The alterna-  t:ives here are: OW the respective piece  of information by the correct one and re-gen-  erate the whole morphosyntactic surface  structure; or exchange just a partial structure.
+617,OW,overwrite,618,OW and add conservatively are also highly restricted operations.
+618,OW,omegawiki,619,"Thus, following Matuschek et al (2014), we induced a clustering of WordNet senses by aligning WordNet to the more coarse-grained OW LSR."
+619,OW,omegawiki,620,OW OW is a collaborative multilingual dictionary based on a relational database.
+620,OW,omegawiki,621,"It currently contains nine resources in two lan- guages: English WordNet, Wiktionary, Wikipedia, FrameNet and VerbNet, German Wikipedia, Wiktionary and GermaNet, and multilingual OW modeled according to the LMF standard."
+621,OW,omegawiki,622,We observe that translation 11http://www.statmt.org/moses/ 12OW consists of interlinked language- independent concepts to which lexicalizations in several languages are attached.
+622,OW,omegawiki,623,"To improve alignment coverage, we re- trained the alignment model by supplying GIZA++ with an English-French bilingual dictionary that we assembled using three online dictionary databases: OW, Wiktionary, and Universal Dictionary."
+623,TTS,text to speech,624,"Currently, we are using AT&T Bell  Laboratories' TTS System)."
+624,TTS,text to speech,625,It handles ellipsis and refering expressions and also provides the  final prosodically annotated output to the TTS ('ITS) synthesiser.
+625,TTS,text to speech,626,"The system uses a 14k vocabulary, automatically generated by the AT&T Labs NextGen TTS system."
+626,TTS,text to speech,627,The remaining predictions are sent to the TTS engine that articulates the top  CDC predictions at the user's request.
+627,TTS,texttospeech,628,"server generally implements a key system function including Speech Recognition, Frame Construction (language parsing), Context Tracking, Dialogue Management, Application Interface, Language Generation, and TTS."
+628,TTS,texttospeech,629,"1 System configuration  Interface  User submits anew query  by selecting one or more  specific terms displayed  on the interface (web  page)  User enters an initial query  .I Reformulate the L query \]~'  q, ,   I  Search over the \[  I database  ,  I  I Display search result /  Summarize individual  TTS i  conversion :  Fig."
+629,TTS,texttospeech,630,"Each server generally implements a key system function including Speech Recognition, Frame Construction (language parsing), Context Tracking, Dialogue Management, Application Interface, Language Generation, and TTS."
+630,TTS,texttospeech,631,"As a final  note, we suggest hat its fundamental rationale is  arguably also highly pertinent to TTS  systems, which, however, cannot be elaborated here."
+631,TTS,texttospeech,632,"2001 HRL Laboratories, LLC, All rights reserved Speech Recognition Language Generation Dialogue Management Application Back-end Context Tracking Frame Construction Audio Server TTS Conversion Hub Figure 1."
+632,TTS,texttospeech,633,Build the Microvox TTS  synthesizer.
+633,TTS,texttospeech,634,"Computational Linguistics Volume 16, No.3, pp.155-  170 1990  \[3\] Bachenkn, J., and Fitzpatrick, E.  Parsing for Prosody: What a TTS system  needs from syntax  Proceedings of lE~E Artificial Intelligence Systems in  Government (AISIG), 1989  \[41 Bachenko, J., Fitzpatrick, E., and Wright, C.E.  The contribution of parsing to prosodic phrasing in an  experimental text-to-speech system  Proceedings of the 24th Annual Meeting of the  Association for Computational Linguistics, pp."
+634,TTS,texttospeech synthesis,635,"2 Previous Work on Stress Prediction Pronunciation prediction, of which stress pre- diction is a part, is important for many speech applications including automatic speech recog- nition, TTS, and translit- eration for, say, machine translation."
+635,TTS,texttospeech synthesis,636,"A large number of text process- ing applications have already employed techniques for automatic subjectivity analysis, including auto- matic expressive TTS (Alm et al.,"
+636,TTS,texttospeech synthesis,637,Multilingual TTS.
+637,TTS,texttospeech synthesis,638,Multilingual text analy-  sis for TTS.
+638,TTS,texttospeech synthesis,639,Word stress assignment in a TTS system for British English.
+639,TTS,texttospeech synthesis,640,"For these reasons, computational mod-  eling of prosodic phrases is important both for TTS and speech  understanding applications."
+640,STA,stative,641,"for  ident i fy ing  STA verbs, Many  instances of this pat tern  appear  to be  pass ives  or s tat ive use of normal ly  non-  s tat ive verbs."
+641,STA,stative,642,Act ion  verbs can appear in a number of  embedded sentences  where STAs cannot  be used.
+642,STA,stative,643,"This paper descr ibes  methods  for f inding taxonomy and set -membersh ip   re lat ionships,  recogniz ing nouns that  ord inar i ly  represent  human beings, and  ident i fy ing act ive and STA verbs and  adject ives."
+643,STA,stative,644,"In testing this  one should  i. always use sentences with a non-stative basic  proposit ion, for i~ the la t te r  is STA the  sentence can never be habitual (of."
+644,STA,stative,645,"l+STAI+durative ..ADJECTIUE, DA, etc."
+645,STA,stative,646,"IF Lexical Aspect=stative  THEN Situation is a state  AND its Time Argument is a period  AND this period is unbounded  As shown here, if the lexical aspect of a predica-  tion is STA,  its grammatical aspect is  irrelevant."
+646,STA,stat,647,1 In t roduct ion   We present a STAistical method for determin-  ing pronoun anaphora.
+647,STA,stat,648,"We incorpo-  rate multiple anaphora resolution factors into  a STAistical framework - -  specifically the dis-  tance between the pronoun and the proposed  antecedent, gender/number/animaticity of the  proposed antecedent, governing head informa-  tion and noun phrase repetition."
+648,STA,stat,649,This equation is decomposed into pieces that  correspond to all the above factors but are more  STAistically manageable.
+649,STA,stat,650,"From  this data, we collect the three STAistics detailed  ha the following subsections."
+650,STA,stat,651,"In building a STAistical parser for the Penn  Tree-bank various STALstics have been collected  (Charniak, 1997), two of which are P(w~lh, t, l)  and P(w~lt , l)."
+651,FST,finite state transducer,652,"Currently, the target parsing engine is the Stuttgart  FST Tools (http://www.ims.uni-                                                   6 We have resisted the temptation to make our linguistics too  modern, since linguistic theories also have a short half-life."
+652,FST,finite state transducer,653,"This exten-  sion treats phonological features as I/O tapes for  FSTs in a parallel sequential  incrementation (PSI) architecture; phonological  processes (e.g. assimilation) are seen as variants of  an elementary unification operation over feature  tapes (linear unification phonology, LUP)."
+653,FST,finite state transducer,654,"c?2012 Association for Computational Linguistics Automated Essay Scoring Based on FST: towards ASR Transcription of Oral English Speech Xingyuan Peng?,"
+654,FST,finite state transducer,655,"In contrast, Algorithm/Model Time Acc.(%) Complexity This paper Stack Dependency Analysis (SVMs)  89.56 Stack Dependency Analysis (linear SVMs)  87.36 KM02 Cascaded Chunking (SVMs)  89.29 KM00 Backward Beam Search (SVMs)  89.09 USI99 Backward Beam Search (ME)  87.14 Seki00 Deterministic FST  77.97 Table 2: Comparison to Related Work."
+655,FST,finite state transducer,656,"720  Japanese Dependency Analysis  using a Determinist ic FST  Satosh i  Sek ine   Computer  Science Depar tment   New York University  715 Broadway, 7th floor  New York, NY 10003, USA  Abst ract   A deternfinistic finite state transducer is a fast  device fbr analyzing strings."
+656,FST,finite state transducer,657,4 Implementing Voting Constraints with FSTs  The approach described above can also be implemented by finite state transducers.
+657,FST,finite state transducer,658,A weighted FST translation template model for statistical machine translation.
+658,FST,finite state transducer,659,"The morphological component of the plat- form is a FST that makes use of the  lexicon for traversing the arcs of the diagram  (adopted, with changes, from Kemal Oflazer?s work  on Turkish morphology (Oflazer 1993)) to associate  a character string with the list of meaning contribu- tions of its morphemes."
+659,FST,finite state transducer,660,We  adopt a FST as a computing model  which governs the fundamental interpretation control.
+660,FST,finite state transducer,661,Head transducer models consist of collections of  weighted FSTs associated with  pairs of lexical items in a bilingual exicon.
+661,FST,finite state transducer,662,The Temporal Expression Tagger we have developed is based on a large coverage cascade of FSTs and our Event Tagger on a set of simple heuris- tics applied over local context in a chunked text.
+662,FST,finite state transducer,663,"He begins with FSTs, which es- sentially implement a general preference for onsets."
+663,SDI,selective dissemination,664,The European project IST ALERT: Alert sys- tem for SDI (http://www.fb9- ti.uni-duisburg.de/alert) aims to associate state- of-the-art speech recognition with audio and video segmentation and automatic topic index- ing to develop an automatic media monitoring demonstrator and evaluate it in the context of real world applications.
+664,SDI,selective dissemination,665,"A va- riety of near-term applications are possible such as audio data mining, SDI of information (News-on-Demand), media monitor- ing, content-based audio and video retrieval."
+665,SDI,selective dissemination,666,"The term can also be a variable that is used in  statist ical c lassif icat ion or clustering processes of documents (\[BLO  92\] and \[STA 95a\]), or in SDI of information, in  which it is used to bring together a document to be disseminated and  its target \[STA 93\]."
+666,SDI,sense data item,667,Why not just include in each  Key Data Item a full list of pointers to the corresponding SDIs.
+667,DL,description logic,668,"We use MERT to tune the best weights for each DL, and dmax = 10 performs the best on our dev set."
+668,DL,description logic,669,"2), unless a small DL (say, d=5) further restricts the possi- ble set of reorderings to those local ones by ruling out any long-distance reorderings that have a ?"
+669,DL,description logic,670,"Moses is shown with various DLs (0, 6, 10, +?;"
+670,DL,description logic,671,"Consistent with the theoretical anal- ysis in Section 2, Moses with no DL (dmax = +?)"
+671,DL,description logic,672,"Our linear-time incremental decoder with the small beam of size b = 10 achieves a BLEU score of 29.54, compara- ble to Moses with the optimal DL of 10 (BLEU score 29.41)."
+672,DL,description logic,673,"As a special case, phrase-based decoding with DL dmax is O(nbdmax). *:"
+673,DL,description logic,674,"with Moses at various DLs (dmax=0, 6, 10, and +?)."
+674,DL,decision list,675,"817 3 Distinguishing Mass and Count Nouns In the proposed method, DLs [13] are used to distinguish mass and count nouns."
+675,DL,decision list,676,Section 3.3 explains the method for distinguishing mass and count nouns using the DLs.
+676,DL,decision list,677,Exploring au- tomatic word sense disambiguation with DLs and the Web.
+677,DL,decision list,678,"Detecting Article Errors Based on the Mass Count Distinction 817 3 Distinguishing Mass and Count Nouns In the proposed method, DLs [13] are used to distinguish mass and count nouns."
+678,DL,decision list,679,Section 3.2 describes how to learn DLs from the training data.
+679,DL,decision list,680,"These in- clude a variety of Bayesian classifiers (Golding, 1995; Golding and Schabes, 1996), DLs (Golding, 1995) transformation-based learning (Mangu and Brill, 1997), Latent Semantic Analysis (LSA) (Jones and Martin, 1997), multiplicative weight update algorithms (Golding and Roth, 1999), and augmented mixture mod- els (Cucerzan and Yarowsky, 2002)."
+680,DL,decision list,681,"Generally, DLs are learned from a set of manually tagged training data."
+681,DL,description logics,682,"709  Text Authoring, Knowledge Acquisition and DL Marc Dymetman Xerox Research Centre Europe 6 chemin de Maupertuis 38240 Meylan email: marc.dymetman@xrce.xerox.com Abstract We present a principled approach to the problem of con- necting a controlled document authoring system with a knowledge base."
+682,DL,description logics,683,(5)In this paper we address the problem of query          answering using views for non-recursive data log            queries embedded in a DL          knowledge base.
+683,DL,description logics,684,"We have presented a formal ap- proach to closed-world authoring that shows a correspon- dence between life-death problems and conjunctive Dat- alog queries, as well as a formal approach to open-world document authoring based on DL."
+684,DL,description logics,685,"In addition, the top level part of the ontology (i.e., the Tbox in the DL terminology) is very 1http://nlp.cs.swarthmore.edu/semeval/ tasks/task10/description.shtml 248 often modified during the ontology engineering life- cycle, for example by introducing new concepts and restructuring the subclass of hierarchy according to the renewed application needs required by the evo- lution of the application domain."
+685,DL,description logics,686,In DL.
+686,DL,description logics,687,Optimising Tableaux Decision Procedures for DL.
+687,DL,description logic,688,"The DL Handbook: Theory, Implementation, and Applica- tions."
+688,DL,description logic,689,"Baader F., D. Calvanese, D. L. McGuinness, D. Nardi, P. F. Patel-Schneider (2003) The DL Hand- book : Theory, Implementation, Applications."
+689,DL,description logic,690,Polarity compositions on the nodes  2.3 Tree DL in IG  Another specification of IG is that syntactic  structures can be underspecified: these structures  are trees descriptions.
+690,DL,description logic,691,"Higher order relations and DL  Although description logics on which OIL and  RACER are based allow only binary relations, we  use OIL and Racer in a way that also allows us to  employ arbitrary n-ary relations and higher-order  relations."
+691,DL,description logic,692,"In addition, the top level part of the ontology (i.e., the Tbox in the DLs terminology) is very 1http://nlp.cs.swarthmore.edu/semeval/ tasks/task10/description.shtml 248 often modified during the ontology engineering life- cycle, for example by introducing new concepts and restructuring the subclass of hierarchy according to the renewed application needs required by the evo- lution of the application domain."
+692,DL,description logic,693,"The two KBs codify, in DL (Baader et al, 2003), assertions and concepts relevant for a given game scenario."
+693,ORIG,origin,694,"A derivation in OT consists of an ORIGal candidate  set produced by a \[unction called GI,;N, and the subsequent  application of constraints o reduce tile candidate set, elimi-  nating non-optimal candidates and I)reserving those with  Ihe greatest harmony."
+694,ORIG,origin,695,"Similarly, at lexical level, words of foreign ORIG  are used to form multi-word terms (e.g. redun- dantan atribut (Engl."
+695,ORIG,origin,696,"For  example, at morphological level, foreign suffixes,  mostly ORIGating from Latin and Greek, are of- ten ?"
+696,ORIG,origin,697,"We subsumed the information in the ORIGal mor- phological tags in order to have the minimal number of categories needed for our task, listed in Table 1.2 In order to further reduce the number of features in a linguistically principled way, we took phrase boundaries into account: All words beyond a POS considered to be a phrase boundary marker (see Ta- ble 1) were assigned the tag empty."
+697,ORIG,origin,698,"This classification was ORIGally devised for sys- tems using an external ontology (so that semantic representations are directly linked to concepts in the ontology), but it is also suitable for broader settings, as we argue in the rest of the Section."
+698,ORIG,origin,699,We  compiled a large corpus of text (News stories) and  made a second smaller corpus from the ORIGal one  which contains only sentences which are relevant to  the IE task.
+699,ORIG,origin,700,ORIG?
+700,ORIG,origin,701,"In Annals of the New York Academy  of Sciences: Conferences on the ORIG and Devel- opment of Language and Speech, Volume 280: 20- 32."
+701,ORIG,origin,702,"Annals of the New York Academy of Sciences: Conference on the ORIG and Develop- ment of Language and Speech, 280:20?32."
+702,ORIG,origin,703,This should be taken with a grain Baseline ORIGal Query Hybrid Tot Good Top 5 Tot Good Top 5 Tot Good Top 5 Poe 12 6.5 3 10 0.5 0.5 10 5.5 2.5 Romantics 10 0 0 15 0 0 10 3 3 Witch Hunts 10 8 3 14 2 1 10 8 5 US Wars 15 12 2 0 0 0 16 13 4 Sonnets 15 10 5 10 2 0 10 8 4 Presidents 15 2 2 15 0 0 15 2 2 Epics 10 7 4 10 5 3 10 7 4 Dec of Ind 10 2 0 0 0 0 10 5.5 2 Avr.
+703,ORIG,origin,704,"In Proceed- ings of the Fourteenth International Conference Baseline ORIGal Query Hybrid FPF FPF/Tot FPF FPF/Tot FPF FPF/Tot Poe 1 .08 1 .1 1 .1 Romantics 8 .8 15 1 2 .2 Witch Hunts 2 .2 1 .07 0 0 US Wars 3 .2 3 .19 Sonnets 5 .33 8 .8 2 .2 Presidents 5 .33 10 .67 2 .13 Epics 0 0 0 0 0 0 Dec of Ind 3 .3 2 .2 28.1% 44% 12.8% Table 4: False Positives Containing Figure on Computational Linguistics, Nantes, France, July."
+704,ORIG,origin,705,Table 2 shows the word error rate (WER) 115 Source of alternates WER ORIGal closed-captions 5.8% Phoneme confusion matrix 4.4% Word confusion matrix 3.1% Combined 2.9% Table 2: Error rate for perfect correction.
+705,ORIG,origin,706,"ORIGal form in source:  Where there is a source  for the entity or for some canonical form of the entity,  the original form is given."
+706,UK,university of sheffield,707,We will be describing a project with  partners including the UK and  the Assistive Technology team at Barnsley District  General Hospital.
+707,UK,university of sheffield,708,"8  The Web as a Baseline: Evaluating the Performance of Unsupervised Web-based Models for a Range of NLP Tasks Mirella Lapata Department of Computer Science UK 211 Portobello St., Sheffield S1 4DP mlap@dcs.shef.ac.uk Frank Keller School of Informatics University of Edinburgh 2 Buccleuch Pl.,"
+708,UK,university of sheffield,709,"c?2013 Association for Computational Linguistics A temporal model of text periodicities using Gaussian Processes Daniel Preot?iuc-Pietro, Trevor Cohn Department of Computer Science UK Regent Court, 211 Portobello Street Sheffield, S1 4DP, United Kingdom {daniel,t.cohn}@dcs.shef.ac.uk Abstract Temporal variations of text are usually ig- nored in NLP applications."
+709,UK,university of sheffield,710,"of  Computer Science, UK."
+710,UK,university of sheffield,711,"c?2013 Association for Computational Linguistics DALE: A Word Sense Disambiguation System for Biomedical Documents Trained using Automatically Labeled Examples Judita Preiss and Mark Stevenson Department of Computer Science, UK Regent Court, 211 Portobello Sheffield S1 4DP, United Kingdom j.preiss,m.stevenson@dcs.shef.ac.uk Abstract Automatic interpretation of documents is hampered by the fact that language contains terms which have multiple meanings."
+711,UK,university of sheffield,712,UK Introduction The title of this piece refers to Newton?s only known modest remark: ?
+712,UK,university,713,"Phi)  thesis, UK of I{dinburgh."
+713,UK,university,714,"School of ECE, Technical UK of Crete, Chania 73100, Greece ?"
+714,UK,university,715,"Ph.D. thesis, UK of Illinois at Urbana-Champaign."
+715,UK,university,716,.ambridge UK Press.
+716,UK,university,717,"of Computer Science,  Brown UK,  \[nge I j th \[ ec\] ~cs."
+717,UK,university,718,"Tech-  nical Rcl)ort 2, Center \['or Cognitive Science, Rutgcrs  UK."
+718,UK,university of manchester,719,"16  Advances in domain independent linear text segmentat ion  Freddy Y. Y.  Cho i   Artificial Intell igence Group  Department  of Computer  Science  UK  Manchester,  England  choif@cs.man.ac.uk  Abst rac t   This paper describes a method for linear text seg-  mentation which is twice as accurate and over seven  times as fast as the state-of-the-art (Reynar, 1998)."
+719,UK,university of manchester,720,"c?2006 Association for Computational Linguistics Extremely Lexicalized Models for Accurate and Fast HPSG Parsing Takashi Ninomiya Information Technology Center University of Tokyo Takuya Matsuzaki Department of Computer Science University of Tokyo Yoshimasa Tsuruoka School of Informatics UK Yusuke Miyao Department of Computer Science University of Tokyo Jun?ichi Tsujii Department of Computer Science, University of Tokyo School of Informatics, UK SORST, Japan Science and Technology Agency Hongo 7-3-1, Bunkyo-ku, Tokyo, 113-0033, Japan {ninomi, matuzaki, tsuruoka, yusuke, tsujii}@is.s.u-tokyo.ac.jp Abstract This paper describes an extremel"
+720,UK,university of manchester,721,c?2005 Association for Computational Linguistics Chunk Parsing Revisited Yoshimasa Tsuruoka 
+721,UK,university of manchester,722,"d Models for Accurate and Fast HPSG Parsing Takashi Ninomiya Information Technology Center University of Tokyo Takuya Matsuzaki Department of Computer Science University of Tokyo Yoshimasa Tsuruoka School of Informatics UK Yusuke Miyao Department of Computer Science University of Tokyo Jun?ichi Tsujii Department of Computer Science, University of Tokyo School of Informatics, UK SORST, Japan Science and Technology Agency Hongo 7-3-1, Bunkyo-ku, Tokyo, 113-0033, Japan {ninomi, matuzaki, tsuruoka, yusuke, tsujii}@is.s.u-tokyo.ac.jp Abstract This paper describes an extremely lexi- calized probabilistic model for fast and accurate HPSG parsing."
+722,UK,university of manchester,723,"168  The FINITE STRING Newslet ter   S i te  Repor t   Control l ing Complex  Systems of Linguistic  Rules  Rod Johnson  UK Institute of Science and  Technology, U.K.  Steven Krauwer  Rijksuniversiteit, Utrecht, Holland  Mike Rosner  Fondazione dalle Molle, ISSCO, University of Geneva,  Switzerland  Nino Varile  Commission of the European Communities,  Luxembourg  \[Most of the ideas in this paper evolved during work  on design studies for the EEC Machine Translation  Project Eurotra."
+723,UK,university of manchester,724,"Master's Thesis, UK (1981)."
+724,UK,university of sunderland,725,"Practical Considerations in Building a Multi-Lingual Authoring System for  Business Letters  John Tait, Huw Sanderson  School of Computing +Information Systems  UK  Sunderland SR6 ODD, U.K.  {John."
+725,UK,university of sunderland,726,"thesis, UK."
+726,UK,university of sunderland,727,"Ph.D. thesis, UK."
+727,UK,university of sunderland,728,"241  Selforganizing classification on the Reuters news corpus    Stefan Wermter  The Informatics Centre   School of CET  UK  St. Peter?s Way, Sunderland SR6 0DD   United Kingdom  Stefan.wermter@sunderland.ac.uk  Chihli Hung1  The Informatics Centre   School of CET  UK  St. Peter?s Way, Sunderland SR6 0DD   United Kingdom  Chihli.hung@sunderland.ac.uk                                                           1 Hung is a lecturer of De Lin Institute of Technology as well."
+728,UK,university of oxford,729,"12  D-70174 Stuttgart  Germany  Psychology  UK  South Parks Road  Oxford OX1 3UD  England  University of Edinburgh  2 Buccleuch Place  Edinburgh EH8 9LW  Scotland  {vogel,holly,ueh}~cogsci.ed.ac.uk  Abstract  Cross-serial dependencies in Dutdl  and  Swiss-German are the only known extra-  context fi'ee natural language syntactic  phenonmna."
+729,UK,university of oxford,730,"c?2014 Association for Computational Linguistics Monads as a Solution for Generalized Opacity Gianluca Giorgolo UK Ash Asudeh UK and Carleton University {gianluca.giorgolo,ash.asudeh}@ling-phil.ox.ac.uk Abstract In this paper we discuss a conservative ex- tension of the simply-typed lambda calcu- lus in order to model a class of expres- sions that generalize the notion of opaque contexts."
+730,UK,university of oxford,731,"S. G. Pulman, J. Boye UK sgp@clg.ox.ac.uk M. Cavazza, C. Smith Teesside University m.o.cavazza@tees.ac.uk R. S. de la Ca?mara Telefonica I+D e.rsai@tid.es Abstract We describe a ?"
+731,UK,university of oxford,732,c?2016 Association for Computational Linguistics Cross-Lingual Morphological Tagging for Low-Resource Languages Jan Buys Department of Computer Science UK jan.buys@cs.ox.ac.uk Jan A. Botha Google Inc. London jabot@google.com Abstract Morphologically rich languages often lack the annotated linguistic resources required to develop accurate natural language pro- cessing tools.
+732,UK,university of oxford,733,"published for the TEI Consortium by Hu- manities Computing Unit, UK."
+733,TAGs,tree adjoining grammars,734,"4.3 TAGs The construction that allows to handle the tree adjoining grammars of Joshi (Joshi and Schabes, 1997) may be seen as a generalization of the con- struction that we have described for the context- free grammars."
+734,TAGs,tree adjoining grammars,735,TAGs: How much contextsensitivity is required ro provide reasonable structural descriptions?
+735,TAGs,tree adjoining grammars,736,TAGs.
+736,TAGs,tree adjoining grammars,737,"TAGs (Joshi and Levy, 1977) can also be viewed as a special kind of LCFRS with f = 2, since each auxil- iary tree generates two strings, and with r given by the maximum number of adjunction and sub- stitution sites in an elementary tree."
+737,TAGs,tree adjoining grammars,738,"TAGs (Joshi and Levy, 1977), or TAG for short, can be viewed as a special kind of LCFRS with f = 2, since each elementary tree generates two strings, and r given by the maximum number of adjunction sites in an elementary tree."
+738,TAGs,tree adjoining grammars,739,How much context sensi- tivity is necessary for characterizing structural de- scriptions: TAGs.
+739,TAGs,tree adjoining grammars,740,"In Gardent, C. and A. Sarkar, editors, Proceedings of the 9th In- ternational Workshop on TAGs and Related Formalisms (TAG+?08), pages 141?"
+740,TAGs,tree adjoining grammars,741,In Proceedings of the 9th International Workshop on TAGs and Related For- malisms.
+741,TAGs,tree adjoining grammars,742,Feature Struc- tures Based TAGs.
+742,TAGs,tree adjoining grammars,743,"rkar, editors, Proceedings of the 9th In- ternational Workshop on TAGs and Related Formalisms (TAG+?08), pages 141?"
+743,TAGs,tree adjoining grammars,744,"In Proceedings of the 6th In- ternational Workshop on TAGs and Related Frameworks (TAG+ 6), pages 19?24."
+744,SVR,support vector regression,745,"The methodology works as follows: given a set of topics (including intruder words), we compute the word association features for each of the top- N topic words of a topic, 3 and combine the fea- tures in a ranking SVR model (SVM rank : Joachims (2006)) to learn the intruder words."
+745,SVR,support vector regression,746,We use SVR implemented in the SVMLight toolkit 10 with Radial Basis Function (RBF) kernel to build this baseline.
+746,SVR,support vector regression,747,A tutorial on SVR.
+747,SVR,support vector regression,748,We  propose to use the SVR  model to achieve this goal.
+748,SVR,support vector regression,749,Shrinking the tube: a new SVR algorithm.
+749,SVR,support vector regression,750,Extractive Multi- Document Summarization with Integer Linear Pro- gramming and SVR.
+750,SVR,support vector regression,751,"719 3.4 Other Baselines We train a SVR model (see Section 4), which is one of the most widely used approaches in text scoring."
+751,SVR,support vector regression,752,"We find that our manifold ranking approach outperforms several state-of-the- art learning baselines on this task, including trans- ductive SVR."
+752,SVR,support vector regression,753,Extractive multi-document summarization with ILP and SVR.
+753,SVR,support vector regression,754,Accurate Online SVR.
+754,AE,auto epistemic,755,A Hierarchic AE  Logic.
+755,AE,auto epistemic,756,"sssss???sssss,  Figure 1: A Hierarchic AE Theory  Hearer's beliefs as a consequence of the speech act:  in AI:  ^ (13)  -~L0--\[h/\]~b ^ ~Zo\[hy\]',\[Sl\]?~ ^  ""~Lo\[hy\]""{si}\[hy\]~) D \[h/l~b  The asymmetry between Axioms 12 and 13 is a  consequence of the fact that a speech act has dif-  ferent effects on the speaker's and hearer's mental  states."
+756,AE,answer extraction,757,AE as Se- quence Tagging with Tree Edit Distance.
+757,AE,answer extraction,758,"3.3 Personalized QA Algorithm The interaction between the UM component and the core QA component modifies the standard QA process at the AE phase, which is modified as follows: 3 The TF ?"
+758,AE,answer extraction,759,"Diego Molla, Rolf Schwitter, Michael Hess, Rachel Fournier, 2000, Extrans, an AE System, Traitement Automatique des Langues, Hermes Science Publication, 41-2, 495-522."
+759,AE,answer extraction,760,"Where Q and T are sets of the bag-of-words  for the question relation and the triple relation  respectively, Lin(a,b) is a measure for the seman- tic similarity between a and b based on WordNet  (Lin, 1998), and L(x) is the number of elements  in the set x.  The AE: this component first  filters out the triples mismatching the expected  answer type."
+760,AE,answer extraction,761,AE as Sequence Tagging with Tree Edit Distance.
+761,AE,answer extraction,762,AE: 1.
+762,NG,noun group,763,"When analysing the corresponding NG, the  case frame for the head noun ""liquid"" is used at first."
+763,NG,noun group,764,"The semanl;i(:al analysis of a sentence is based on its head  verb, while the analysis of a NG is be based on the  head noun and also on adjective descriptors, genitive deter-  miners and preposit ional phrases."
+764,NG,noun group,765,"The  constraint of the NG (being a physical object) is full-  filled, thus the analysis proceeds."
+765,NG,noun group,766,67 Set Comment Size IN  The inflection set for NG.
+766,NG,noun group,767,40  IP The inflection set for proNG.
+767,NG,noun group,768,"In natural anguages, propositions  can be expressed not only by sentences, but also by other  syntactic structures uch as NGs, infinitive phrases  and embedded sentences."
+768,NG,noun group,769,The prepositional phrase of the NG is analysed by  first selecting the case frame for the
+769,NG,null grammar,770,"1 MOTIVAT ION  In recent DARPA speech community-wide r cognition  system evaluations, the recognition systems have been  tested using two grammatical conditions: no grammar  (or NG), and the word-pair grammar."
+770,NG,null grammar,771,The word accuracies for various versions of  SPHINX with the word-pair grammar (perplexity 60) and  the NG (perplexity 991) are shown in Table 1.
+771,NG,null grammar,772,"The NG provides ""only a worst -case  recognit ion test point"", whi le  the word-pa i r  grammar not only  excludes ""many reasonable word sequences"", but the use of the word-  pair  grammar y ie lds such high recognit ion per formance that re l iable  measurement  of system improvements (i.e. s tat is t ica l ly  s igni f icant   inferences of improvements) cannot be obtained wi thout  use of"
+772,NG,null grammar,773,The NG simply forces the recognition sys-  tem to partition the input speech into whole-word units  without using any knowledge of the language to place  restrictions on the possible sequences of words that are  allowed.
+773,NG,null grammar,774,"Therefore, even in  a NG there is a great deal of a priori knowledge  being brought to bear."
+774,NG,null grammar,775,"For example, we could use  a NG in the forward direction and a more com-  plex grammar in the backward search."
+775,NG,ngrams,776,Each instance is con- verted into a feature vector where the features are  10 NG (unigrams or bigrams) and each cell is  the frequency of occurrence of a unigram or bi- gram or the log-likelihood of a bigram occurring in that particular instance after applying a feature selection method.
+776,NG,ngrams,777,"These features can be broken into four categories: NG: Ngrams of order to 1 to 3, found via Hap- pierFunTokenizer, and restricted to those used by at least 5% of users (resulting in 10,450 NG)."
+777,NG,ngrams,778,"4 Differential Language Analysis Figure 4 shows the 100 NG most highly cor- related with depression score across the 21,913 Facebook users in our dataset writing at least 1,000 words."
+778,NG,ngrams,779,"This provides a continuous value outcome, for which we fit a regression model based on NG, LDA topics, and lexica usage."
+779,NG,ngrams,780,"It  offers a variety of lexical features (NG, col- locations, etc.)"
+780,NG,noun group,781,"ence has been identified by the  parser, so that also the underlying dependency relations (valency positions) of  the complementations (to the governing verb) are known, the verb and all the  complementations are first assumed to be NB, i.e., to belong to the focus,  which we denote by f.  (b) If the verb occupies the rightmost position in the sentence and its subject is  (ba) definite (including NG with this, with oneofthe, etc.),"
+781,NG,noun group,782,"5 The tools can be used to acquire non-clausal patterns as well, e.g. patterns for NG and complex noun phrases, to extend an existing pattern library."
+782,NG,noun group,783,"In natural anguages, propositions  can be expressed not only by sentences, but also by other  syntactic structures uch as NG, infinitive phrases  and embedded sentences."
+783,NG,noun group,784,"Thus,  the semantic domain for NG is \[C-~S\]."
+784,NG,noun group,785,"Above all, this  concerns the following points in which a more general procedure could be formulated:  (i) The procedure should also take into account deeper embedded sentence parts  (embedded verb clauses, modifiers in NG, etc.)."
+785,NG,noun group,786,"5.3 Case markers Turkish, being a fairly scrambling language, uses case markers to denote the syntactic functions of nouns and NG."
+786,RM,reparandum,787,"RM uh, I mean, ? ?? ?"
+787,RM,reparandum,788,Words with italic font are RMs.
+788,RM,reparandum,789,RM uh ????
+789,RM,reparandum,790,"Second, hu- man processing of spoken language is complex and mixes acoustic and syntactic indicators (Cutler et al, 1997), so an automatic system must employ fea- tures targeting all levels of the perceptual stack to in  the    upper     school                          upper  four   grades  Fluent Fluent Disfluent  RM  Repair   Figure 1: Example of a disfluency where the speaker corrected upper school."
+790,RM,reparandum,791,"RM + uh, I mean, ? ?? ?"
+791,RM,reparandum,792,RM : what precedes the interruption point.
+792,RM,resource management,793,Many tests on the RM task were  performed with both context-independent (CI) PLUs (set size = 47) and context-dependent (CD)  PLUs (set sizes range from 638 to 2340).
+793,RM,resource management,794,"Murveit, H., J. Butzberger, and M. Weintraub,""Speech  Recognition in SRI's RM and ATIS  Systems,"" Proc."
+794,RM,resource management,795,"Lee discussed CMU's present progress,  including the use of semi-continuous hidden Markov models (SCHMMs) applied to the 1000-  word speaker-independent RM continuous peech recognition task."
+795,RM,resource management,796,"Lee discussed CMU's present progress,  including the use of semi-continuous hidden Markov models (SCHMMs) applied to the 1000-  word speaker-independent RM continuous peech recognition ta"
+796,RM,resource management,797,"Although not all of these methods have yet been combined  into one system, the error rate on the May 1988 RM test set (using word-pair  grammar) has been halved."
+797,RM,resource management,798,"Encouraging test results were obtained using  RM speech data where ""new"" words were created simply by removing a  subset of in-vocabulary words from the standard system lexicon."
+798,RM,resource management,799,"H. Murveit, J. Butzberger, and M. Weintraub, ""Speech  Recognition in SRI's RM and ATIS  Systems,"" 1991 DARPA Speech and Natural Language  Workshop, pp."
+799,RM,restricted memory,800,"% correct)  CBL Default i ~ -   Algorithm Strategy Heuristics  w/o  feature  set selection  76.2 74.3 80.5  In the sections below, we describe the recency  bias, the RM bias, and the subject  accessibility bias in turn."
+800,RM,restricted memory,801,"Our baseline case representation does not nec-  essarily make use of this RM bias,  however."
+801,RM,restricted memory,802,"In addition, the RM bias  alon"
+802,RM,restricted memory,803,"117  Thus far, we have incorporated three such bi-  ases into the feature set selection algorithm: (1) a  recency bias, (2) a RM bias, and (3)  a subject accessibility bias."
+803,RM,restricted memory,804,"Unfortunately, incorporat-  ing the RM limitations into the case  representation is problematic."
+804,RM,restricted memory,805,"To apply the RM bias to the  baseline case representation, we let n represent the  memory limit and, in each of five runs, set n to one  of five, six, seven, eight, or nine."
+805,RM,restricted memory,806,"ately, incorporat-  ing the RM limitations into the case  representation is problematic."
+806,RM,restricted memory,807,"In addition, the RM bias  alone does not state which chunks, or features, to  keep and which to discard."
+807,COG,cognition,808,"We used two approaches for identifying story characters motivated by (Elson and McKeown, 2010): 1) named entity reCOG was used for identifying proper names, e.g., ?"
+808,COG,cognition,809,Unsupervised personality reCOG for social network sites.
+809,COG,cognition,810,3) We employed IE methods (including pattern sets  and Named Entity ReCOG) as initial extraction  steps.
+810,COG,cognition,811,"This includes (i) tokenization, (ii) sen- tence splitting and identification of paragraph boundaries, (iii) part-of-speech (POS) tagging, (iv) lemmatization, (v) named entity reCOG, (vi) dependency parsing, and (vii) co-reference analysis."
+811,COG,cognition,812,"Two broad approaches for the iden- tification of story characters were followed: (i) named entity reCOG, and (ii) identification of character nominals, e.g., ?"
+812,COG,cognition,813,"The approach incorporates a set of ge- neric morpho-syntactic filters for recogni- tion of term candidates, a method for  conflation of morphological variants and  a module for foreign word reCOG."
+813,COG,cognitio,814,"We used two approaches for identifying story characters motivated by (Elson and McKeown, 2010): 1) named entity reCOGn was used for identifying proper names, e.g., ?"
+814,COG,cognitio,815,Unsupervised personality reCOGn for social network sites.
+815,COG,cognitio,816,3) We employed IE methods (including pattern sets  and Named Entity ReCOGn) as initial extraction  steps.
+816,COG,cognitio,817,"This includes (i) tokenization, (ii) sen- tence splitting and identification of paragraph boundaries, (iii) part-of-speech (POS) tagging, (iv) lemmatization, (v) named entity reCOGn, (vi) dependency parsing, and (vii) co-reference analysis."
+817,COG,cognitio,818,"Two broad approaches for the iden- tification of story characters were followed: (i) named entity reCOGn, and (ii) identification of character nominals, e.g., ?"
+818,COG,cognitio,819,"The approach incorporates a set of ge- neric morpho-syntactic filters for recogni- tion of term candidates, a method for  conflation of morphological variants and  a module for foreign word reCOGn."
+819,ADD,atr dialogue databas,820,ADDe.
+820,ADD,additive,821,"Activation by pRb and c-Myc is not ADD, suggesting that they act upon the same site, thereby perhaps blocking the binding of an unidentified inhibitor."
+821,ADD,additive,822,One of the main facts of interaction M4 (Ta- ble 1) is Activation by pRb and c-Myc is not ADD . . .
+822,ADD,additive,823,"Moreover,  this deviation cannot be remedied later by sum- ming up individual termhoods, since C-value is  not an ADD measure."
+823,ADD,additive,824,the positive effects of RB and c-Myc were not ADD. (
+824,ADD,additive,825,"M4 Subfact: Activation of E-cadherin by pRb and c-Myc is not ADD, suggesting they act on the same site a) However, the precise molecular mechanisms by which RB, Myc, and AP-2 cooperate to effect transcriptional activation of E-cadherin requires further study. . . ."
+825,ADD,additive,826,"An instance supporting part of this fact, the subfact in Table 2 Activation of E-cadherin by pRb and c- Myc is not ADD . . . ,"
+826,ADD,additive,827,Sparse ADD generative models of text.
+827,ADD,added,828,relevant nodes (m=5 for our reported experiment) and  ADD them to the previous set of WordNet nodes.
+828,ADD,added,829,"As before, the harmonic vahlations arc ADD during con-  catenation."
+829,ADD,added,830,"We present some experiments il-  lustrating the accuracy of the method and note  that with this information ADD, our pronoun  resolution method achieves 84.2% accuracy."
+830,ADD,added,831,"As a measure of the utility of these results, we  also ran our pronoun-anaphora program with  these statistics ADD."
+831,ADD,added,832,"If ally of  them point to states with undelined Imrtnony values, tile  harlnony of the state being expanded, and o1' tile arc, are  used to calculate the lmtumny value of tile {}tiler state and  it is ADD to the list."
+832,ADD,added,833,We see a significant improvement after the  word knowledge is ADD to the program.
+833,MSA,modern standard arabic,834,"Recent reports by (Nivre, 2007) delineated a class of richly-inflected languages with relatively free word-order (including Greek, Basque, and MSA) for which the parsers performed poorly, regardless of the parsing method used."
+834,MSA,modern standard arabic,835,Quantitative ap- proaches to analyzing COME constructions in  MSA.
+835,MSA,modern standard arabic,836,"c?2014 Association for Computational Linguistics Annotating corpus data for a quantitative, constructional analysis of  motion verbs in MSA     Dana Abdulrahim  University of Bahrain  darahim@uob.edu.bh         Abstract  This article proposes an annotation method of corpus  data for the purposes of providing a constructionist  account of lexical behavior."
+836,MSA,modern standard arabic,837,"In MSA, the existence of  several verbs denoting the motion events COME  (at?, ???"
+837,MSA,modern standard arabic,838,A corpus study of basic  motion events in MSA.
+838,MSA,modern standard arabic,839,"However, a closer examination of the length difference evident through the BLEU brevity penalty and the reference:system-output length ra- tio (columns 4-5 of Table 2), reveals that the dif- ferences are small and inconsistent; on average, the brevity penalty difference accounts for roughly 0.1 absolute BLEU points and 0.2 absolute lemmatized BLEU points of the respective differences.7 Last, MSA is a morphologi- cally rich language: It has many inflected forms for most verbs, and several inflected forms for nouns, adjectives and other parts of speech ?"
+839,MSA,morphosyntactic analyzers,840,PROMT parsers are rule-based multi-level  MSA.
+840,MSA,morphosyntactic analyzers,841,PROMT uses  MSA to analyze the source  sentence and transfer rules to translate the sentence  345 into the target language.
+841,MSA,morphosyntactic analyzers,842,"However, the flexible sys- tem architecture also allows us to experiment with different MSA, such as TextMorfo (Kielikone Oy 1999) and Conexor FDG (Conexor Oy 1997-2000), and we plan to run them in parallel as separate competing agents to test and compare their applicability as well as the Jaspis architecture in the given task."
+842,MSA,morphosyntactic analyzers,843,"Un- like language analysis, for which different ex- isting Finnish MSA can be used, there are no readily available general- purpose Finnish language generators."
+843,Q&A,question  answering,844,QA systems have been evaluated at TREC QA-Track1 in U.S. and QAC (Q&A Challenge)2 in Japan.
+844,Q&A,question  answering,845,WordNet has been widely criticised for being a sense repository that often offers too fine?grained sense distinctions for higher level applications like Machine Translation or Q&A.
+845,Q&A,question  answering,846,"Therefore, Short Message Service (SMS) is a  better way for giving knowledge service, espe- cially automatic interchange of short text mes- sages, by providing the information from an  automatic Q&A System."
+846,Q&A,question  answering,847,"Issues, Tasks and Program Structures to Roadmap Research in Q&A."
+847,Q&A,question  answering,848,"But, WordNet (WN) has been widely criticized for being a sense repository that often provides too fine?grained sense distinctions for higher level applications like Machine Translation or Q&A."
+848,Q&A,question answerin,849,The tasks set in these conferences have molded a specific kind of Q&Ag that is easy to evaluate and that focuses on the use of fast and shallow methods that are generally independent of the application domain.
+849,Q&A,question answerin,850,A main characteristic of Q&Ag in restricted domains is the integration of domain-specific information that is either developed for Q&Ag or that has been developed for other purposes.
+850,Q&A,question answerin,851,A main characteristic of Q&Ag in restricted domains is the integration of domain-specific information that is either developed for Q&Ag or that has been developed for other pur
+851,Q&A,question answerin,852,article is on the use of restricted domains for automated Q&Ag.
+852,Q&A,question answerin,853,"From this perspective, Q&Ag focuses on finding text excerpts that contain the answer within large collections of documents."
+853,Q&A,question answerin,854,The focus of this article is on the use of restricted domains for automated Q&Ag.
+854,Q&A,question answerin,855,"University of Alicante, Spain Automated Q&Ag has been a topic of research and development since the earliest AI applications."
+855,Q&A,question answerin,856,"The setting is also appropriate for cases that may require making  global decisions that involve multiple components, possibly pre-designed or pre- learned, as in summarization, paraphrasing, textual entailment and Q&Ag."
+856,Q&A,question answer,857,The tasks set in these conferences have molded a specific kind of Q&Aing that is easy to evaluate and that focuses on the use of fast and shallow methods that are generally independent of the application domain.
+857,Q&A,question answer,858,A main characteristic of Q&Aing in restricted domains is the integration of domain-specific information that is either developed for Q&Aing or that has been developed for other purposes.
+858,Q&A,question answer,859,A main characteristic of Q&Aing in restricted domains is the integration of domain-specific information that is either developed for Q&Aing or that has been developed for other pur
+859,Q&A,question answer,860,article is on the use of restricted domains for automated Q&Aing.
+860,Q&A,question answer,861,"From this perspective, Q&Aing focuses on finding text excerpts that contain the answer within large collections of documents."
+861,Q&A,question answer,862,The focus of this article is on the use of restricted domains for automated Q&Aing.
+862,Q&A,question answer,863,"University of Alicante, Spain Automated Q&Aing has been a topic of research and development since the earliest AI applications."
+863,Q&A,question answer,864,"The setting is also appropriate for cases that may require making  global decisions that involve multiple components, possibly pre-designed or pre- learned, as in summarization, paraphrasing, textual entailment and Q&Aing."
+864,CB,ui,865,"""sCBt\] SUr Ile~ert, 2)   \] G_N_.~( ~unphot rca, i t er  ~ n ~ I ,mval;ur ore!mr1 t ~ 2 )  G_N_V(mvvsucwr.entm,I 1~ ub~,;~ i n .2 )   G. N. V{ meac, ur e~r.er, t ,  n ~. ~., ShO..,, ~ )  .~: G_N.H(&Cr.~e?.fc3ounCier',nl t~measur'onmn~;3)  G.H.H(pntltnna, n|  1 ~aea~'~.ent ,  3)  :~' G. N,."
+865,CB,ui,866,"Juyup Sung, Jae-Gil Lee, and CBchin Lee."
+866,CB,ui,867,"The HITs for the following languages were posted for a week and were never completed: Tigrinya, CBghur, Tibetan, Kyrgyz, and Kazakh."
+867,CB,ui,868,"Instead of computing the proba-  bCBty for each one of them we group them into  ""buckets"", so that rrt a iS the bucket for the num-  ber of times that a is mentioned."
+868,CB,ui,869,Each word can thus be represented as a 108 Tigrinya 36 Punjabi 401 Kyrgyz 492 Somali 585 Nepali 1293 Tibetan 1358 CBghur 1814 Maltese 1896 Turkmen 3137 Kazakh 3470 Mongolian 4009 Tatar 4180 Kurdish 5059 Uzbek 5875 Kapampangan 6827 Urdu 7674 Irish 9859 Azeri 12568 Tamil 13470 Albanian 13714 Afrikaans 14315 Hindi 14824 Bangla 16026 Tagalog 17757 Latvian 22737 Bosnian 23144 Welsh 25292 Latin 31195 Basque 38594 Thai 40182 Farsi 58651 Bulgarian 68446 Serbian 71018 Indonesian 73962 Slovak 76421 Korean 84385 Turkish
+869,CB,ui,870,"CBth  progress in automatic classification, another possibility  is being explored, that of creating new information rather  than merely gathering, maintaining or distributing the  results of human intellectual activities."
+870,CB,carpetbagger,871,"We selected three blog sites from this dataset: the Right Wing News (right-ideology) ; the CBr, and Daily Kos as representatives 1144 palest inian is raeli peace year  polit ical  proces s   state  end  rig ht   g overnment  need  conflict way s ecurit y palest inian is raeli Peace polit ical  occupation  proces s end  s ecurit y   conflict   way  g overnment   people t ime year force  neg ot iation bush US pres ident  american sharon administ ration prime  s ett lem ent  pres"
+871,CB,carpetbagger,872,"We selected three blog sites from this dataset: the Right Wing News (right-ideology) ; the CB, and Daily Kos as representatives 1144 palest inian is raeli peace year  polit ical  proces s   state  end  rig ht   g overnment  need  conflict way s ecurit y palest inian is raeli Peace polit ical  occupation  proces s end  s ecurit y   conflict   way  g overnment   people t ime year force  neg ot iation bush US pres ident  american sharon administ ration prime  s ett lem ent  pres"
+872,MF,middle field,873,"syntactically inte- grated in the sentence, i.e. located in the MF of a sentence."
+873,MF,middle field,874,"last cl .... \] == \[first: \[verbal_modifi~r \] l \[v~rb  L rest \[ verb_last_claus~ 11\]j  V  first: \[finite verb \] 1 est : \[nil \]  \[forefield \] == \[verbal modifier \]  \[MF and rest fields \] ==  - \[first: \[verhe~ modifier \] _7  L rest : \[middJe field and rest fields J v  \[nil \]  v  f irst:\[nonfini ..... b \] 1 est : \[after field \]  \[after field \] == \[niJ \]  V  r first : \[ verbal modifier 1  est : \[after field \]  \[verbal modifier \] == \[complement \]  V \[adjunct \] ""  The f irst def in i t ion  in (i0) descr ibes   the fact that a clau"
+874,MF,middle field,875,"of the MF (middle), and the el-  ement of the initial field cannot be a relative  phrase (o~nore l  in \[4\])."
+875,MF,middle field,876,"of the  MF, with no restrictions for the initial  field (relative clauses and non-relative verb-final  clauses are subordinated to the noun and con-  junction, resp.)"
+876,MF,middle field,877,Orderings in the MF.
+877,MF,middle field,878,"5 The German Clause  Traditionally, the German main clause is de-  scribed using three topological fields; the ini-  tial and MFs are separated by the fi-  nite (auxiliary) verb, and the middle and the  5The modality O~ can be viewed as an abbreviation  of o~ O~,  composed of a mapping from a word to its ith  order domain and from that domain to all its elements."
+878,MF,mean field,879,A Generalized  MF Algorithm for Variational Inference in  Exponential Families.
+879,MF,mean field,880,"2.1 MF Approximation Methods The simplest example of a variation method is the mean field method, originally introduced in statis- tical mechanics and later applied to unsupervised neural networks in (Hinton et al, 1995)."
+880,MF,mean field,881,"3 Spin Model and MF Approximation We give a brief introduction to the spin model and the mean field approximation, which are well- studied subjects both in the statistical mechanics and the machine learning communities (Geman and Geman, 1984; Inoue and Carlucci, 2001; Mackay, 2003)."
+881,MF,mean field,882,Structured MF ?
+882,MF,mean field,883,"3.3 A MF Approximation This section proposes a more accurate way to ap- proximate ISBNs with mean field methods, which we will call the mean field approximation."
+883,MF,mean field,884,MF ?
+884,LVM,latent variable model,885,"Marginalization of hidden structure is also funda- mental to other work, and featured most prominently in generative Bayesian LVMs (Teh et al2006)."
+885,LVM,latent variable model,886,A LVM for geographic lexical variation.
+886,LVM,latent variable model,887,Posterior regularization for structured LVMs.
+887,LVM,latent variable model,888,"In recent years, great research has shown the strength of LVMs for natural lan- guage processing (Blunsom et al, 2008)."
+888,LVM,latent variable model,889,A discrimi- native LVM for statistical machine trans- lation.
+889,LVM,latent variable model,890,A LVM for geo- graphic lexical variation.
+890,LVM,latent variable method,891,"Finally, our focus on these methods is justified by their clear advantages over other classes of models: unlike token-based or LVMs, they are much simpler and require no parameter tuning."
+891,LVM,latent variable method,892,"However, we have to note that this accuracy of the proposed method was computed using the unlabeled data classified by the LVM."
+892,LVM,latent variable method,893,"Therefore, we computed the accuracy for 6586 instances using the LVM and obtained 80.76 %."
+893,LVM,latent variable method,894,This comparison shows that our method is better than or at least comparable to the LVM.
