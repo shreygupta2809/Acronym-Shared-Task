@@ -79,3 +79,19 @@ $ python3 scorer_prev.py -g <path/to/bio_gold.json> -p <path/to/predictions.json
 ```
 
 Here the gold path contains the true values such as `data/english/scidr_dev.json`
+
+## Different Model Precictions Visualizer
+
+To see the difference in the predictions b/w 2 models and for predictions analysis and evaluation, we use the `models_visualizer.py` file. It takes 2 input csv files which formed by the merging the input_data.json file with the predictions.json file. This merging can be done using the `data_output_merger.py` file as follows:
+
+```bash
+$ python3 utils/data_output_merger.py <dir_name>
+```
+
+`dir_name` is the directory where the input and output resides. It is generally the folder created using the `cleaner.py` file.
+
+After creating the csv files for the models we wish to compare we can visualize the difference in the predictions of each model as follows:
+
+```bash
+$ python3 utils/models_visualizer.py <model_1_csv> <model_2_csv>
+```
