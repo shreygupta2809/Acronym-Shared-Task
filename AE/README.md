@@ -57,6 +57,28 @@ $ python3 code/baseline_prev.py -input <path/to/bio_format_input.json> -output <
 
 ## Our Model
 
+The `code/train.py` script can be used to reproduce our best model, as well as generate our other experiments.
+
+- Best performing model (scientific): 
+```bash
+$ python3 code/train.py --data-dir data/original/scientific \
+--domain "scientific" \
+--base-model "scibert-scivocab-cased" \
+--model-tag "original" \
+--mlp-hidden-dim 200 --mlp-hidden-layers 1 \
+--epochs 5 --train-batch-size 32 --seed 0    
+```
+
+- Best performing model (legal): 
+```bash
+$ python3 code/train.py --data-dir data/original/legal \
+--domain "legal" \
+--base-model "scibert-scivocab-cased" \
+--model-tag "original" \
+--mlp-hidden-dim 200 --mlp-hidden-layers 1 \
+--epochs 5 --train-batch-size 32 --seed 0    
+```
+
 # Evaluation
 
 To evaluate and score the predictions on the original data format, run the following command:
