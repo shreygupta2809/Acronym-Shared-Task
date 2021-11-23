@@ -1,23 +1,23 @@
 acronym_,expansion,id,text
-POS,part of speec,1,Dialogue fillers and acceptance words af- fect the accuracy of POS tagging.
-POS,part of speec,2,"Another possible explanation is that as a set of spoken dialogue data, Loqui is inherently more difficult to process than written form, since some common tasks such POS tagging have lower accuracy for spoken data."
-POS,part of speec,3,POS tags: we chose the GENIA dependency parser for parsing the corpus for two reasons.
-POS,part of speec,4,"We built up three systems based on Condi- tional Random Field for Chinese Word  Segmentation, Named Entity Recognition  and POS Tagging respectively."
-POS,part of speec,5,"Our final system achieve a F-score of  94.18 at CTB, 92.86 at NCC, 94.59 at SXU  on Segmentation, 85.26 at MSRA on  Named Entity Recognition, and 90.65 at  PKU on POS Ta"
-POS,part of speec,6,"The corpus has been part of speech tagged and lemmatized with Stanford POS Tagger (Toutanova et al.,"
-POS,part of speec,7,A Maximum Entropy Model  for POS Tagging.
-POS,part of speec,8,"In fact, the only POS tags  necessary are those indicating nouns and pro-  nouns ."
-POS,part of speec,9,"The training attributes  consist of lexical word attributes (surface word, stem  form, POS, semantic ode, morphological  attributes) applied to the anaphor, antecedent can-  didate, and clause predicate."
-POS,part of speec,10,Antecedent candidates are  identified according to noun phrase POS  tags.
-POS,part of speec,11,"Our preliminary experiments did not show noticeable improvements from bi- gram or character-based features, but it is pos- sible that higher-level features such as morpho- logical, POS or syntactic features could yield further performance gains."
-POS,part of speec,12,"Including the disjunctive POS types, just under half (49%) of the types in the grammar are provided by the Matrix."
-POS,part of speec,13,"This apparent parser overkill is a control  to ensure that the POS tags assigned  to words are the same when we use the previ-  ous noun heuristic and the Hobbs algorithm, to  which we wish to compare the previous noun  method."
-POS,part of speec,14,POS tags are not used in the n-gram system except to identify insertion points for missing prepositions and determiners.
-POS,part of speec,15,"log ntypes log ntokens ) POS distribution The relative frequen- cies of different parts of speech also correlate with essay grade, although more weakly so than the re- lated measure of average word length."
-POS,part of speec,16,"POS ambiguity,  3."
-POS,part of speec,17,POS tagging and chunking with hmm and crf.
-POS,part of speec,18,"POS, however, is not balanced across our seed sets."
-POS,part of speec,19,"POS, or ""class."""
+POS,Part-Of-Speech,1,Dialogue fillers and acceptance words af- fect the accuracy of POS tagging.
+POS,Part-Of-Speech,2,"Another possible explanation is that as a set of spoken dialogue data, Loqui is inherently more difficult to process than written form, since some common tasks such POS tagging have lower accuracy for spoken data."
+POS,Part-Of-Speech,3,POS tags: we chose the GENIA dependency parser for parsing the corpus for two reasons.
+POS,Part-Of-Speech,4,"We built up three systems based on Condi- tional Random Field for Chinese Word  Segmentation, Named Entity Recognition  and POS Tagging respectively."
+POS,Part-Of-Speech,5,"Our final system achieve a F-score of  94.18 at CTB, 92.86 at NCC, 94.59 at SXU  on Segmentation, 85.26 at MSRA on  Named Entity Recognition, and 90.65 at  PKU on POS Ta"
+POS,Part-Of-Speech,6,"The corpus has been part of speech tagged and lemmatized with Stanford POS Tagger (Toutanova et al.,"
+POS,Part-Of-Speech,7,A Maximum Entropy Model  for POS Tagging.
+POS,part-of-speech,8,"In fact, the only POS tags  necessary are those indicating nouns and pro-  nouns ."
+POS,part-of-speech,9,"The training attributes  consist of lexical word attributes (surface word, stem  form, POS, semantic ode, morphological  attributes) applied to the anaphor, antecedent can-  didate, and clause predicate."
+POS,part-of-speech,10,Antecedent candidates are  identified according to noun phrase POS  tags.
+POS,part-of-speech,11,"Our preliminary experiments did not show noticeable improvements from bi- gram or character-based features, but it is pos- sible that higher-level features such as morpho- logical, POS or syntactic features could yield further performance gains."
+POS,part-of-speech,12,"Including the disjunctive POS types, just under half (49%) of the types in the grammar are provided by the Matrix."
+POS,part-of-speech,13,"This apparent parser overkill is a control  to ensure that the POS tags assigned  to words are the same when we use the previ-  ous noun heuristic and the Hobbs algorithm, to  which we wish to compare the previous noun  method."
+POS,Part of speech,14,POS tags are not used in the n-gram system except to identify insertion points for missing prepositions and determiners.
+POS,Part of speech,15,"log ntypes log ntokens ) POS distribution The relative frequen- cies of different parts of speech also correlate with essay grade, although more weakly so than the re- lated measure of average word length."
+POS,Part of speech,16,"POS ambiguity,  3."
+POS,Part of speech,17,POS tagging and chunking with hmm and crf.
+POS,Part of speech,18,"POS, however, is not balanced across our seed sets."
+POS,Part of speech,19,"POS, or ""class."""
 POS,positive instances,20,Recall = #POS classified correctly#POS Precision = #POS classified correctly#instances classified as positive The above metrics evaluate the capability of the learned classifier in identifying posi- tive instances3.
 POS,positive instances,21,These heuristics filter out redundant constituents  and raise the ratio of POS in the  dataset.
 POS,positive instances,22,"DDI interaction 14.47% Interaction type effect 6.07% Interaction type advise 2.97% Interaction type mechanism 4.75% Interaction type int 0.68% Table 1: POS for the different class types The data is not balanced, as shown in table 1."
@@ -35,31 +35,31 @@ POS,Position,33,2 3 POS sets and binarizations Throughout this section we assume
 POS,Position,34,"POS of first appearance: the position  where a keyword first appears in a doc- ument, normalized by number of words  in the document."
 POS,Position,35,POS and scope of epis- temic phrases in planned and unplanned american english.
 POS,Position,36,"- Martin Feldstein Reagan?s first National Security advisor was quoted as declaring... - Chief Economic Advisor Government POSs Held: 967 1981 Jan 20, Ronald Reagan was sworn in as president as 52 American hostages - President of the United States boarded a plane in Tehran and headed toward freedom."
-POS,part of speec,37,"Helmut Schmid, 1994, Probabilistic POS Tag- ging Using Decision Trees, Intl."
-POS,part of speec,38,The 529 PoS tagging Lemmatisation PoS after Lemmas error rate error rate update after update French 4.50 % 2.29 % 1.92 % 1.22 % English 5.16 % 3.13 % 2.66 % 3.03 % Table 1: POS tagging and lemmatisation error rate on the test sentences average sentence length of a database entry is 9 words.
-POS,part of speec,39,"Arabic Tok- enization, POS Tagging and Morphological Disambiguation in One Fell Swoop."
-POS,part of speec,40,"l/,obust POS Tagging  Using a lIidden Markov Model."
-POS,part of speec,41,"770  Learning POS Guessing Rules from Lexicon:  Extension to Non-Concatenat ive Operations*  Andre i  M ikheev   HCRC Language Techno logy  Group  Un ivers i ty  of Ed inburgh   2 Buccleuch Place  Edinburgh EH8 9LW, Scotland, UK  : Andrei."
-POS,part of speec,42,"On the tech- nology side, the tutorial mainly covers Chinese  word segmentation and POS tagging."
-POS,part of speec,43,Transformation-Based Error-  Driven Learning and Natural Language  Processing: A Case Study in POSh  Tagging. (
-POS,part of speec,44,"A Simple Rule-Based POSh Tagger (Workshop On Speech And Natural Language, 1992) As Figure 1 shows, probabilistic models seem to have arrived significantly before classifiers."
-POS,part of speec,45,7 FirstLevel Preprocessing Second Level Preprocessing Editors and Interfaces Models and Other Applications Higher Level Multilingual NLP Applications Text Language-Encoding Identification Encoding Converters Text Normalization Sentence Splitting Tokenization Morphological Analyzer Encoding Converter Generator Model of Scripts Spell Checker Model of Morphology POSh Tagger Other Specialized Interfaces Text Editor Annotation Interfaces Local Word Grouper or Chunker Figure 1: One view of the basic computational in- frastructure required for Natural Language Process- ing or Computational Linguistics.
-POS,part of speec,46,"Linguistics features like POSh, Chunk, etc are also used."
-POS,part of speec,47,path through the parse  tree from the parse constituent  to  the predicate being classified  Position A binary feature identifying whether  the phrase is before or after the  predicate  Phrase Type The syntactic category of the phrase  corresponding to the argument  Phrase type of the  sibling to the left The syntactic category of the phrase  is sibling to the argument in the left Head Word and  POSh  The syntactic head of the phrase  First and last word  of the constituent  in focus  First and last word of phrase corre- sponding to the argument  Syntactic Frame The syntactic frame consists of the  NPs that surround the predicate  Table 1.
-POS,part of speec,48,WordNet (292) POSh (45) Precision (172) Probablistic CFG (43) Recall (167) FrameNet (38) Noun phrase (97) Conditional Random Field (29) Word sense disambiguation (60) Inverse document frequency (28) Support Vector Machine (60) PropBank (27) Hidden Markov Model (54) Context Free Grammar (25) Latent Semantic Analysis (57) Accuracy (20) Table 6: Subset of most frequently defined terms.
+POS,Part-of-Speech,37,"Helmut Schmid, 1994, Probabilistic POS Tag- ging Using Decision Trees, Intl."
+POS,Part-of-Speech,38,The 529 PoS tagging Lemmatisation PoS after Lemmas error rate error rate update after update French 4.50 % 2.29 % 1.92 % 1.22 % English 5.16 % 3.13 % 2.66 % 3.03 % Table 1: POS tagging and lemmatisation error rate on the test sentences average sentence length of a database entry is 9 words.
+POS,Part-of-Speech,39,"Arabic Tok- enization, POS Tagging and Morphological Disambiguation in One Fell Swoop."
+POS,Part-of-Speech,40,"l/,obust POS Tagging  Using a lIidden Markov Model."
+POS,Part-of-Speech,41,"770  Learning POS Guessing Rules from Lexicon:  Extension to Non-Concatenat ive Operations*  Andre i  M ikheev   HCRC Language Techno logy  Group  Un ivers i ty  of Ed inburgh   2 Buccleuch Place  Edinburgh EH8 9LW, Scotland, UK  : Andrei."
+POS,Part-of-Speech,42,"On the tech- nology side, the tutorial mainly covers Chinese  word segmentation and POS tagging."
+POS,Part Of Speec,43,Transformation-Based Error-  Driven Learning and Natural Language  Processing: A Case Study in POSh  Tagging. (
+POS,Part Of Speec,44,"A Simple Rule-Based POSh Tagger (Workshop On Speech And Natural Language, 1992) As Figure 1 shows, probabilistic models seem to have arrived significantly before classifiers."
+POS,Part Of Speec,45,7 FirstLevel Preprocessing Second Level Preprocessing Editors and Interfaces Models and Other Applications Higher Level Multilingual NLP Applications Text Language-Encoding Identification Encoding Converters Text Normalization Sentence Splitting Tokenization Morphological Analyzer Encoding Converter Generator Model of Scripts Spell Checker Model of Morphology POSh Tagger Other Specialized Interfaces Text Editor Annotation Interfaces Local Word Grouper or Chunker Figure 1: One view of the basic computational in- frastructure required for Natural Language Process- ing or Computational Linguistics.
+POS,Part Of Speec,46,"Linguistics features like POSh, Chunk, etc are also used."
+POS,Part Of Speec,47,path through the parse  tree from the parse constituent  to  the predicate being classified  Position A binary feature identifying whether  the phrase is before or after the  predicate  Phrase Type The syntactic category of the phrase  corresponding to the argument  Phrase type of the  sibling to the left The syntactic category of the phrase  is sibling to the argument in the left Head Word and  POSh  The syntactic head of the phrase  First and last word  of the constituent  in focus  First and last word of phrase corre- sponding to the argument  Syntactic Frame The syntactic frame consists of the  NPs that surround the predicate  Table 1.
+POS,Part Of Speec,48,WordNet (292) POSh (45) Precision (172) Probablistic CFG (43) Recall (167) FrameNet (38) Noun phrase (97) Conditional Random Field (29) Word sense disambiguation (60) Inverse document frequency (28) Support Vector Machine (60) PropBank (27) Hidden Markov Model (54) Context Free Grammar (25) Latent Semantic Analysis (57) Accuracy (20) Table 6: Subset of most frequently defined terms.
 POS,part of speec,49,MBT: A memory-based POSh tagger generator.
 POS,part of speec,50,"Turning this around, if a word which is ambiguous between a preposition and an- other POSh is not followed by the respective form till the end of the sentence, it is safe to discard the prepositional reading in almost all non-idiomatic, non-coordinated cases."
 POS,part of speec,51,"types, the powerset of 9 POSh types."
 POS,part of speec,52,"Since the nine proposed POSh types have varying crosslinguistic validity (e.g., not all languages have conjunctions), it might be better to provide software support for creating the disjunctive types as the need arises, rather than predefining them."
 POS,part of speec,53,"Setting aside the types for POSh disjunc- tions, 59% of the Matrix-provided types are invoked by the Wambaya-specific portion of the grammar."
 POS,part of speec,54,"Our framework opens up the possibility of efficiently adding many other con- straints that are directly applicable to word alignments, such as preferring alignments that respect dependency tree structure, POSh tags, or syntactic boundaries."
-POS,part of speec,55,Chinese POS tagging: One-at-a-time or all-at-once?
-POS,part of speec,56,c?2009 Association for Computational Linguistics     Tagging Urdu Text with POS: A Tagger Comparison    Hassan Sajjad  Universit?t Stuttgart  Stuttgart.
-POS,part of speec,57,"2.2 POS and Morphology  In traditional Sinhala grammar, several classifi- cations have been proposed for parts of speech."
-POS,part of speec,58,Development of a Web-scale Chinese Word N-gram Corpus  with POS Information.
-POS,part of speec,59,POS (PoS) extends the WoC model by appending each lexical feature with its part of speech.
-POS,part of speec,60,4.2 Extending the Approach to Other  POS  The two-step approach to generating verbal  morphology also presents advantages for the  inflectional morphology of nouns and  adjectives.
-POS,part of speec,61,POS Tagging.
+POS,partof-speech,55,Chinese POS tagging: One-at-a-time or all-at-once?
+POS,Parts of Speech,56,c?2009 Association for Computational Linguistics     Tagging Urdu Text with POS: A Tagger Comparison    Hassan Sajjad  Universit?t Stuttgart  Stuttgart.
+POS,Parts of Speech,57,"2.2 POS and Morphology  In traditional Sinhala grammar, several classifi- cations have been proposed for parts of speech."
+POS,Parts of Speech,58,Development of a Web-scale Chinese Word N-gram Corpus  with POS Information.
+POS,Parts of Speech,59,POS (PoS) extends the WoC model by appending each lexical feature with its part of speech.
+POS,Parts of Speech,60,4.2 Extending the Approach to Other  POS  The two-step approach to generating verbal  morphology also presents advantages for the  inflectional morphology of nouns and  adjectives.
+POS,Parts of Speech,61,POS Tagging.
 POS,postag,62,rel:POS=NN} ?{
 POS,postag,63,rel:POS=VBN} ?
 POS,postag,64,rel:POS=VBD} ?
