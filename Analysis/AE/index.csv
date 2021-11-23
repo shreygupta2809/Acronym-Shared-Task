@@ -1,0 +1,6 @@
+Sheet,Domain,Dataset 1,Model 1,Dataset 2,Model 2,Compares?
+sci_og_wspp,Scientific,original,Sci-BERT,symbols except parentheses deleted,Sci-BERT,Effect of removing special symbols on Scientific data
+leg_ogsb_wsppsb,Legal,original,Sci-BERT,symbols except parentheses deleted,Sci-BERT,Effect of removing special symbols on Legal data
+leg_ogb_wsppb,Legal,original,BERT,symbols except parentheses deleted,BERT,Effect of removing special symbols on Legal data
+leg_ogb_ogsb,Legal,original,BERT,original,Sci-BERT,Effect of Sci-BERT on Legal data
+leg_wsppb_wsppsb,Legal,symbols except parentheses deleted,Sci-BERT,symbols except parentheses deleted,Sci-BERT,Effect of Sci-BERT on Legal data
