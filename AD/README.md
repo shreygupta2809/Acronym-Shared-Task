@@ -44,6 +44,7 @@ The outputs have been stored in outputs/
 
 ## Our Model
 The code for running the final architecture is contained within `notebooks/acronym_disambiguation.ipynb` file. 
+The files generated after data processing are in `data/domain/combined_acronym_dict.json`. The most appropriate expansion key is selected from this dict and stored in `data/domain/fix_combined_acronym_dict.json`.
 
 ### Instructions to run:
 1. Open `notebooks/acronym_disambiguation.ipynb` and load the GPUs 
